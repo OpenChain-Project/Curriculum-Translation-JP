@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFT<ph x="0">&lt;t0/&gt;</ph>Designed for the <ph x="1">&lt;t1/&gt;</ph>OpenChain Specification 1.0</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170322T194658Z" creationid="maabou" creationdate="20170322T194658Z">
+        <seg>あああああああああああああああああああああああ<ph x="0">&lt;t0/&gt;</ph>ああああ<ph x="1">&lt;t1/&gt;</ph>OpenChain Specification 1.0</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
