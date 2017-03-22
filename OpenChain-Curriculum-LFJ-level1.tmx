@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170322T201923Z" creationid="maabou" creationdate="20170322T201923Z">
+        <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFTDesigned for the OpenChain Specification 1.0</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170322T194658Z" creationid="maabou" creationdate="20170322T194658Z">
-        <seg>あああああああああああああああああああああああああああOpenChain Specification 1.0</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
+        <seg>FOSSトレーニング参照資料 第2版 最終ドラフトOpenChain 仕様書  第1.0版対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Released under the Creative Commons CC0 1.0 Universal license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
+        <seg>本資料は Creative Commons CC0 1.0 Universal ライセンスの下でリリースされています。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

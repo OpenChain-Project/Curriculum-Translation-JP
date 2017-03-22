@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Curriculum</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170322T201923Z" creationid="maabou" creationdate="20170322T201923Z">
+        <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFT<ph x="0">&lt;t0/&gt;</ph>Designed for the <ph x="1">&lt;t1/&gt;</ph>OpenChain Specification 1.0</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170322T194658Z" creationid="maabou" creationdate="20170322T194658Z">
-        <seg>あああああああああああああああああああああああ<ph x="0">&lt;t0/&gt;</ph>ああああ<ph x="1">&lt;t1/&gt;</ph>OpenChain Specification 1.0</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
+        <seg>FOSSトレーニング参照資料 第2版 最終ドラフト<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph>OpenChain 仕様書  第1.0版対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Released under the <ph x="0">&lt;t0/&gt;</ph>Creative Commons CC0 1.0 Universal<ph x="1">&lt;t1/&gt;</ph> license.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
+        <seg>本資料は <ph x="0">&lt;t0/&gt;</ph>Creative Commons CC0 1.0 Universal<ph x="1">&lt;t1/&gt;</ph> ライセンスの下でリリースされています。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

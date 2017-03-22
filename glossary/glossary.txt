@@ -106,3 +106,5 @@ nevertheless	～にも関わらず
 ｃertify	証明する、認定する、保証する
 certify	証明する、保証する、認定する
 allow 	～させる
+ｄeck	資料	slide deckなどと使用する
+Deck	資料	slide deckなどと使用する
