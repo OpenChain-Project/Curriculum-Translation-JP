@@ -108,3 +108,7 @@ certify	証明する、保証する、認定する
 allow 	～させる
 ｄeck	資料	slide deckなどと使用する
 Deck	資料	slide deckなどと使用する
+law	法律制度、法体制、法秩序
+legal jurisdiction	司法権,法域
+issue	論点、重要な話題・問題、問題の核心
+deliver	声に出す、発生する	utter or pronounce
