@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;&lt;placeholder slide to identify where the FOSS policy can be found (OpenChain Specification 1.0, section 1.1.1)&gt;&gt;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T222009Z" creationid="maabou" creationdate="20170326T222009Z">
+        <seg>&lt;&lt;本スライドはFOSSポリシーが発見できる場所を明確にするためのページ（OpenChain仕様書1.0の1.1.1項）。プレースホルダ―として仮置き&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
@@ -14,10 +22,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Basic rule = copyright protects creative works</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T230632Z" creationid="maabou" creationdate="20170326T224048Z">
+        <seg>基本ルール＝著作権は独創的作品を保護する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T222016Z" creationid="maabou" creationdate="20170326T222016Z">
+        <seg>第1章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consumer and brand protection; avoid consumer confusion and brand dilution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T215943Z" creationid="maabou" creationdate="20170326T215943Z">
+        <seg>消費者とブランドを守る；消費者の混乱やブランドの希薄化を回避する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T062307Z" creationid="maabou" creationdate="20170325T062307Z">
         <seg>コンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright concepts in software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T224016Z" creationid="maabou" creationdate="20170326T224016Z">
+        <seg>ソフトウェアにおける著作権（コピーライト）の概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright generally applies to literary works, such as books, movies, pictures, music, maps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T224820Z" creationid="maabou" creationdate="20170326T224820Z">
+        <seg>一般的に著作権は、書籍、動画、絵画、音楽、地図などの文芸作品</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,10 +143,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Limited monopoly to incentivize innovation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T212709Z" creationid="maabou" creationdate="20170326T075636Z">
+        <seg>イノベーションを奨励するための限定された独占権</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patents: useful inventions that are novel, useful, non-obvious</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T074807Z" creationid="maabou" creationdate="20170326T074807Z">
-        <seg>特許（パテント）：新規性、有用性、非自明性をもつ有益な発明</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T220017Z" creationid="maabou" creationdate="20170326T074807Z">
+        <seg>特許権（パテント）：新規性、有用性、非自明性をもつ有益な発明</seg>
       </tuv>
     </tu>
     <tu>
@@ -135,6 +191,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Software is protected by copyright, not the functionality (that’s protected by patents) but the expression (creativity in implementation details)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T230904Z" creationid="maabou" creationdate="20170326T230620Z">
+        <seg>ソフトウェアは、著作権によって保護される。（特許権で保護される）機能ではなく表現（実装の細部における独創性）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>audiovisual materials：materialには作品という意味はないがニュアンスをくみ取って意訳する。
 semiconductor mask：半導体の転写する回路 パターンの原版であり、フォトマスク・マスクワークなどと同義。</note>
       <tuv lang="EN-US">
@@ -142,6 +206,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T073636Z" creationid="maabou" creationdate="20170326T071946Z">
         <seg>ソフトウェア、書物、音響・映像作品、半導体マスク（回路パターンの原版）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The copyright owner only has control over the work that he or she created, not someone else’s independent creation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T231457Z" creationid="maabou" creationdate="20170326T231457Z">
+        <seg>その作品の著作権保有者だけが、他の誰かの独立した創造物ではない、自らが作った作品をコントロールできる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +242,38 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter is focused on the “big picture” of Intellectual Property.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T222513Z" creationid="maabou" creationdate="20170326T222513Z">
+        <seg>本章は知的財産の"全体像"に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter is probably most useful for managers or developers who might not understand clearly the fundamentals of copyright, patent and trademark law.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T223008Z" creationid="maabou" creationdate="20170326T222616Z">
+        <seg>おそらく本章は著作権法、特許法、商標法の基礎について明確に理解していない可能性のある管理者や開発者にとって、最も有用なものとなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter will focus on copyright and patents, the areas most relevant to FOSS compliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T220210Z" creationid="maabou" creationdate="20170326T220011Z">
+        <seg>本章ではFOSSコンプライアンスに最も関係する、著作権と特許権に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This overview is not intended to cover all aspects of Intellectual Property.&lt;t0/&gt; It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T223813Z" creationid="maabou" creationdate="20170326T223057Z">
+        <seg>ここにある概説で知的財産のすべての側面を網羅することは意図していません。&lt;t0/&gt; ここで意図しているのは、"全体像"となる背景を提供し、当日議論するのがFOSSコンプライアンスにもっとも関係する著作権と特許権のみだということを確認してもらうことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This should be taken into account when using these slides as part of a compliance training program.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T002037Z" creationid="maabou" creationdate="20170325T001725Z">
@@ -178,10 +282,42 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide explains the&lt;t0/&gt; “big picture” of copyright in software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T223925Z" creationid="maabou" creationdate="20170326T223925Z">
+        <seg>このスライドでは、ソフトウェアの著作権についての&lt;t0/&gt; "全体像"を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide is intended to help a company identify where their internal FOSS policy is located in the company documentation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T222417Z" creationid="maabou" creationdate="20170326T222417Z">
+        <seg>このスライドで、企業が、社内文書として内部FOSSポリシーがどこにあるか特定しやすいようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This&lt;t0/&gt; slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T063452Z" creationid="maabou" creationdate="20170325T064522Z">
         <seg>この&lt;t0/&gt; スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trade secrets&lt;t0/&gt;: protects confidential and valuable information</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T215019Z" creationid="maabou" creationdate="20170326T215019Z">
+        <seg>営業秘密&lt;t0/&gt;：価値ある機密情報を保護する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trademarks: protects marks (word, logos, slogans, color, etc.) that identify the source of the product</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T215653Z" creationid="maabou" creationdate="20170326T215653Z">
+        <seg>商標：（言葉、ロゴ、標語、色などの）プロダクトの出所を識別する標識を保護する</seg>
       </tuv>
     </tu>
     <tu>
