@@ -21,15 +21,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>著作物：</note>
-      <tuv lang="EN-US">
-        <seg>Copyright: protects original works of authorship</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T063401Z" creationid="maabou" creationdate="20170326T063401Z">
-        <seg>著作権（コピーライト）：著作者の原作を保護する</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="EN-US">
         <seg>Curriculum</seg>
       </tuv>
@@ -94,36 +85,12 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
-        <seg>Limited monopoly to incentivize innovation</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T075636Z" creationid="maabou" creationdate="20170326T075636Z">
-        <seg>イノベーションを奨励する限定された独占権</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Patents: useful inventions that are novel, useful, non-obvious</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T074807Z" creationid="maabou" creationdate="20170326T074807Z">
-        <seg>特許（パテント）：新規性、有用性、非自明性をもつ有益な発明</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>question</note>
       <tuv lang="EN-US">
         <seg>Please note that each chapter has “Check Your Understanding” slides with questions and answers in the slide notes.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T023100Z" creationid="maabou" creationdate="20170325T022748Z">
         <seg>各章には質問形式の「理解度チェック」のスライドを設けていますのでご留意ください。回答はスライドのノート欄に記載されています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Protects expression (not the underlying idea)</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T071948Z" creationid="maabou" creationdate="20170326T070340Z">
-        <seg>（内面のアイデアではなく）表現を保護する</seg>
       </tuv>
     </tu>
     <tu>
@@ -140,16 +107,6 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063330Z" creationid="maabou" creationdate="20170325T063330Z">
         <seg>FOSSレビューを実施する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>audiovisual materials：materialには作品という意味はないがニュアンスをくみ取って意訳する。
-semiconductor mask：半導体の転写する回路 パターンの原版であり、フォトマスク・マスクワークなどと同義。</note>
-      <tuv lang="EN-US">
-        <seg>Software, books, audiovisual materials, semiconductor masks</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T073636Z" creationid="maabou" creationdate="20170326T071946Z">
-        <seg>ソフトウェア、書物、音響・映像作品、半導体マスク（回路パターンの原版）</seg>
       </tuv>
     </tu>
     <tu>
@@ -188,8 +145,8 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       <tuv lang="EN-US">
         <seg>This&lt;t0/&gt; slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T063452Z" creationid="maabou" creationdate="20170325T064522Z">
-        <seg>この&lt;t0/&gt; スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T055925Z" creationid="maabou" creationdate="20170325T064522Z">
+        <seg>本&lt;t0/&gt; スライドは単独で3時間のトレーニングセッションに関係します</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,14 +163,6 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T062321Z" creationid="maabou" creationdate="20170325T062321Z">
         <seg>知的財産とは何か？</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>What is “Intellectual Property”?</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T062732Z" creationid="maabou" creationdate="20170326T062732Z">
-        <seg>"知的財産”とは何か？</seg>
       </tuv>
     </tu>
     <tu>

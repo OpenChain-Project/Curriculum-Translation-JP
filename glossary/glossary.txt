@@ -59,7 +59,7 @@ track	追跡する、確認する	確認するは意訳
 section	節	いまのところ以下で整理しておく→章：Chapter、節：Section、項：Subsection-->参考：https://www.latex-tutorial.com/tutorials/beginners/latex-sections/
 current	現時点で、認められて、普及して、最新の（adj.）
 core set	中核となる一連の情報
-relevant	関連のある、今日的な意味がある
+relevant	関連のある、今日的な意味がある、対応する
 likely	ふさわしい、適している	以下サイトでは以下のように記載あり："seeming to fulfill requirements or expectations; apparently suitable"　http://www.dictionary.com/browse/likely?s=t
 achieving 	 達成する、実現する（attainment) 	辞書サイト引用：(1)something accomplished, especially by superior ability, special effort, great courage, etc.; a great or heroic deed:his remarkable achievements in art.(2)the act of achieving; attainment or accomplishment:the achievement of one's object.http://www.dictionary.com/browse/achievement
 assign	指名する、任命する、アサインする
@@ -112,3 +112,11 @@ law	法律制度、法体制、法秩序
 legal jurisdiction	司法権,法域
 issue	論点、重要な話題・問題、問題の核心
 deliver	声に出す、発生する	utter or pronounce
+introduction	導入、入門	"introduction to～"で～入門、～概論
+original work	原作
+authorship	著作者、原作者	著作物：著作権法では著述のほか、音楽・絵画・彫刻・建築・写真などの作品を含む
+series	系、連続
+material	素材、資料、特定の目的で書かれた情報・アイデア
+non-obvious	非自明性,進歩性	その分野の人なら容易に思いつくようなものではないことをいう。たとえば左ハンドルの車を見て右ハンドルの車を考案しても発明にはならない。米国で発明について特許を受けるための要件の一つで日本では「進歩性」がこれに相当するとある。https://ja.wikipedia.org/wiki/%E9%80%B2%E6%AD%A9%E6%80%A7
+incentivize	やる気を起こさせる、奨励する
+limited monopoly	限定された独占権	「限定」は、期間など

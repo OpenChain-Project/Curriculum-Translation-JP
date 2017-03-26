@@ -6,6 +6,31 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Avoiding Compliance Pitfalls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
+        <seg>コンプライアンスで陥る落とし穴を回避する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062307Z" creationid="maabou" creationdate="20170325T062307Z">
+        <seg>コンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>著作物：</note>
+      <tuv lang="EN-US">
+        <seg>Copyright: protects original works of authorship</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T063401Z" creationid="maabou" creationdate="20170326T063401Z">
+        <seg>著作権（コピーライト）：著作者の原作を保護する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curriculum</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T201923Z" creationid="maabou" creationdate="20170322T201923Z">
@@ -22,10 +47,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End to End Compliance Management (Example Process)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063433Z" creationid="maabou" creationdate="20170325T063433Z">
+        <seg>エンド ツー エンドのコンプライアンス管理（例となるプロセス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Policy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063919Z" creationid="maabou" creationdate="20170325T063919Z">
+        <seg>FOSS ポリシー、方針、方策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFTDesigned for the OpenChain Specification 1.0</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
         <seg>FOSSトレーニング参照資料 第2版 最終ドラフトOpenChain 仕様書  第1.0版対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to FOSS Compliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062648Z" creationid="maabou" creationdate="20170325T062648Z">
+        <seg>FOSSコンプライアンス概論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062624Z" creationid="maabou" creationdate="20170325T062624Z">
+        <seg>FOSSライセンス概論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Software Concepts for FOSS Review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063055Z" creationid="maabou" creationdate="20170325T063055Z">
+        <seg>FOSSレビューで重要となるソフトウェアの概念 Review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limited monopoly to incentivize innovation</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T075636Z" creationid="maabou" creationdate="20170326T075636Z">
+        <seg>イノベーションを奨励する限定された独占権</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patents: useful inventions that are novel, useful, non-obvious</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T074807Z" creationid="maabou" creationdate="20170326T074807Z">
+        <seg>特許（パテント）：新規性、有用性、非自明性をもつ有益な発明</seg>
       </tuv>
     </tu>
     <tu>
@@ -39,10 +120,36 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protects expression (not the underlying idea)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T071948Z" creationid="maabou" creationdate="20170326T070340Z">
+        <seg>（内面のアイデアではなく）表現を保護する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Released under the Creative Commons CC0 1.0 Universal license.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
         <seg>本資料は Creative Commons CC0 1.0 Universal ライセンスの下でリリースされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running a FOSS Review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063330Z" creationid="maabou" creationdate="20170325T063330Z">
+        <seg>FOSSレビューを実施する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>audiovisual materials：materialには作品という意味はないがニュアンスをくみ取って意訳する。
+semiconductor mask：半導体の転写する回路 パターンの原版であり、フォトマスク・マスクワークなどと同義。</note>
+      <tuv lang="EN-US">
+        <seg>Software, books, audiovisual materials, semiconductor masks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T073636Z" creationid="maabou" creationdate="20170326T071946Z">
+        <seg>ソフトウェア、書物、音響・映像作品、半導体マスク（回路パターンの原版）</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,6 +186,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T063452Z" creationid="maabou" creationdate="20170325T064522Z">
+        <seg>この スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to the OpenChain Curriculum Slides.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T001925Z" creationid="maabou" creationdate="20170325T001925Z">
@@ -86,12 +201,28 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>What is Intellectual Property?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062321Z" creationid="maabou" creationdate="20170325T062321Z">
+        <seg>知的財産とは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is “Intellectual Property”?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T062732Z" creationid="maabou" creationdate="20170326T062732Z">
+        <seg>"知的財産”とは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここのdeliverは難しい。文脈的には、「そのままトレーニングのパッケージとして使える」というニュアンスだと捉えた。単純に「資料として配付する」というニュアンスだと弱い印象があった。後半部分は、「まとめて一日半のトレーニング」でなくても「章ごとに分けたトレーニング構成でもよい」、という意味でとらえている。</note>
       <tuv lang="EN-US">
         <seg>You can deliver these slides as one half-day training session or you can deliver each chapter as a separate module.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170325T022154Z" creationid="maabou" creationdate="20170325T020454Z">
-        <seg>このスライドを一日半のトレーニングセッションとして提供することができます。各章を分け、個別のモジュールとして構成した形で提供することも可能です。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T064541Z" creationid="maabou" creationdate="20170325T020454Z">
+        <seg>このスライドを半日のトレーニングセッションとして提供することができます。各章を分け、個別のモジュールとして構成した形で提供することも可能です。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
