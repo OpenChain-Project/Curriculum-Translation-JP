@@ -72,8 +72,8 @@
       <tuv xml:lang="EN-US">
         <seg>Copyright rights most relevant to software</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170326T231717Z" creationid="maabou" creationdate="20170326T231717Z">
-        <seg>著作権はソフトウェアに最も関係する</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170329T121301Z" creationid="maabou" creationdate="20170326T231717Z">
+        <seg>ソフトウェアにもっとも関係する著作権</seg>
       </tuv>
     </tu>
     <tu>
@@ -99,6 +99,15 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170325T001815Z" creationid="maabou" creationdate="20170325T001553Z">
         <seg>法域が異なる場合においては法的要求事項が異なる場合がありますので</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここでのentityをどう訳すか。おそらくは人から人だけなくコンピュータ間などのケースなども含めているニュアンスだとすると「実体」のままでよいようにも思う。</note>
+      <tuv xml:lang="EN-US">
+        <seg>Distribution is generally viewed as the provision of a copy of a piece of software in binary or source code form to another entity (an individual or organization outside your company or organization)</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170331T051732Z" creationid="maabou" creationdate="20170331T051732Z">
+        <seg>配布とは、一般的に、ソフトウェア部品のコピーをバイナリもしくはソースコードの形態である実体（個人や外部の企業や組織）からある実体へ提供する行為とみなされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -155,6 +164,22 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170326T212709Z" creationid="maabou" creationdate="20170326T075636Z">
         <seg>イノベーションを奨励するための限定された独占権</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution” is subject to debate in the FOSS community and within FOSS legal circles</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170331T052600Z" creationid="maabou" creationdate="20170331T052600Z">
+        <seg>注：何をもって"二次的著作物"、"配布"とするかの解釈はFOSSコミュニティとFOSSの法的領域における考慮された内容に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Patent concepts in software</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170331T052636Z" creationid="maabou" creationdate="20170331T052636Z">
+        <seg>ソフトウェアにおける特許の概念</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +251,40 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The right to <ph x="0">&lt;t0/&gt;</ph>distribute</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170331T050425Z" creationid="maabou" creationdate="20170331T050425Z">
+        <seg> <ph x="0">&lt;t0/&gt;</ph>配布する権利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right to <ph x="0">&lt;t0/&gt;</ph>reproduce <ph x="1">&lt;t1/&gt;</ph>the software – making copies</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170329T121236Z" creationid="maabou" creationdate="20170329T120809Z">
+        <seg>ソフトウェアを <ph x="0">&lt;t0/&gt;</ph>複製する <ph x="1">&lt;t1/&gt;</ph>権利 – コピーを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The right to create "<ph x="0">&lt;t0/&gt;</ph>derivative works<ph x="1">&lt;t1/&gt;</ph>" – making modifications</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170329T120907Z" creationid="maabou" creationdate="20170329T120907Z">
+        <seg>"<ph x="0">&lt;t0/&gt;</ph>二次的著作物<ph x="1">&lt;t1/&gt;</ph>" を作る権利– 修正を加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここのtermはどう訳すか。条項とすべきか、用語とすべきか
+</note>
+      <tuv xml:lang="EN-US">
+        <seg>The term derivative work refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy (note that this is a term of art under US law)</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170331T045141Z" creationid="maabou" creationdate="20170331T045024Z">
+        <seg>二次的著作物という用語はその新しい著作物が著作権者の原作に基づいて表現できるように、原作に対し十分に独創的で創造的な作業が加えらた、原作に基づく新しい作品のことを言います。（なおこの用語は米国法令に基づいているのでご留意ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>These can be used as the basis for in-house tests for FOSS compliance.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170325T023015Z" creationid="maabou" creationdate="20170325T023015Z">
@@ -286,6 +345,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170325T002037Z" creationid="maabou" creationdate="20170325T001725Z">
         <seg>コンプライアンス トレーニング プログラムの一部で本スライドを使う際にはこの点を考慮する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This slide clarifies the most important part<ph x="0">&lt;t0/&gt;</ph>s of copyright law to software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170331T052742Z" creationid="maabou" creationdate="20170331T052742Z">
+        <seg>このスライドは、ソフトウェアに対する著作権法の<ph x="0">&lt;t0/&gt;</ph>最重要部分を明確にしています。</seg>
       </tuv>
     </tu>
     <tu>

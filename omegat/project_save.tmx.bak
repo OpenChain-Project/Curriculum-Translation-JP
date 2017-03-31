@@ -69,6 +69,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright rights most relevant to software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170329T121301Z" creationid="maabou" creationdate="20170326T231717Z">
+        <seg>ソフトウェアにもっとも関係する著作権</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>著作物：</note>
       <tuv lang="EN-US">
         <seg>Copyright: protects original works of authorship</seg>
@@ -91,6 +99,15 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T001815Z" creationid="maabou" creationdate="20170325T001553Z">
         <seg>法域が異なる場合においては法的要求事項が異なる場合がありますので</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここでのentityをどう訳すか。おそらくは人から人だけなくコンピュータ間などのケースなども含めているニュアンスだとすると「実体」のままでよいようにも思う。</note>
+      <tuv lang="EN-US">
+        <seg>Distribution is generally viewed as the provision of a copy of a piece of software in binary or source code form to another entity (an individual or organization outside your company or organization)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170331T051732Z" creationid="maabou" creationdate="20170331T051732Z">
+        <seg>配布とは、一般的に、ソフトウェア部品のコピーをバイナリもしくはソースコードの形態である実体（個人や外部の企業や組織）からある実体へ提供する行為とみなされます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -212,8 +229,42 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       <tuv lang="EN-US">
         <seg>The copyright owner only has control over the work that he or she created, not someone else’s independent creation</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170326T231457Z" creationid="maabou" creationdate="20170326T231457Z">
-        <seg>その作品の著作権保有者だけが、他の誰かの独立した創造物ではない、自らが作った作品をコントロールできる。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
+        <seg>その作品の著作権保有者だけが、他の誰かが独立して創造したものではない、自らが創造した作品のコントロールができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to &lt;t0/&gt;distribute</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170331T050425Z" creationid="maabou" creationdate="20170331T050425Z">
+        <seg> &lt;t0/&gt;配布する権利</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to &lt;t0/&gt;reproduce &lt;t1/&gt;the software – making copies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170329T121236Z" creationid="maabou" creationdate="20170329T120809Z">
+        <seg>ソフトウェアを &lt;t0/&gt;複製する &lt;t1/&gt;権利 – コピーを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The right to create "&lt;t0/&gt;derivative works&lt;t1/&gt;" – making modifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170329T120907Z" creationid="maabou" creationdate="20170329T120907Z">
+        <seg>"&lt;t0/&gt;二次的著作物&lt;t1/&gt;" を作る権利– 修正を加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここのtermはどう訳すか。条項とすべきか、用語とすべきか
+</note>
+      <tuv lang="EN-US">
+        <seg>The term derivative work refers to a new work based upon an original work to which enough original creative work has been added so that the new work represents an original work of authorship rather than a copy (note that this is a term of art under US law)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170331T045141Z" creationid="maabou" creationdate="20170331T045024Z">
+        <seg>二次的著作物という用語はその新しい著作物が著作権者の原作に基づいて表現できるように、原作に対し十分に独創的で創造的な作業が加えらた、原作に基づく新しい作品のことを言います。（なおこの用語は米国法令に基づいているのでご留意ください。</seg>
       </tuv>
     </tu>
     <tu>
