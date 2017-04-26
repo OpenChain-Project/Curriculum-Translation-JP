@@ -38,7 +38,7 @@ contribute	コントリビュート	貢献だとわかりづらいのでその�
 preparing	整える	使えるようにするといった意味
 contractor	請負業者
 contractor	契約者	契約によって労働を提供する人のこと。契約社員といってよいのかどうか。
-distributed	配布された、頒布された
+distributed	配布された、頒布された	ML議論で「頒布」を使う方針になった。
 foundation	ファンデーション	ファウンデーションとするか悩みどころ
 third parties	サードパーティ	そのままカタカナ表記
 third parties	第三者	文脈によっては日本語で表記
@@ -128,3 +128,6 @@ literary	著述の、文学の、文芸の	文芸として広く捉える場合�
 entity	実体
 subject to	依存する、影響下・支配下にある
 circle	サークル、団体、分野、領域
+method of operation	演算方法	特許などの用語の模様
+independent creation	独立創作	以下サイトを参照。www.itlaw.jp/USCCLII.pdf
+offer for sale	販売申し入れ（の権利）	SaleとOffer to(for) Saleの定義はこちら：http://www.investopedia.com/exam-guide/series-66/regulation-of-securities/sale-and-offer-to-sell.asp 訳の例としてはこちら： https://conyac.cc/ja/questions/64082
