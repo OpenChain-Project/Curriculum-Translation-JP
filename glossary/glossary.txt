@@ -3,7 +3,7 @@ conformance	適合性
 specification	仕様	仕様書
 specification	仕様書	仕様の意味でも使う
 conformance specification	適合仕様	意味：適合性を確認するための仕様
-FOSS	フリー/オープンソース ソフトウェア	Free/Open Source Software
+FOSS	フリー／オープンソース ソフトウェア	Free/Open Source Software
 Version 	版	【例】Version X.X = 第X.X版
 introduction	序文、はしがき、初めに、序論	言い回しはいろいろあるので文書特性に応じて使い分けること
 initiative	イニシアチブ	基本的に日本語に変えずに用いたほうがよさそう
@@ -28,7 +28,7 @@ deliver	やりとりする	やりとりする→ちょっと意訳
 collateral	付随事項	意味：派生事項的な意味。以下から→http://www.dictionary.com/browse/collateral?s=t
 qualitｙ	属性
 verification artifacts	検証対象	ここは意訳なので、要議論
-free and open source software	フリー/オープンソース ソフトウェア
+free and open source software	フリー／オープンソース ソフトウェア
 Open Source Initiative	オープンソース イニシアティブ	団体名（固有名詞）
 Free Software Foundation	フリーソフトウェア ファウンデーション	団体の固有名称につきそのままカタカナ表記する。
 liaison	窓口	辞書では連絡係、通信係といった意味があるが、窓口がわかり易い
@@ -106,8 +106,8 @@ nevertheless	～にも関わらず
 ｃertify	証明する、認定する、保証する
 certify	証明する、保証する、認定する
 allow 	～させる
-ｄeck	資料	slide deckなどと使用する
-Deck	資料	slide deckなどと使用する
+deck	資料	「slide deck」などと使用する
+Deck	資料	「slide deck」などと使用する
 law	法律制度、法体制、法秩序
 legal jurisdiction	司法権,法域
 issue	論点、重要な話題・問題、問題の核心
