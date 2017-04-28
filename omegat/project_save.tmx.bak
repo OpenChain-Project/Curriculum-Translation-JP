@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A "license" is the way a copyright or patent holder gives permission or rights to someone else</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002641Z" creationid="maabou" creationdate="20170428T002641Z">
+        <seg>「ライセンス」は、著作権や特許の保有者が他者に対し許諾や権利を供与するやり方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T222016Z" creationid="maabou" creationdate="20170326T222016Z">
         <seg>第1章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check Your Understanding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T061943Z" creationid="maabou" creationdate="20170428T061943Z">
+        <seg>理解度チェック</seg>
       </tuv>
     </tu>
     <tu>
@@ -119,11 +135,30 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani:  reciprocal licenseについては、脚注などが必要な気がする。
+</note>
+      <tuv lang="EN-US">
+        <seg>E.g, provide attribution, give a reciprocal license</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T061510Z" creationid="maabou" creationdate="20170428T061510Z">
+        <seg>例）帰属を提供する、互恵的ライセンスを供与する</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>End to End Compliance Management (Example Process)</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063433Z" creationid="maabou" creationdate="20170325T063433Z">
         <seg>エンド ツー エンドのコンプライアンス管理（例となるプロセス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここでのtermは「期間」とした。「条件」の意味はこの後conditionという言葉があるのでいまいち違う感じがしたため。</note>
+      <tuv lang="EN-US">
+        <seg>Exclusive or non-exclusive terms</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T061608Z" creationid="maabou" creationdate="20170428T051143Z">
+        <seg>独占的な期間、非独占的な期間</seg>
       </tuv>
     </tu>
     <tu>
@@ -140,6 +175,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
         <seg>FOSSトレーニング参照資料 第2版 最終ドラフト&lt;t0/&gt;&lt;t1/&gt;OpenChain 仕様書  第1.0版対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Geographical scope</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T051153Z" creationid="maabou" creationdate="20170428T051153Z">
+        <seg>地理的な範囲</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,6 +211,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002458Z" creationid="maabou" creationdate="20170428T002458Z">
+        <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Limited monopoly to incentivize innovation</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T212709Z" creationid="maabou" creationdate="20170326T075636Z">
@@ -176,10 +227,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T061909Z" creationid="maabou" creationdate="20170428T061909Z">
+        <seg>保証、免責、サポート、アップグレード、保守に関する契約事項も含まれる場合がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution” is subject to debate in the FOSS community and within FOSS legal circles</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170426T054553Z" creationid="maabou" creationdate="20170331T052600Z">
-        <seg>注：何をもって"二次的著作物"、"頒布"とするかの解釈はFOSSコミュニティとFOSSの法的領域で考慮された内容に依存します。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T050226Z" creationid="maabou" creationdate="20170331T052600Z">
+        <seg>注：何をもって「二次的著作物」、「頒布」とするかの解釈はFOSSコミュニティとFOSSの法的領域で考慮された内容に依存します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -212,6 +271,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220017Z" creationid="maabou" creationdate="20170326T074807Z">
         <seg>特許権（パテント）：新規性、有用性、非自明性をもつ有益な発明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Perpetual or time limited duration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T051720Z" creationid="maabou" creationdate="20170428T051451Z">
+        <seg>無期限か、期限付きか</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,6 +338,23 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
         <seg>その作品の著作権保有者だけが、他の誰かが独立して創造したものではない、自らが創造した作品のコントロールができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license can be limited to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T050554Z" creationid="maabou" creationdate="20170428T002658Z">
+        <seg>ライセンスは以下に対し制限されうる：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここでのmeainngはちょっと意訳して「つまり」としてみた</note>
+      <tuv lang="EN-US">
+        <seg>The license can have conditions on the grants, meaning you only get the license if you comply with certain obligations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T061003Z" creationid="maabou" creationdate="20170428T052138Z">
+        <seg>ライセンスはその供与に条件を持たせることができる。すなわち何らかの義務を満たした場合にのみ、そのライセンスを得るということ。</seg>
       </tuv>
     </tu>
     <tu>
@@ -433,6 +517,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T215653Z" creationid="maabou" creationdate="20170326T215653Z">
         <seg>商標：（言葉、ロゴ、標語、色などの）プロダクトの出所を識別する標識を保護する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Types of use allowed (distribution, derivative works / to make, have made, manufacture)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T050835Z" creationid="maabou" creationdate="20170428T030257Z">
+        <seg>使用分類（頒布、二次的著作物、作る、作らせる、加工する）</seg>
       </tuv>
     </tu>
     <tu>
