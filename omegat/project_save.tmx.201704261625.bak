@@ -14,14 +14,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A "license" is the way a copyright or patent holder gives permission or rights to someone else</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T002641Z" creationid="maabou" creationdate="20170428T002641Z">
-        <seg>「ライセンス」は、著作権や特許の保有者が他者に対し許諾や権利を供与するやり方</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
@@ -144,10 +136,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFTDesigned for the OpenChain Specification 1.0</seg>
+        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFT&lt;t0/&gt;Designed for the &lt;t1/&gt;OpenChain Specification 1.0</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
-        <seg>FOSSトレーニング参照資料 第2版 最終ドラフトOpenChain 仕様書  第1.0版対応</seg>
+        <seg>FOSSトレーニング参照資料 第2版 最終ドラフト&lt;t0/&gt;&lt;t1/&gt;OpenChain 仕様書  第1.0版対応</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,18 +160,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Key Software Concepts for FOSS Review</seg>
+        <seg>Key Software Concepts for FOSS&lt;t0/&gt; Review</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063055Z" creationid="maabou" creationdate="20170325T063055Z">
-        <seg>FOSSレビューで重要となるソフトウェアの概念 Review</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Licenses</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T002458Z" creationid="maabou" creationdate="20170428T002458Z">
-        <seg>ライセンス</seg>
+        <seg>FOSSレビューで重要となるソフトウェアの概念&lt;t0/&gt; Review</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,8 +186,8 @@
       <tuv lang="EN-US">
         <seg>Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T002231Z" creationid="maabou" creationdate="20170426T072528Z">
-        <seg>他者がそのテクノロジを使いたいという場合、特許ライセンス（使用権、作る・作らせる権利（Have made権）、販売・販売申し入れの権利およびその技術を輸入する権利などを供与）を求めることができる。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170426T072528Z" creationid="maabou" creationdate="20170426T072528Z">
+        <seg>そのテクノロジを使いたいという場合には、（使用権、作る・作らせる権利（Have made権）、販売・販売申し入れの権利およびその技術を輸入する権利などを供与する）特許ライセンスを求めることができるｓ</seg>
       </tuv>
     </tu>
     <tu>
@@ -249,10 +233,10 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Released under the Creative Commons CC0 1.0 Universal license.</seg>
+        <seg>Released under the &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; license.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
-        <seg>本資料は Creative Commons CC0 1.0 Universal ライセンスの下でリリースされています。</seg>
+        <seg>本資料は &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; ライセンスの下でリリースされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -291,14 +275,6 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The license can be limited to:</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T002658Z" creationid="maabou" creationdate="20170428T002658Z">
-        <seg>ライセンスによって以下を制限することができる</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>The patent owner has the right to stop anybody from exercising that functionality, regardless of independent creation</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170426T062724Z" creationid="maabou" creationdate="20170426T061745Z">
@@ -307,26 +283,26 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The right to distribute</seg>
+        <seg>The right to &lt;t0/&gt;distribute</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170426T052654Z" creationid="maabou" creationdate="20170331T050425Z">
-        <seg> 頒布する権利</seg>
+        <seg> &lt;t0/&gt;頒布する権利</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The right to reproduce the software – making copies</seg>
+        <seg>The right to &lt;t0/&gt;reproduce &lt;t1/&gt;the software – making copies</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170329T121236Z" creationid="maabou" creationdate="20170329T120809Z">
-        <seg>ソフトウェアを 複製する 権利 – コピーを作成する</seg>
+        <seg>ソフトウェアを &lt;t0/&gt;複製する &lt;t1/&gt;権利 – コピーを作成する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The right to create "derivative works" – making modifications</seg>
+        <seg>The right to create "&lt;t0/&gt;derivative works&lt;t1/&gt;" – making modifications</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170329T120907Z" creationid="maabou" creationdate="20170329T120907Z">
-        <seg>"二次的著作物" を作る権利– 修正を加える</seg>
+        <seg>"&lt;t0/&gt;二次的著作物&lt;t1/&gt;" を作る権利– 修正を加える</seg>
       </tuv>
     </tu>
     <tu>
@@ -349,10 +325,10 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>These slides can be used to help train internal teams about FOSS compliance issues and to conform with the OpenChain Specification.</seg>
+        <seg>These slides can be used&lt;t0/&gt; to help train internal teams about FOSS compliance issues and to conform with the OpenChain Specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T020508Z" creationid="maabou" creationdate="20170325T010131Z">
-        <seg>本スライドは、組織内チームに向けたFOSSコンプライアンスに係る重要事項についてトレーニングを実施する際のヘルプやOpenChainの仕様との照らし合わせに用いることができます。</seg>
+        <seg>本スライドは、組織内チームに向けたFOSSコンプライアンスに係る重要事項についてトレーニングを実施する際のヘルプや&lt;t0/&gt;OpenChainの仕様との照らし合わせに用いることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -389,10 +365,10 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This overview is not intended to cover all aspects of Intellectual Property. It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.</seg>
+        <seg>This overview is not intended to cover all aspects of Intellectual Property.&lt;t0/&gt; It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T223813Z" creationid="maabou" creationdate="20170326T223057Z">
-        <seg>ここにある概説で知的財産のすべての側面を網羅することは意図していません。 ここで意図しているのは、"全体像"となる背景を提供し、当日議論するのがFOSSコンプライアンスにもっとも関係する著作権と特許権のみだということを確認してもらうことです。</seg>
+        <seg>ここにある概説で知的財産のすべての側面を網羅することは意図していません。&lt;t0/&gt; ここで意図しているのは、"全体像"となる背景を提供し、当日議論するのがFOSSコンプライアンスにもっとも関係する著作権と特許権のみだということを確認してもらうことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -405,26 +381,18 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide clarifies the most important parts of copyright law to software.</seg>
+        <seg>This slide clarifies the most important part&lt;t0/&gt;s of copyright law to software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
-        <seg>このスライドでは、ソフトウェアに対する著作権法の最重要部分を明確にしています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170331T052742Z" creationid="maabou" creationdate="20170331T052742Z">
+        <seg>このスライドは、ソフトウェアに対する著作権法の&lt;t0/&gt;最重要部分を明確にしています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide explains the “big picture” of copyright in software.</seg>
+        <seg>This slide explains the&lt;t0/&gt; “big picture” of copyright in software.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T223925Z" creationid="maabou" creationdate="20170326T223925Z">
-        <seg>このスライドでは、ソフトウェアの著作権についての "全体像"を説明しています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This slide explains patent concepts relevant to software.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T002424Z" creationid="maabou" creationdate="20170428T002244Z">
-        <seg>このスライドでは、ソフトウェアに関連する 特許の概念を説明しています。</seg>
+        <seg>このスライドでは、ソフトウェアの著作権についての&lt;t0/&gt; "全体像"を説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -437,18 +405,18 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
+        <seg>This&lt;t0/&gt; slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T063452Z" creationid="maabou" creationdate="20170325T064522Z">
-        <seg>この スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
+        <seg>この&lt;t0/&gt; スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Trade secrets: protects confidential and valuable information</seg>
+        <seg>Trade secrets&lt;t0/&gt;: protects confidential and valuable information</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T215019Z" creationid="maabou" creationdate="20170326T215019Z">
-        <seg>営業秘密：価値ある機密情報を保護する</seg>
+        <seg>営業秘密&lt;t0/&gt;：価値ある機密情報を保護する</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,7 +454,7 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     <tu>
       <note>tani:ここのdeliverは難しい。文脈的には、「そのままトレーニングのパッケージとして使える」というニュアンスだと捉えた。単純に「資料として配付する」というニュアンスだと弱い印象があった。後半部分は、「まとめて一日半のトレーニング」でなくても「章ごとに分けたトレーニング構成でもよい」、という意味でとらえている。</note>
       <tuv lang="EN-US">
-        <seg>You can deliver these slides as one half-day training session or you can deliver each chapter as a separate module.</seg>
+        <seg>You can deliver these slides as one half-day training session or you&lt;t0/&gt; can deliver each chapter as a separate module.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T064541Z" creationid="maabou" creationdate="20170325T020454Z">
         <seg>このスライドを半日のトレーニングセッションとして提供することができます。各章を分け、個別のモジュールとして構成した形で提供することも可能です。</seg>

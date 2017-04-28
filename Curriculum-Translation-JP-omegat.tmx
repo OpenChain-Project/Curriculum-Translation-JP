@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A "license" is the way a copyright or patent holder gives permission or rights to someone else</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002641Z" creationid="maabou" creationdate="20170428T002641Z">
+        <seg>「ライセンス」は、著作権や特許の保有者が他者に対し許諾や権利を供与するやり方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
@@ -168,6 +176,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002458Z" creationid="maabou" creationdate="20170428T002458Z">
+        <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Limited monopoly to incentivize innovation</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T212709Z" creationid="maabou" creationdate="20170326T075636Z">
@@ -186,8 +202,8 @@
       <tuv lang="EN-US">
         <seg>Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170426T072528Z" creationid="maabou" creationdate="20170426T072528Z">
-        <seg>そのテクノロジを使いたいという場合には、（使用権、作る・作らせる権利（Have made権）、販売・販売申し入れの権利およびその技術を輸入する権利などを供与する）特許ライセンスを求めることができるｓ</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002231Z" creationid="maabou" creationdate="20170426T072528Z">
+        <seg>他者がそのテクノロジを使いたいという場合、特許ライセンス（使用権、作る・作らせる権利（Have made権）、販売・販売申し入れの権利およびその技術を輸入する権利などを供与）を求めることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,6 +287,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
         <seg>その作品の著作権保有者だけが、他の誰かが独立して創造したものではない、自らが創造した作品のコントロールができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The license can be limited to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002658Z" creationid="maabou" creationdate="20170428T002658Z">
+        <seg>ライセンスによって以下を制限することができる</seg>
       </tuv>
     </tu>
     <tu>
@@ -383,8 +407,8 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       <tuv lang="EN-US">
         <seg>This slide clarifies the most important part&lt;t0/&gt;s of copyright law to software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170331T052742Z" creationid="maabou" creationdate="20170331T052742Z">
-        <seg>このスライドは、ソフトウェアに対する著作権法の&lt;t0/&gt;最重要部分を明確にしています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
+        <seg>このスライドでは、ソフトウェアに対する著作権法の&lt;t0/&gt;最重要部分を明確にしています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -393,6 +417,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T223925Z" creationid="maabou" creationdate="20170326T223925Z">
         <seg>このスライドでは、ソフトウェアの著作権についての&lt;t0/&gt; "全体像"を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains&lt;t0/&gt; patent concepts relevant to software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170428T002424Z" creationid="maabou" creationdate="20170428T002244Z">
+        <seg>このスライドでは、ソフトウェアに関連する&lt;t0/&gt; 特許の概念を説明しています。</seg>
       </tuv>
     </tu>
     <tu>
