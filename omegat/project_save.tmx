@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A patent license?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T075154Z" creationid="maabou" creationdate="20170501T075154Z">
+        <seg>特許の場合は？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
@@ -38,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can software be subject to a patent?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T074754Z" creationid="maabou" creationdate="20170501T074730Z">
+        <seg>ソフトウェアが特許を受けることができますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 1</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T222016Z" creationid="maabou" creationdate="20170326T222016Z">
         <seg>第1章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chapter 2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T075452Z" creationid="maabou" creationdate="20170501T075342Z">
+        <seg>第2章</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +106,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T224820Z" creationid="maabou" creationdate="20170326T224820Z">
         <seg>一般的に著作権は、書籍、動画、絵画、音楽、地図などの文芸作品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright protects original works of authorship.It's different than patent in that copyright protects the expression of an idea, whereas patent protects the underlying idea itself.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T081155Z" creationid="maabou" creationdate="20170501T081155Z">
+        <seg>著作権は原作者の原作を保護します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -183,6 +215,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T051153Z" creationid="maabou" creationdate="20170428T051153Z">
         <seg>地理的な範囲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you independently develop your own software, is it possible that you might need a copyright license from a third party for that software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T075208Z" creationid="maabou" creationdate="20170501T075143Z">
+        <seg>単独で自分のソフトウェアを開発した場合、第三者からそのソフトウェアについて著作権ライセンスを必要となるということはありえますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,12 +536,20 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This slides explains the boundaries of what can be in a license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T075820Z" creationid="maabou" creationdate="20170501T075820Z">
+        <seg>ここではライセンスの中にどういったものがあるか、その境界を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:後半部分が何を意味しているかがいまいち読み取れず。ここで描かれている「ライセンス」の意味がUS法で意味するところと違っているということか？</note>
       <tuv lang="EN-US">
         <seg>This&lt;t0/&gt; slide explains what is a “license.” This is different to a contract under US law.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T062440Z" creationid="maabou" creationdate="20170428T062440Z">
-        <seg>この&lt;t0/&gt; スライドは、「ライセンス」とは何かを説明しています。これは米国法令下での契約とは違っています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T072317Z" creationid="maabou" creationdate="20170428T062440Z">
+        <seg>この&lt;t0/&gt; スライドは、「ライセンス」とは何かを説明しています。本内容は米国法令下での契約と異なっています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -529,11 +577,12 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
     </tu>
     <tu>
+      <note>tani:ここでのtypeは「種別」とした。</note>
       <tuv lang="EN-US">
         <seg>Types of use allowed (distribution, derivative works / to make, have made, manufacture)</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170428T050835Z" creationid="maabou" creationdate="20170428T030257Z">
-        <seg>使用分類（頒布、二次的著作物、作る、作らせる、加工する）</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T073040Z" creationid="maabou" creationdate="20170428T030257Z">
+        <seg>許可される使用種別（頒布、二次的著作物、作る、作らせる、加工する）</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +591,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T001925Z" creationid="maabou" creationdate="20170325T001925Z">
         <seg>OpenChain カリキュラムのスライドへようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What copyright rights are most important for software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T074813Z" creationid="maabou" creationdate="20170501T074029Z">
+        <seg>ソフトウェアにとってもっとも重要なのはどのような著作権ですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +615,23 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T062732Z" creationid="maabou" creationdate="20170326T062732Z">
         <seg>"知的財産”とは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What rights does a patent give to the patent owner?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T074903Z" creationid="maabou" creationdate="20170501T074903Z">
+        <seg>特許はその保有者に対しどういった権利を付与しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここのmaterialは単純に「もの」と表現。copyright material で著作物という用語になるが、著作物というと文章がおかしくなってしまうので。</note>
+      <tuv lang="EN-US">
+        <seg>What type of material does copyright law protect?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T073740Z" creationid="maabou" creationdate="20170501T072350Z">
+        <seg>著作権法はどのようなものを保護しますか？</seg>
       </tuv>
     </tu>
     <tu>

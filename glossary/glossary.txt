@@ -103,7 +103,6 @@ might	～してもよい、～かもしれない	法律用語では「～する�
 consideration	考慮、意見、判断など
 engagement	（積極的な）参加、関与
 nevertheless	～にも関わらず
-ｃertify	証明する、認定する、保証する
 certify	証明する、保証する、認定する
 allow 	～させる
 deck	資料	「slide deck」などと使用する
@@ -114,7 +113,6 @@ issue	論点、重要な話題・問題、問題の核心
 deliver	声に出す、発生する	utter or pronounce
 introduction	導入、入門	"introduction to～"で～入門、～概論
 original work	原作
-authorship	著作者、原作者	著作物：著作権法では著述のほか、音楽・絵画・彫刻・建築・写真などの作品を含む
 series	系、連続
 material	素材、資料、特定の目的で書かれた情報・アイデア
 non-obvious	非自明性,進歩性	その分野の人なら容易に思いつくようなものではないことをいう。たとえば左ハンドルの車を見て右ハンドルの車を考案しても発明にはならない。米国で発明について特許を受けるための要件の一つで日本では「進歩性」がこれに相当するとある。https://ja.wikipedia.org/wiki/%E9%80%B2%E6%AD%A9%E6%80%A7
@@ -122,7 +120,7 @@ incentivize	やる気を起こさせる、奨励する
 limited monopoly	限定された独占権	「限定」は、期間など
 mark	標識、記号、目印
 placeholder	仮置き、後になって実際の文字や数字などが表れる場所を示すもの
- overview	概観、概説
+overview	概観、概説
 big picture	全体像
 literary	著述の、文学の、文芸の	文芸として広く捉える場合と、著述や文学として狭く捉える場合がありレベルに差がある
 entity	実体
@@ -136,3 +134,6 @@ manufacture	製造する、加工する
 term	期間、言葉づかい、用語、条件、条項
 perpetual 	無期限の
 indemnification,	補償（金）、賠償（金）、弁償（金）、免責
+type	分類、種類、種別、タイプ
+chapter	章	「第○章」で表記する。
+authorship	著作者、原作者	著作物：著作権法では著述のほか、音楽・絵画・彫刻・建築・写真などの作品を含む
