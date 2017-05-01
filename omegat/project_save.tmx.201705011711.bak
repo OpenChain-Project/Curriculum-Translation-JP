@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>Copyright protects original works of authorship.It's different than patent in that copyright protects the expression of an idea, whereas patent protects the underlying idea itself.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170501T095851Z" creationid="maabou" creationdate="20170501T081155Z">
-        <seg>著作権は原作者の原作を保護します。著作権がアイデアの表現を保護するのに対し、特許が根底にあるアイデアそのものを保護している点で異なります。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170501T081155Z" creationid="maabou" creationdate="20170501T081155Z">
+        <seg>著作権は原作者の原作を保護します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,14 +185,6 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN-US">
-        <seg>Examples of works of authorship include photographs, songs, and computer code.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170501T100049Z" creationid="maabou" creationdate="20170501T100049Z">
-        <seg>原作者の作品としては、写真、歌、コンピューターの符号などが含まれます。</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>tani:ここでのtermは「期間」とした。「条件」の意味はこの後conditionという言葉があるのでいまいち違う感じがしたため。</note>
       <tuv lang="EN-US">
         <seg>Exclusive or non-exclusive terms</seg>
@@ -223,14 +215,6 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T051153Z" creationid="maabou" creationdate="20170428T051153Z">
         <seg>地理的な範囲</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>However,&lt;t0/&gt; &lt;t1/&gt;patent protects functionality, and not abstract ideas.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170501T100748Z" creationid="maabou" creationdate="20170501T100748Z">
-        <seg>ただし、&lt;t0/&gt; &lt;t1/&gt;特許は機能を保護するもので、抽象的なアイデアは保護しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,15 +274,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>tani:ここはcreative workとなっているのはおそらく間違い。ただしいと思われるderivative work（二次的著作物）で訳す。</note>
-      <tuv lang="EN-US">
-        <seg>Most important copyright concepts for software are: right to reproduce, right to make creative works (or right to modify), and right to distribute.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170501T100539Z" creationid="maabou" creationdate="20170501T100136Z">
-        <seg>ソフトウェアについての著作権で重要なのは： 複製する権利、二次的著作物を作成する（もしくは改変する）権利および頒布する権利です。</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="EN-US">
         <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution” is subject to debate in the FOSS community and within FOSS legal circles</seg>
       </tuv>
@@ -320,14 +295,6 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170331T052636Z" creationid="maabou" creationdate="20170331T052636Z">
         <seg>ソフトウェアにおける特許の概念</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Patent protects method of operation, such as computer program.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170501T100630Z" creationid="maabou" creationdate="20170501T100630Z">
-        <seg>特許はコンピュータ プログラムのような演算方法を保護します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -385,14 +352,6 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063330Z" creationid="maabou" creationdate="20170325T063330Z">
         <seg>FOSSレビューを実施する</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Software can be subject to a patent.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170501T100557Z" creationid="maabou" creationdate="20170501T100557Z">
-        <seg>ソフトウェアは特許を受けることができます。</seg>
       </tuv>
     </tu>
     <tu>
