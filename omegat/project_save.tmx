@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example of this would be FFMpeg,&lt;t0/&gt; &lt;t1/&gt;which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T012118Z" creationid="maabou" creationdate="20170502T011443Z">
+        <seg>一つの例としてFFMpeg&lt;t0/&gt; &lt;t1/&gt;があります。これはビデオの符号化／復号化のためのコーデック機能を提供するフリー ソフトウェア プロジェクトですが、何らかのフォーマットを符号化／復号化をするには特許ライセンスが必要となるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Avoiding Compliance Pitfalls</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
@@ -234,6 +242,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani: in questionは「問題の」という意味だが、「疑義の対象となる」といったニュアンスが適当。以下サイトに「被疑物件」という名称があったあｔめこれを採用した。http://www.teclawplo.com/column08-003-004.html</note>
+      <tuv lang="EN-US">
+        <seg>If you have independently developed your own software, then you may not need a copyright license if you can show the independent development and you had no access to the copyrighted work in question.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T010335Z" creationid="maabou" creationdate="20170502T005643Z">
+        <seg>ソフトウェアを独立して開発した場合、それが独立開発であり、著作権を有する被疑物件にアクセスしなかったことを示すことができれば著作権のライセンスはいらないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>If you independently develop your own software, is it possible that you might need a copyright license from a third party for that software?</seg>
       </tuv>
@@ -320,6 +337,15 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170331T052636Z" creationid="maabou" creationdate="20170331T052636Z">
         <seg>ソフトウェアにおける特許の概念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:practiceは「実施」とした。以下特許関連の辞書を参考にした。http://www.patro.co.jp/term/etoj/r3.html</note>
+      <tuv lang="EN-US">
+        <seg>Patent holder can exclude others from practicing the patent, regardless of whether the others have independently created the product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T004406Z" creationid="maabou" creationdate="20170502T004154Z">
+        <seg>特許保有者は他者の作品が独立かどうかに関係なく、他者が特許を実施することを排除できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,10 +548,27 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter is useful for lawyers, managers or developers who may not be familiar with FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T012431Z" creationid="maabou" creationdate="20170502T012431Z">
+        <seg>本章は法律家や管理職、もしくはFOSSライセンスに馴染みが薄い開発者の方がにとって有用です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter will focus on copyright and patents, the areas most relevant to FOSS compliance</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220210Z" creationid="maabou" creationdate="20170326T220011Z">
         <seg>本章ではFOSSコンプライアンスに最も関係する、著作権と特許権に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani: read onは特許用語として以下に記載されていたのでニュアンスを合わせた。http://www.teclawplo.com/column08-003-004.html　「「readable upon(on)～」とは、クレームの文言を被疑物件に読み取ることができるということ」</note>
+      <tuv lang="EN-US">
+        <seg>This is difficult if the copyrighted work is popular such that it'd be reasonable to assume that you had access. If your software reads on a patent, then you will need a patent license regardless of whether you've independently developed the software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T010950Z" creationid="maabou" creationdate="20170502T005719Z">
+        <seg>その著作権をもつ作品が有名でアクセスできると考えることが合理的だとすると、これを示すことは困難となります。ソフトウェアについてある特許の文言に読み取れる場合には、そのソフトウェアが独立開発かどうかには関係なく特許ライセンスが必要となるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
