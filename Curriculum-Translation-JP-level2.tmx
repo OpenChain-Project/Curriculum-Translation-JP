@@ -5,6 +5,16 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>tani:OSG-JapanのGPL v2.0翻訳をベースを抜粋。以下2点が気になるが・・・改変することになるのでそのままにしておく。（１）Licenseを「契約書」とと訳している。（２）Publishは「発表」ではなく「公開」の方がよい。
+http://www.opensource.jp/gpl/gpl.ja.html</note>
+      <tuv xml:lang="EN-US">
+        <seg>"You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed...under the terms of this License."</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T040613Z" creationid="maabou" creationdate="20170502T040613Z">
+        <seg>「『プログラム』またはその一部を含む著作物、あるいは『プログラム』 かその一部から派生した著作物を頒布あるいは発表する場合には、その 全体をこの契約書の条件に従って第三者へ無償で利用許諾しなけれ ばならない。 」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="EN-US">
         <seg>&lt;&lt;placeholder slide to identify where the FOSS policy can be found (OpenChain Specification 1.0, section 1.1.1)&gt;&gt;</seg>
       </tuv>
@@ -109,6 +119,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani:固い文面にするとわかりづらいので、わかり易く。</note>
+      <tuv xml:lang="EN-US">
+        <seg>Copyleft licenses may include source availability obligations</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T041341Z" creationid="maabou" creationdate="20170502T041222Z">
+        <seg>コピーレフト ライセンスは、ソースが使用できる状態にあることを義務づける場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="EN-US">
         <seg>Copyright concepts in software</seg>
       </tuv>
@@ -198,6 +217,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170325T063433Z" creationid="maabou" creationdate="20170325T063433Z">
         <seg>エンド ツー エンドのコンプライアンス管理（例となるプロセス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Example of license reciprocity from the GPL version 2.0:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T035533Z" creationid="maabou" creationdate="20170502T032552Z">
+        <seg>GPL version 2.0よりライセンス互恵性の例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -332,10 +359,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>License Reciprocity &amp; Copyleft Licenses</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T030032Z" creationid="maabou" creationdate="20170502T030032Z">
+        <seg>ライセンスの互恵性とコピーレフトライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Licenses</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170428T002458Z" creationid="maabou" creationdate="20170428T002458Z">
         <seg>ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Licenses that include reciprocity or Copyleft clauses include all versions of the GPL, LGPL, AGPL, MPL and CDDL</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T041226Z" creationid="maabou" creationdate="20170502T041109Z">
+        <seg>互恵性やコピーレフトの条項を組み入れたライセンスとしてGPL, LGPL, AGPL, MPLおよび CDDLの全てのバージョンが挙げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -521,6 +564,16 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
     </tu>
     <tu>
+      <note>tani: 以下を参考。MPLのように商用ファイルが一つのファイルに含むことでその商用ファイルも再頒布対象になるようなケースがある。
+www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
+      <tuv xml:lang="EN-US">
+        <seg>Some licenses require the distribution of derivative works (or software in the same file, same program or other boundary) under the same terms as the original work</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T031449Z" creationid="maabou" creationdate="20170502T031449Z">
+        <seg>ライセンスの中には、二次的著作物（もしくは同じファイルや同じプログラムにある、その他の境界内にあるソフトウェア）の再頒布を要求するものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="EN-US">
         <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
       </tuv>
@@ -679,6 +732,15 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
     </tu>
     <tu>
+      <note>tani:「伝播」という言葉はできるかぎり使わず、原文の意味に忠実にしておく。</note>
+      <tuv xml:lang="EN-US">
+        <seg>This is referred to as a ”Copyleft", "reciprocal", or "hereditary" effect</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T032516Z" creationid="maabou" creationdate="20170502T032516Z">
+        <seg>これは、「コピーレフト」もしくは「互恵的」/「遺伝的」効果と言及されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="EN-US">
         <seg>This overview is not intended to cover all aspects of Intellectual Property.<ph x="0">&lt;t0/&gt;</ph> It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.</seg>
       </tuv>
@@ -700,6 +762,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
         <seg>このスライドでは、ソフトウェアに対する著作権法の<ph x="0">&lt;t0/&gt;</ph>最重要部分を明確にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This slide explains reciprocity and Copyleft,<ph x="0">&lt;t0/&gt;</ph> a more complex type of FOSS license that have additional requirements above permissive licenses.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170502T041931Z" creationid="maabou" creationdate="20170502T041931Z">
+        <seg>このスライドでは、パーミッシ ブライセンスに付加的な要求事項をもつ、より複雑なタイプのFOSSライセンスとして互恵性と「コピーレフト」<ph x="0">&lt;t0/&gt;</ph> ついて説明しています。</seg>
       </tuv>
     </tu>
     <tu>

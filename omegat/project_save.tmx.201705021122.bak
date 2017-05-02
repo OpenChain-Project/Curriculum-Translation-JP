@@ -5,16 +5,6 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <note>tani:OSG-JapanのGPL v2.0翻訳をベースを抜粋。以下2点が気になるが・・・改変することになるのでそのままにしておく。（１）Licenseを「契約書」とと訳している。（２）Publishは「発表」ではなく「公開」の方がよい。
-http://www.opensource.jp/gpl/gpl.ja.html</note>
-      <tuv lang="EN-US">
-        <seg>"You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed...under the terms of this License."</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T040613Z" creationid="maabou" creationdate="20170502T040613Z">
-        <seg>「『プログラム』またはその一部を含む著作物、あるいは『プログラム』 かその一部から派生した著作物を頒布あるいは発表する場合には、その 全体をこの契約書の条件に従って第三者へ無償で利用許諾しなけれ ばならない。 」</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="EN-US">
         <seg>&lt;&lt;placeholder slide to identify where the FOSS policy can be found (OpenChain Specification 1.0, section 1.1.1)&gt;&gt;</seg>
       </tuv>
@@ -32,10 +22,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A complete list of OSI-approved licenses is available at http://www.opensource.org/licenses/</seg>
+        <seg>A complete list of OSI-approved licenses is available at &lt;t4/&gt;http://www.opensource.org/licenses/</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014655Z" creationid="maabou" creationdate="20170502T014655Z">
-        <seg>OSIが承認したライセンスの全リストこちらで取得できます：http://www.opensource.org/licenses/</seg>
+        <seg>OSIが承認したライセンスの全リストこちらで取得できます：&lt;t4/&gt;http://www.opensource.org/licenses/</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,10 +38,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>An example of this would be FFMpeg, which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
+        <seg>An example of this would be FFMpeg,&lt;t0/&gt; &lt;t1/&gt;which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T012118Z" creationid="maabou" creationdate="20170502T011443Z">
-        <seg>一つの例としてFFMpeg があります。これはビデオの符号化／復号化のためのコーデック機能を提供するフリー ソフトウェア プロジェクトですが、何らかのフォーマットを符号化／復号化をするには特許ライセンスが必要となるでしょう。</seg>
+        <seg>一つの例としてFFMpeg&lt;t0/&gt; &lt;t1/&gt;があります。これはビデオの符号化／復号化のためのコーデック機能を提供するフリー ソフトウェア プロジェクトですが、何らかのフォーマットを符号化／復号化をするには特許ライセンスが必要となるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -116,15 +106,6 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T062307Z" creationid="maabou" creationdate="20170325T062307Z">
         <seg>コンテンツ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>tani:固い文面にするとわかりづらいので、わかり易く。</note>
-      <tuv lang="EN-US">
-        <seg>Copyleft licenses may include source availability obligations</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T041341Z" creationid="maabou" creationdate="20170502T041222Z">
-        <seg>コピーレフト ライセンスは、ソースが使用できる状態にあることを義務づける場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -221,14 +202,6 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Example of license reciprocity from the GPL version 2.0:</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T035533Z" creationid="maabou" creationdate="20170502T032552Z">
-        <seg>GPL version 2.0よりライセンス互恵性の例：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Example: BSD-3-Clause</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T020152Z" creationid="maabou" creationdate="20170502T015636Z">
@@ -270,10 +243,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFTDesigned for the OpenChain Specification 1.0</seg>
+        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFT&lt;t0/&gt;Designed for the &lt;t1/&gt;OpenChain Specification 1.0</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
-        <seg>FOSSトレーニング参照資料 第2版 最終ドラフトOpenChain 仕様書  第1.0版対応</seg>
+        <seg>FOSSトレーニング参照資料 第2版 最終ドラフト&lt;t0/&gt;&lt;t1/&gt;OpenChain 仕様書  第1.0版対応</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,10 +259,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Free and FOSS Software licenses generally make source code available under terms that allow for modification and redistribution</seg>
+        <seg>Free and &lt;t0/&gt;FOSS&lt;t1/&gt; Software licenses generally make source code available under terms that allow for modification and redistribution</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T013929Z" creationid="maabou" creationdate="20170502T013559Z">
-        <seg>フリー、FOSSソフトウェアのライセンスは一般的に改変と再頒布を許容する条件の下でソースコードを取得できるようにします。</seg>
+        <seg>フリー、&lt;t0/&gt;FOSS&lt;t1/&gt;ソフトウェアのライセンスは一般的に改変と再頒布を許容する条件の下でソースコードを取得できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +275,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>However, patent protects functionality, and not abstract ideas.</seg>
+        <seg>However,&lt;t0/&gt; &lt;t1/&gt;patent protects functionality, and not abstract ideas.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T100748Z" creationid="maabou" creationdate="20170501T100748Z">
-        <seg>ただし、 特許は機能を保護するもので、抽象的なアイデアは保護しません。</seg>
+        <seg>ただし、&lt;t0/&gt; &lt;t1/&gt;特許は機能を保護するもので、抽象的なアイデアは保護しません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -351,18 +324,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Key Software Concepts for FOSS Review</seg>
+        <seg>Key Software Concepts for FOSS&lt;t0/&gt; Review</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063055Z" creationid="maabou" creationdate="20170325T063055Z">
-        <seg>FOSSレビューで重要となるソフトウェアの概念 Review</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>License Reciprocity &amp; Copyleft Licenses</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T030032Z" creationid="maabou" creationdate="20170502T030032Z">
-        <seg>ライセンスの互恵性とコピーレフトライセンス</seg>
+        <seg>FOSSレビューで重要となるソフトウェアの概念&lt;t0/&gt; Review</seg>
       </tuv>
     </tu>
     <tu>
@@ -371,14 +336,6 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002458Z" creationid="maabou" creationdate="20170428T002458Z">
         <seg>ライセンス</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Licenses that include reciprocity or Copyleft clauses include all versions of the GPL, LGPL, AGPL, MPL and CDDL</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T041226Z" creationid="maabou" creationdate="20170502T041109Z">
-        <seg>互恵性やコピーレフトの条項を組み入れたライセンスとしてGPL, LGPL, AGPL, MPLおよび CDDLの全てのバージョンが挙げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,10 +373,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>One popular set of licenses are those approved by the FOSS Initiative (OSI) based on their FOSS Definition (OSD).</seg>
+        <seg>One popular set of licenses are those approved by the &lt;t0/&gt;FOSS&lt;t1/&gt; Initiative (OSI) based on their &lt;t2/&gt;FOSS&lt;t3/&gt; Definition (OSD).</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014521Z" creationid="maabou" creationdate="20170502T014521Z">
-        <seg>ライセンスで良く知られているものとしてFOSS Iイニシアチブ（OSI)が 、彼らのFOSS定義（OSD）に基づき承認したものが挙げられます。</seg>
+        <seg>ライセンスで良く知られているものとして&lt;t0/&gt;FOSS&lt;t1/&gt; Iイニシアチブ（OSI)が 、彼らの&lt;t2/&gt;FOSS&lt;t3/&gt;定義（OSD）に基づき承認したものが挙げられます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -523,10 +480,10 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Released under the Creative Commons CC0 1.0 Universal license.</seg>
+        <seg>Released under the &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; license.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
-        <seg>本資料は Creative Commons CC0 1.0 Universal ライセンスの下でリリースされています。</seg>
+        <seg>本資料は &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; ライセンスの下でリリースされています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -561,16 +518,6 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T073636Z" creationid="maabou" creationdate="20170326T071946Z">
         <seg>ソフトウェア、書物、音響・映像作品、半導体マスク（回路パターンの原版）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note>tani: 以下を参考。MPLのように商用ファイルが一つのファイルに含むことでその商用ファイルも再頒布対象になるようなケースがある。
-www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
-      <tuv lang="EN-US">
-        <seg>Some licenses require the distribution of derivative works (or software in the same file, same program or other boundary) under the same terms as the original work</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T031449Z" creationid="maabou" creationdate="20170502T031449Z">
-        <seg>ライセンスの中には、二次的著作物（もしくは同じファイルや同じプログラムにある、その他の境界内にあるソフトウェア）の再頒布を要求するものがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,10 +565,10 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The most basic requirement is to include a copyright notice.</seg>
+        <seg>The most basic requirement is to include&lt;t0/&gt; a copyright notice.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T022257Z" creationid="maabou" creationdate="20170502T022257Z">
-        <seg>もっとも基本的な要求は 著作表示を含めることです。</seg>
+        <seg>もっとも基本的な要求は&lt;t0/&gt; 著作表示を含めることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,26 +581,26 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The right to distribute</seg>
+        <seg>The right to &lt;t0/&gt;distribute</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170426T052654Z" creationid="maabou" creationdate="20170331T050425Z">
-        <seg> 頒布する権利</seg>
+        <seg> &lt;t0/&gt;頒布する権利</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The right to reproduce the software – making copies</seg>
+        <seg>The right to &lt;t0/&gt;reproduce &lt;t1/&gt;the software – making copies</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170329T121236Z" creationid="maabou" creationdate="20170329T120809Z">
-        <seg>ソフトウェアを 複製する 権利 – コピーを作成する</seg>
+        <seg>ソフトウェアを &lt;t0/&gt;複製する &lt;t1/&gt;権利 – コピーを作成する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>The right to create "derivative works" – making modifications</seg>
+        <seg>The right to create "&lt;t0/&gt;derivative works&lt;t1/&gt;" – making modifications</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170329T120907Z" creationid="maabou" creationdate="20170329T120907Z">
-        <seg>"二次的著作物" を作る権利– 修正を加える</seg>
+        <seg>"&lt;t0/&gt;二次的著作物&lt;t1/&gt;" を作る権利– 修正を加える</seg>
       </tuv>
     </tu>
     <tu>
@@ -676,10 +623,10 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>These slides can be used to help train internal teams about FOSS compliance issues and to conform with the OpenChain Specification.</seg>
+        <seg>These slides can be used&lt;t0/&gt; to help train internal teams about FOSS compliance issues and to conform with the OpenChain Specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T020508Z" creationid="maabou" creationdate="20170325T010131Z">
-        <seg>本スライドは、組織内チームに向けたFOSSコンプライアンスに係る重要事項についてトレーニングを実施する際のヘルプやOpenChainの仕様との照らし合わせに用いることができます。</seg>
+        <seg>本スライドは、組織内チームに向けたFOSSコンプライアンスに係る重要事項についてトレーニングを実施する際のヘルプや&lt;t0/&gt;OpenChainの仕様との照らし合わせに用いることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -732,20 +679,11 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
-      <note>tani:「伝播」という言葉はできるかぎり使わず、原文の意味に忠実にしておく。</note>
       <tuv lang="EN-US">
-        <seg>This is referred to as a ”Copyleft", "reciprocal", or "hereditary" effect</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T032516Z" creationid="maabou" creationdate="20170502T032516Z">
-        <seg>これは、「コピーレフト」もしくは「互恵的」/「遺伝的」効果と言及されます。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This overview is not intended to cover all aspects of Intellectual Property. It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.</seg>
+        <seg>This overview is not intended to cover all aspects of Intellectual Property.&lt;t0/&gt; It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T223813Z" creationid="maabou" creationdate="20170326T223057Z">
-        <seg>ここにある概説で知的財産のすべての側面を網羅することは意図していません。 ここで意図しているのは、"全体像"となる背景を提供し、当日議論するのがFOSSコンプライアンスにもっとも関係する著作権と特許権のみだということを確認してもらうことです。</seg>
+        <seg>ここにある概説で知的財産のすべての側面を網羅することは意図していません。&lt;t0/&gt; ここで意図しているのは、"全体像"となる背景を提供し、当日議論するのがFOSSコンプライアンスにもっとも関係する著作権と特許権のみだということを確認してもらうことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,26 +696,18 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide clarifies the most important parts of copyright law to software.</seg>
+        <seg>This slide clarifies the most important part&lt;t0/&gt;s of copyright law to software.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
-        <seg>このスライドでは、ソフトウェアに対する著作権法の最重要部分を明確にしています。</seg>
+        <seg>このスライドでは、ソフトウェアに対する著作権法の&lt;t0/&gt;最重要部分を明確にしています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide explains reciprocity and Copyleft, a more complex type of FOSS license that have additional requirements above permissive licenses.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T041931Z" creationid="maabou" creationdate="20170502T041931Z">
-        <seg>このスライドでは、パーミッシ ブライセンスに付加的な要求事項をもつ、より複雑なタイプのFOSSライセンスとして互恵性と「コピーレフト」 ついて説明しています。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>This slide explains the “big picture” of copyright in software.</seg>
+        <seg>This slide explains the&lt;t0/&gt; “big picture” of copyright in software.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T223925Z" creationid="maabou" creationdate="20170326T223925Z">
-        <seg>このスライドでは、ソフトウェアの著作権についての "全体像"を説明しています。</seg>
+        <seg>このスライドでは、ソフトウェアの著作権についての&lt;t0/&gt; "全体像"を説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,10 +720,10 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide explains patent concepts relevant to software.</seg>
+        <seg>This slide explains&lt;t0/&gt; patent concepts relevant to software.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002424Z" creationid="maabou" creationdate="20170428T002244Z">
-        <seg>このスライドでは、ソフトウェアに関連する 特許の概念を説明しています。</seg>
+        <seg>このスライドでは、ソフトウェアに関連する&lt;t0/&gt; 特許の概念を説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,10 +736,10 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide provides the “big picture” about what FOSS licenses do.</seg>
+        <seg>This slide provides the&lt;t0/&gt; “big picture” about what FOSS licenses do.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T015012Z" creationid="maabou" creationdate="20170502T015012Z">
-        <seg>このスライドでは、FOSSライセンスがどういったことをするかの 「全体像（ビッグ ピクチャ）」を提供します。</seg>
+        <seg>このスライドでは、FOSSライセンスがどういったことをするかの&lt;t0/&gt; 「全体像（ビッグ ピクチャ）」を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -823,26 +753,26 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     <tu>
       <note>tani:後半部分が何を意味しているかがいまいち読み取れず。ここで描かれている「ライセンス」の意味がUS法で意味するところと違っているということか？</note>
       <tuv lang="EN-US">
-        <seg>This slide explains what is a “license.” This is different to a contract under US law.</seg>
+        <seg>This&lt;t0/&gt; slide explains what is a “license.” This is different to a contract under US law.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T072317Z" creationid="maabou" creationdate="20170428T062440Z">
-        <seg>この スライドは、「ライセンス」とは何かを説明しています。本内容は米国法令下での契約と異なっています。</seg>
+        <seg>この&lt;t0/&gt; スライドは、「ライセンス」とは何かを説明しています。本内容は米国法令下での契約と異なっています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>This slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
+        <seg>This&lt;t0/&gt; slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T063452Z" creationid="maabou" creationdate="20170325T064522Z">
-        <seg>この スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
+        <seg>この&lt;t0/&gt; スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Trade secrets: protects confidential and valuable information</seg>
+        <seg>Trade secrets&lt;t0/&gt;: protects confidential and valuable information</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T215019Z" creationid="maabou" creationdate="20170326T215019Z">
-        <seg>営業秘密：価値ある機密情報を保護する</seg>
+        <seg>営業秘密&lt;t0/&gt;：価値ある機密情報を保護する</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,7 +844,7 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     <tu>
       <note>tani:ここのdeliverは難しい。文脈的には、「そのままトレーニングのパッケージとして使える」というニュアンスだと捉えた。単純に「資料として配付する」というニュアンスだと弱い印象があった。後半部分は、「まとめて一日半のトレーニング」でなくても「章ごとに分けたトレーニング構成でもよい」、という意味でとらえている。</note>
       <tuv lang="EN-US">
-        <seg>You can deliver these slides as one half-day training session or you can deliver each chapter as a separate module.</seg>
+        <seg>You can deliver these slides as one half-day training session or you&lt;t0/&gt; can deliver each chapter as a separate module.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T064541Z" creationid="maabou" creationdate="20170325T020454Z">
         <seg>このスライドを半日のトレーニングセッションとして提供することができます。各章を分け、個別のモジュールとして構成した形で提供することも可能です。</seg>
