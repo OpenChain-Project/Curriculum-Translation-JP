@@ -152,3 +152,4 @@ hereditary	遺伝性、世襲制	伝播のニュアンスがありそうだが�
 include	含める、盛り込む、（以下も参照）	〔主語〕としては［には・の中には］～がある［挙げられる・含まれる・顔を連ねる］
 proprietary	プロプライエタリ	「所有権がある」といった意味があるが、一般的にそのまま使われている
 variation	変種、バリエーション
+lock	制限する、固定する	「制限する」意味はあまり一般的ではないようだが、oxford辞書[*]で以下の記述有。「Restrict access to the full functionality or data of (a computer, mobile phone, file, etc.)」[*]https://en.oxforddictionaries.com/definition/lock

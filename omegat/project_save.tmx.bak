@@ -310,6 +310,31 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freeware - software distributed under a proprietary license at no or very low cost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T114413Z" creationid="maabou" creationdate="20170502T114413Z">
+        <seg>フリーウェア－プロプライエタリ ライセンスの下に、無料もしくは非常に低コストで頒布されるソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:limited/unlimited に「日数について」の制約の含意はない。</note>
+      <tuv lang="EN-US">
+        <seg>Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T122459Z" creationid="maabou" creationdate="20170502T122459Z">
+        <seg>フリーウェアのソフトウェアは一般にすべての機能が使え（機能制約がない）、制限なく使える（使用日数における制約がない）ものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware software licenses usually impose restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T122911Z" creationid="maabou" creationdate="20170502T122911Z">
+        <seg>フリーウェアのソフトウェアは（個人使用、商業目的、学術目的など）使用タイプについての制約と同様に、通常そのソフトウェアのコピー、頒布、二次的著作物の作成についての制約を課します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Geographical scope</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T051153Z" creationid="maabou" creationdate="20170428T051153Z">
@@ -436,6 +461,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014521Z" creationid="maabou" creationdate="20170502T014521Z">
         <seg>ライセンスで良く知られているものとして&lt;t0/&gt;FOSS&lt;t1/&gt; Iイニシアチブ（OSI)が 、彼らの&lt;t2/&gt;FOSS&lt;t3/&gt;定義（OSD）に基づき承認したものが挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Licensing Situations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T114126Z" creationid="maabou" creationdate="20170502T114126Z">
+        <seg>その他のライセンシングを取り巻く状況</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +731,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The source code may or may not be available, and creation of derivative works is usually restricted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T114630Z" creationid="maabou" creationdate="20170502T114630Z">
+        <seg>そのソースコードは取得できる場合もそうでない場合もあります。二次的創作物は一般的に制限されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここのtermはどう訳すか。条項とすべきか、用語とすべきか
 </note>
       <tuv lang="EN-US">
@@ -713,6 +754,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T023015Z" creationid="maabou" creationdate="20170325T023015Z">
         <seg>これらの質問や答えはFOSSコンプライアンスの組織内テストの素材として使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These licenses often have very different requirements and rules&lt;t0/&gt; compared to FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T113427Z" creationid="maabou" creationdate="20170502T113427Z">
+        <seg>これらのライセンスをFOSSライセンスと比較すると多くの場合、要求事項、やールがとても違っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -811,6 +860,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
         <seg>このスライドでは、ソフトウェアに対する著作権法の&lt;t0/&gt;最重要部分を明確にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains proprietary or closed source licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T113247Z" creationid="maabou" creationdate="20170502T113247Z">
+        <seg>このスライドでは、プロプライエタリもしくはクローズド ソース ライセンスについて説明しています。</seg>
       </tuv>
     </tu>
     <tu>
