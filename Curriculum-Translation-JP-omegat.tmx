@@ -48,6 +48,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A proprietary software license (or commercial license or EULA) has restrictions on the usage, modification or distribution of the software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T100422Z" creationid="maabou" creationdate="20170502T100407Z">
+        <seg>プロプライエタリ ソフトウェア ライセンス（商用ライセンス、もしくはEULA）はソフトウェアの使用、改変もしくは再頒布についての制約を有します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of this would be FFMpeg,&lt;t0/&gt; &lt;t1/&gt;which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T012118Z" creationid="maabou" creationdate="20170502T011443Z">
@@ -515,6 +523,31 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Proprietary License or Closed Source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T095920Z" creationid="maabou" creationdate="20170502T095920Z">
+        <seg>プロプライエタリ ライセンスもしくはクローズド ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary licenses are unique to each vendor - there are as many variations of proprietary licenses as there are vendors and each must be evaluated individually</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T104841Z" creationid="maabou" creationdate="20170502T104841Z">
+        <seg>プロプライエタリ ライセンスはベンダー毎に独自性があります－ベンダーがあるだけプロプライエタリ ライセンスもたくさんのバリエーションがあり、それぞれ個別評価されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:paymentとfeeの違いについて次のように解釈（当方解釈だが概ね合っている印象）。paymentは支払う側の視点からみた義務としての行為であり、feeは受け取る側の視点から見た権利としての対価という感じ。</note>
+      <tuv lang="EN-US">
+        <seg>Proprietary licenses often involve payment or a license fee</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T103822Z" creationid="maabou" creationdate="20170502T100417Z">
+        <seg>プロプライエタリ ライセンスには、多くの場合、支払やライセンス料といったものを伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Protects expression (not the underlying idea)</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T071948Z" creationid="maabou" creationdate="20170326T070340Z">
@@ -688,6 +721,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T001219Z" creationid="maabou" creationdate="20170325T000739Z">
         <seg>本スライドは米国法令に準じています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They require distribution of the original work and derivative works under the same terms as the original work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T095838Z" creationid="maabou" creationdate="20170502T095542Z">
+        <seg>これらは原著作物と二次的著作物を、原著作物と同じ条件の下で頒布することを要求します。</seg>
       </tuv>
     </tu>
     <tu>
