@@ -612,6 +612,15 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:functionalityは機能（それが持つ能力）、featureは機構（なんからの目的にあった特定の機能）。どちらも同じような意味だがニュアンスが違うもよう。</note>
+      <tuv lang="EN-US">
+        <seg>Shareware - proprietary software provided to users on a trial basis, for a limited time, free of charge and with limited functionalities or features</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T220958Z" creationid="maabou" creationdate="20170502T214918Z">
+        <seg>シェアウェア－無料で期間・機能限定した試用を基本として使用者に提供されるプロプライエタリのソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Software can be subject to a patent.</seg>
       </tuv>

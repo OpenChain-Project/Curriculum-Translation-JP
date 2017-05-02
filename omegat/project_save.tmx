@@ -616,8 +616,8 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       <tuv lang="EN-US">
         <seg>Shareware - proprietary software provided to users on a trial basis, for a limited time, free of charge and with limited functionalities or features</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T214918Z" creationid="maabou" creationdate="20170502T214918Z">
-        <seg>シェアウェア－試用を基本として使用者に提供されるプロプライエタリのソフトウェアで、時間的制限にhareware - proprietary software provided to users on a trial basis, for a limited time, free of charge and with limited functionalities or features</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T220958Z" creationid="maabou" creationdate="20170502T214918Z">
+        <seg>シェアウェア－無料で期間・機能限定した試用を基本として使用者に提供されるプロプライエタリのソフトウェア</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +670,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
         <seg>その作品の著作権保有者だけが、他の誰かが独立して創造したものではない、自らが創造した作品のコントロールができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal of shareware is to give potential buyers the opportunity to use the program and judge its usefulness before purchasing a license for the full version of the software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T221525Z" creationid="maabou" creationdate="20170502T221525Z">
+        <seg>シェアウェアの目的は、購入見込みのある人がそのプログラムを使用し、ソフトウェアの完全版ライセンスの購入前にその有用性を評価する機会を提供することにあります。</seg>
       </tuv>
     </tu>
     <tu>
