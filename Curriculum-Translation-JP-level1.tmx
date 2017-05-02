@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A complete list of OSI-approved licenses is available at http://www.opensource.org/licenses/</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T014655Z" creationid="maabou" creationdate="20170502T014655Z">
+        <seg>OSIが承認したライセンスの全リストこちらで取得できます：http://www.opensource.org/licenses/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A patent license?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T075154Z" creationid="maabou" creationdate="20170501T075154Z">
@@ -194,6 +202,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example: BSD-3-Clause</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T020152Z" creationid="maabou" creationdate="20170502T015636Z">
+        <seg>例：三条項BSDライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples of works of authorship include photographs, songs, and computer code.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T100049Z" creationid="maabou" creationdate="20170501T100049Z">
@@ -211,6 +227,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T013227Z" creationid="maabou" creationdate="20170502T013227Z">
+        <seg>FOSS（フリー／オープンソース ソフトウェア）ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS Policy</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063919Z" creationid="maabou" creationdate="20170325T063919Z">
@@ -223,6 +247,22 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
         <seg>FOSSトレーニング参照資料 第2版 最終ドラフトOpenChain 仕様書  第1.0版対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T014021Z" creationid="maabou" creationdate="20170502T013915Z">
+        <seg>FOSSライセンスには、帰属の提供や著作権宣言文の維持もしくはソースコードが取得できる「書面による申し出（Written offer)」に係る条件を有する場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Free and FOSS Software licenses generally make source code available under terms that allow for modification and redistribution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T013929Z" creationid="maabou" creationdate="20170502T013559Z">
+        <seg>フリー、FOSSソフトウェアのライセンスは一般的に改変と再頒布を許容する条件の下でソースコードを取得できるようにします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -276,6 +316,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It also explains a resource where you can find out more about some FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T021733Z" creationid="maabou" creationdate="20170502T021733Z">
+        <seg>またここでは、いくつかのFOSSライセンスについてより多くを調べられるリソースについても説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Software Concepts for FOSS Review</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063055Z" creationid="maabou" creationdate="20170325T063055Z">
@@ -325,6 +373,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One popular set of licenses are those approved by the FOSS Initiative (OSI) based on their FOSS Definition (OSD).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T014521Z" creationid="maabou" creationdate="20170502T014521Z">
+        <seg>ライセンスで良く知られているものとしてFOSS Iイニシアチブ（OSI)が 、彼らのFOSS定義（OSD）に基づき承認したものが挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other examples: MIT, Apache-2.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T021342Z" creationid="maabou" creationdate="20170502T021342Z">
+        <seg>その他の例：MITライセンス、Apache-2.0ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002231Z" creationid="maabou" creationdate="20170426T072528Z">
@@ -370,6 +434,23 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220017Z" creationid="maabou" creationdate="20170326T074807Z">
         <seg>特許権（パテント）：新規性、有用性、非自明性をもつ有益な発明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:「permissive」は「パーミッシブ」でもよさそうだが、理解を促進するためにも概念的に伝えたいところ。個人的には「自由放任的な」というニュアンスがしっくりくるが、意訳になってしまうので、原文に忠実に「許容型の」とした。</note>
+      <tuv lang="EN-US">
+        <seg>Permissive FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T015343Z" creationid="maabou" creationdate="20170502T014713Z">
+        <seg>パーミッシブな（許容型の）FOSSライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permissive FOSS license - a term used often to describe minimally restrictive FOSS licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T015541Z" creationid="maabou" creationdate="20170502T015541Z">
+        <seg>パーミッシブなFOSSライセンス－制約が最小限にとどまるライセンスを言及する時に用いられる用語</seg>
       </tuv>
     </tu>
     <tu>
@@ -441,6 +522,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T020143Z" creationid="maabou" creationdate="20170502T020143Z">
+        <seg>BSDライセンスは、著作権表示やライセンスの保証に係る免責事項が維持される限り、いかなる目的においても無制限の再頒布を許容するパーミッシブなライセンスの一例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The copyright owner only has control over the work that he or she created, not someone else’s independent creation</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
@@ -462,6 +551,24 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061003Z" creationid="maabou" creationdate="20170428T052138Z">
         <seg>ライセンスはその供与に条件を持たせることができる。すなわち何らかの義務を満たした場合にのみ、そのライセンスを得るということ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani :BSDライセンスについての詳細は；（１）wikipediahttps://ja.wikipedia.org/wiki/BSD%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9　（２）http://www.wdic.org/w/TECH/BSD%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9
+</note>
+      <tuv lang="EN-US">
+        <seg>The license contains a clause restricting use of the names of contributors for endorsement of a derived work without specific permission</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T021322Z" creationid="maabou" creationdate="20170502T020817Z">
+        <seg>このライセンス（三条項BSDライセンス）は二次的著作物の宣伝に対し、許可のないコントリビュータ名の使用を制限する条項を含んでいる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The most basic requirement is to include a copyright notice.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T022257Z" creationid="maabou" creationdate="20170502T022257Z">
+        <seg>もっとも基本的な要求は 著作表示を含めることです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -605,6 +712,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide explains ”permissive” FOSS licenses, the most basic type of FOSS license, which usually have minimal requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T022153Z" creationid="maabou" creationdate="20170502T022153Z">
+        <seg>本スライドでは、「パーミッシブな」FOSSライセンスと、通常要求が最低限となっているFOSSライセンスのもっとも基本タイプについて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slide explains patent concepts relevant to software.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002424Z" creationid="maabou" creationdate="20170428T002244Z">
@@ -617,6 +732,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T222417Z" creationid="maabou" creationdate="20170326T222417Z">
         <seg>このスライドで、企業が、社内文書として内部FOSSポリシーがどこにあるか特定しやすいようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide provides the “big picture” about what FOSS licenses do.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T015012Z" creationid="maabou" creationdate="20170502T015012Z">
+        <seg>このスライドでは、FOSSライセンスがどういったことをするかの 「全体像（ビッグ ピクチャ）」を提供します。</seg>
       </tuv>
     </tu>
     <tu>

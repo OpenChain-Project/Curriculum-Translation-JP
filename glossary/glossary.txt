@@ -143,3 +143,6 @@ in question	問題の
 such that	～のように～	A such that Bで"BのようにA"
 still need	まだ必要、いまだ必要
 lawyer	弁護士、法律家
+popular	良く知られている、人気の
+permissive	許容型の、自由放任の、	(alcから）》〔オープンソースなどのライセンスが〕一方的利用を許す、伝播性のない
+endorsement	宣伝、など	ソフトウェアの著作権の関連では宣伝と使用
