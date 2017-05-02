@@ -286,6 +286,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS developers often use the term "&lt;t0/&gt;proprietary" to describe a commercial non-FOSS license &lt;t1/&gt;even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T113151Z" creationid="maabou" creationdate="20170502T113151Z">
+        <seg>FOSSの開発者たちはしばしば「&lt;t0/&gt;プロプライエタリ」を商用のFOSSでないライセンスを言い表す際に用いますが&lt;t1/&gt;、FOSSとプロプライエタリ、どちらのライセンスも知的財産に基づき、 その財産にライセンスを付与するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014021Z" creationid="maabou" creationdate="20170502T013915Z">
@@ -709,6 +717,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These licenses often have very different requirements and rules&lt;t0/&gt; compared to FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T113427Z" creationid="maabou" creationdate="20170502T113427Z">
+        <seg>これらのライセンスをFOSSライセンスと比較すると多くの場合、要求事項、やールがとても違っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These slides can be used&lt;t0/&gt; to help train internal teams about FOSS compliance issues and to conform with the OpenChain Specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T020508Z" creationid="maabou" creationdate="20170325T010131Z">
@@ -803,6 +819,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
         <seg>このスライドでは、ソフトウェアに対する著作権法の&lt;t0/&gt;最重要部分を明確にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains proprietary or closed source licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T113247Z" creationid="maabou" creationdate="20170502T113247Z">
+        <seg>このスライドでは、プロプライエタリもしくはクローズド ソース ライセンスについて説明しています。</seg>
       </tuv>
     </tu>
     <tu>

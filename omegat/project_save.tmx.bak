@@ -286,6 +286,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS developers often use the term "&lt;t0/&gt;proprietary" to describe a commercial non-FOSS license &lt;t1/&gt;even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T113151Z" creationid="maabou" creationdate="20170502T113151Z">
+        <seg>FOSSの開発者たちはしばしば「&lt;t0/&gt;プロプライエタリ」を商用のFOSSでないライセンスを言い表す際に用いますが&lt;t1/&gt;、FOSSとプロプライエタリ、どちらのライセンスも知的財産に基づき、 その財産にライセンスを付与するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014021Z" creationid="maabou" creationdate="20170502T013915Z">
@@ -527,6 +535,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T095920Z" creationid="maabou" creationdate="20170502T095920Z">
         <seg>プロプライエタリ ライセンスもしくはクローズド ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary licenses are unique to each vendor - there are as many variations of proprietary licenses as there are vendors and each must be evaluated individually</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T104841Z" creationid="maabou" creationdate="20170502T104841Z">
+        <seg>プロプライエタリ ライセンスはベンダー毎に独自性があります－ベンダーがあるだけプロプライエタリ ライセンスもたくさんのバリエーションがあり、それぞれ個別評価されなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
