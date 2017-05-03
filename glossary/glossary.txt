@@ -162,3 +162,4 @@ extend	（extend toで）～におよぶ
 placement	配置
 give credit to	～の功績を称える	以下のサイトなが参考になった。http://gujo.blog.fc2.com/blog-entry-3.html
 identifier	識別子	「識別子」（デジタル大辞泉から）：複数の対象から、ある特定の対象を一意的に区別するために用いられる名称、符号、文字列、数値。識別符号
+practice	慣行、慣例、実践、実行、行為、開業など

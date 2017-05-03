@@ -71,6 +71,17 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:MPL1.1を和訳したMizilla Japanのサイトの内容をベース作成http://www.mozilla-japan.org/MPL/MPL-1.1J.html
+</note>
+      <tuv xml:lang="EN-US">
+        <seg>Alternatively, the contents of this file may be used under the terms of - either the GNU General Public License Version 2 or later (the "GPL"), or - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"), - in which case the provisions of the GPL or the LGPL are applicable instead - of those above.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135112Z" creationid="maabou" creationdate="20170503T134855Z">
+        <seg>
+このファイルの内容は、上記に代えて、GNU General Public License Version 2 以降 のライセンス（ 「GPL」ライセンス）、もしくは - GNU Lesser General Public License Version 2.1以降 のライセンス( 「LGPL」ライセンス) ライセンスの条件に従って使用することも可能です。この場合、このファイルの使用には上記の条項ではなく GPLもしくはLGPL ライセンスの条項が適用されます</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="EN-US">
         <seg>An example of this would be FFMpeg,<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
       </tuv>
@@ -233,6 +244,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Disjunctive licensing may be something important to explore more deeply<ph x="0">&lt;t0/&gt;</ph> when creating a FOSS policy.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T131801Z" creationid="maabou" creationdate="20170503T131801Z">
+        <seg>離接的なライセンスは、<ph x="0">&lt;t0/&gt;</ph> FOSSポリシーを策定する際により深く調査するべく、重要かもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Disjunctive<ph x="0">&lt;t0/&gt;</ph> = Choice of one open source license or another</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135507Z" creationid="maabou" creationdate="20170503T131251Z">
+        <seg>離接的（Disjunctive）<ph x="0">&lt;t0/&gt;</ph> ＝どちらから一つのオープンソース ライセンスを選択します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここでのentityをどう訳すか。おそらくは人から人だけなくコンピュータ間などのケースなども含めているニュアンスだとすると「実体」のままでよいようにも思う。</note>
       <tuv xml:lang="EN-US">
         <seg>Distribution is generally viewed as the provision of a copy of a piece of software in binary or source code form to another entity (an individual or organization outside your company or organization)</seg>
@@ -261,6 +288,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>E.g., when software is “dual licensed,” recipients can choose to use or distribute the software under a choice of two licenses</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T125701Z" creationid="maabou" creationdate="20170503T125701Z">
+        <seg>例：ソフトウェアが「デュアルライセンス」であるとき、受け手はそのソフトウェアの使用もしくは頒布について、ふあっつのライセンスの選択肢から選択することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>End to End Compliance Management (Example Process)</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170325T063433Z" creationid="maabou" creationdate="20170325T063433Z">
@@ -273,6 +308,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T035533Z" creationid="maabou" creationdate="20170502T032552Z">
         <seg>GPL version 2.0よりライセンス互恵性の例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T133433Z" creationid="maabou" creationdate="20170503T132712Z">
+        <seg>例）</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +393,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>For more on dual-licensing<ph x="0">&lt;t0/&gt;</ph> as a business model: http://<ph x="1">&lt;t1/&gt;</ph>oss-watch.ac.uk<ph x="2">&lt;t2/&gt;</ph>/resources/duallicence2</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135935Z" creationid="maabou" creationdate="20170503T135935Z">
+        <seg>ビジネスモデルとしてのデュアル ライセンス<ph x="0">&lt;t0/&gt;</ph>についての詳細はこちら： http://<ph x="1">&lt;t1/&gt;</ph>oss-watch.ac.uk<ph x="2">&lt;t2/&gt;</ph>/resources/duallicence2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Free and <ph x="0">&lt;t0/&gt;</ph>FOSS<ph x="1">&lt;t1/&gt;</ph> Software licenses generally make source code available under terms that allow for modification and redistribution</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T013929Z" creationid="maabou" creationdate="20170502T013559Z">
@@ -399,6 +450,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>GPL-2.0 project also includes code under BSD-3-Clause</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T131058Z" creationid="maabou" creationdate="20170503T131022Z">
+        <seg>GPL-2.0 プロジェクトはBSD三条項ライセンス下のコードも含みます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Geographical scope</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170428T051153Z" creationid="maabou" creationdate="20170428T051153Z">
@@ -438,6 +497,23 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If they choose the license you <ph x="0">&lt;t0/&gt;</ph>weren<ph x="1">&lt;t1/&gt;</ph>’<ph x="2">&lt;t2/&gt;</ph>t going to use, now you might have to consider if you should figure out who the original © holder is and get the code directly from them</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T133353Z" creationid="maabou" creationdate="20170503T132709Z">
+        <seg>もし使おうとしていなかった<ph x="0">&lt;t0/&gt;</ph><ph x="1">&lt;t1/&gt;</ph><ph x="2">&lt;t2/&gt;</ph>ライセンスを選択するなら、原著作の著作権保有者が誰かを明確にしてそこから直接コードを入手すべきかどうかをすぐに検討しなければいけないかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you do not delete - the provisions above, a recipient may use your version of this file under - the terms of any one of the MPL, the GPL or the LGPL.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135338Z" creationid="maabou" creationdate="20170503T135338Z">
+        <seg>対象者が上記の条項を削除しない場合、受領者は MPL または GPLもしくはLGPL ライセンスのいずれによってもこのファ
+イルを使用することができます。」</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani: in questionは「問題の」という意味だが、「疑義の対象となる」といったニュアンスが適当。以下サイトに「被疑物件」という名称があったあｔめこれを採用した。http://www.teclawplo.com/column08-003-004.html</note>
       <tuv xml:lang="EN-US">
         <seg>If you have independently developed your own software, then you may not need a copyright license if you can show the independent development and you had no access to the copyrighted work in question.</seg>
@@ -455,6 +531,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If you wish to allow use of your version of this file only - under the terms of either the GPL or the LGPL, and not to allow others to - use your version of this file under the terms of the MPL, indicate your - decision by deleting the provisions above and replace them with the notice - and other provisions required by the LGPL or the GPL.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135301Z" creationid="maabou" creationdate="20170503T135014Z">
+        <seg>このファイルの他者による使用をGPLもしくはLGPLライセンスの条件によってのみ許可し、MPL による使用を許可したくない対象者は、上記の条項を削除することでその意思を示し、上記条項を GPLもしくはLGPL ライセンスで義務付けられている告知およびその他の条項に置き換えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここでの「rather than ～」は「～ではなく」というニュアンスのようだが、mayという蓋然性も考慮して、「～というよりむしろ」とした</note>
       <tuv xml:lang="EN-US">
         <seg>In such cases, the software may be viewed as being under a license rather than being in the public domain</seg>
@@ -469,6 +553,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T062721Z" creationid="maabou" creationdate="20170503T062404Z">
         <seg>米国ではパブリック ドメイン ソフトウェアに<ph x="0">&lt;t0/&gt;</ph> FOSS のコードが含まれる可能性がありますが、全ての法域がその存在を認識したり、パブリック ドメインの下で原作者の公開を許容したりするわけではないことは留意しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In<ph x="0">&lt;t0/&gt;</ph> this situation you h<ph x="1">&lt;t1/&gt;</ph>ave to comply with both sets of license terms</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T131213Z" creationid="maabou" creationdate="20170503T131213Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>この状況においては両方の条項を満たさなければいけません。<ph x="1">&lt;t1/&gt;</ph></seg>
       </tuv>
     </tu>
     <tu>
@@ -595,10 +687,48 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Mozilla tri-license</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T131458Z" creationid="maabou" creationdate="20170503T131458Z">
+        <seg>Mozilla 3ライセンス（tri-license）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:multi-licensingはマルチライセンスと訳すことにする。licensingは基本的に供与する視点の言葉だと思うが、実質的に供与を受ける側視点の言葉である「ライセンス」と表記しても違和感がないため。念のためこちらも参考。「デュアル ライセンス」https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9ｚ</note>
+      <tuv xml:lang="EN-US">
+        <seg>Multi-Licensing</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T124548Z" creationid="maabou" creationdate="20170503T124548Z">
+        <seg>マルチ ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:「practice」は「慣行」とした。選択に当たり以下辞書サイトを参考にした。
+https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7.99.BE.E7.A7.91.E5.85.A8.E6.9B.B8.28.E3.83.8B.E3.83.83.E3.83.9D.E3.83.8B.E3.82.AB.29
+「日常用語では、広義に、慣習的な行動のすべてをいい、また狭義には、一定社会の人々に伝統的に守られている生活上の規則的な作業あるいは行事を意味する。」
+
+</note>
+      <tuv xml:lang="EN-US">
+        <seg>Multi-licensing refers to the practice of distributing software under two or more different sets of terms and conditions</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T125424Z" creationid="maabou" creationdate="20170503T125424Z">
+        <seg>マルチライセンスはソフトウェアを2つ以上の異なる条項や条件のセットの下で頒布する慣行をいいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Note: The interpretation of what constitutes a “derivative work” or a “distribution” is subject to debate in the FOSS community and within FOSS legal circles</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170428T050226Z" creationid="maabou" creationdate="20170331T052600Z">
         <seg>注：何をもって「二次的著作物」、「頒布」とするかの解釈はFOSSコミュニティとFOSSの法的領域で考慮された内容に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note: This should not be confused for situations in which a licensor imposes more than one license, and you must comply with all of them</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T130222Z" creationid="maabou" creationdate="20170503T130136Z">
+        <seg>注：ライセンサ（ライセンス供与者）が一つ以上のライセンスを課すといったことや、全てのライセンスを満たさなければならないといった状況ではないので、混同しないようにしてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -860,6 +990,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Sometimes a project has a disjunctive licensing situation, but only one license is included in your code – so perhaps the person you got the code from already made this choice.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T132641Z" creationid="maabou" creationdate="20170503T132641Z">
+        <seg>時として、プロジェクトが離接的なライセンス下にあっても、自分のコードに組み入れられているのが一つのライセンスだけという場合、コード入手元がすでにこの選択をすでに実施したことなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Sometimes these are confused with FOSS but their requirements are<ph x="0">&lt;t0/&gt;</ph> actually different.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T044653Z" creationid="maabou" creationdate="20170503T044653Z">
@@ -1107,6 +1245,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This is the situation where more than set of license terms can apply to a piece of software.<ph x="1">&lt;t1/&gt;</ph>Conjunctive<ph x="2">&lt;t2/&gt;</ph> = Multiple licenses apply</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T131255Z" creationid="maabou" creationdate="20170503T130929Z">
+        <seg>これは、1セットより多くのライセンス条項がソフトウェアに適用される状況です。<ph x="1">&lt;t1/&gt;</ph>結合的（Conjunctive）<ph x="2">&lt;t2/&gt;</ph> ＝ 複数のライセンスを適用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This overview is not intended to cover all aspects of Intellectual Property.<ph x="0">&lt;t0/&gt;</ph> It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to FOSS compliance.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170326T223813Z" creationid="maabou" creationdate="20170326T223057Z">
@@ -1218,6 +1364,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This slides explains<ph x="0">&lt;t0/&gt;</ph> multi-licensing.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T130259Z" creationid="maabou" creationdate="20170503T130259Z">
+        <seg>このスライドは<ph x="0">&lt;t0/&gt;</ph> マルチライセンスについて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:後半部分が何を意味しているかがいまいち読み取れず。ここで描かれている「ライセンス」の意味がUS法で意味するところと違っているということか？</note>
       <tuv xml:lang="EN-US">
         <seg>This<ph x="0">&lt;t0/&gt;</ph> slide explains what is a “license.” This is different to a contract under US law.</seg>
@@ -1257,6 +1411,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170501T073040Z" creationid="maabou" creationdate="20170428T030257Z">
         <seg>許可される使用種別（頒布、二次的著作物、作る、作らせる、加工する）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Under disjunctive licensing you have a choice of licensing, i.e. GPL and a more permissive license option, you may choose which license<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>you are going to distribute under depending on license<ph x="2">&lt;t2/&gt;</ph> compatibility, <ph x="3">&lt;t3/&gt;</ph>license requirements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T132220Z" creationid="maabou" creationdate="20170503T132220Z">
+        <seg>離接的なライセンスの下では、ライセンスを選択することができます。つまりGPLとよりパーミッシブなライセンスが選択肢にあった場合、どちらか<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>をライセンスの<ph x="2">&lt;t2/&gt;</ph> 両立性と <ph x="3">&lt;t3/&gt;</ph>要求事項に依存してどちらのライセンスで頒布するか選択することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1324,6 +1486,32 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T054548Z" creationid="maabou" creationdate="20170503T054401Z">
         <seg>例）「本ソフトウェアの全てのコードと文書類は著作者によりパブリックドメインにささげられました」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135403Z" creationid="maabou" creationdate="20170503T135403Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>“<ph x="0">&lt;t0/&gt;</ph>dual<ph x="1">&lt;t1/&gt;</ph>” = confusing term that may be used<ph x="2">&lt;t2/&gt;</ph> for any of these situations, but usually refers to business model of OSS license or commercial license choice</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135845Z" creationid="maabou" creationdate="20170503T135355Z">
+        <seg>「<ph x="0">&lt;t0/&gt;</ph>デュアル（Dual）<ph x="1">&lt;t1/&gt;</ph>」＝ここでかいた状況すべてで使われ売る、混乱を招く用語ですが<ph x="2">&lt;t2/&gt;</ph> 、通常この用語はOSSライセンスもしくは商用ライセンスの選択に関するビジネスモデルについて言及しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:MPL1.1を和訳したMizilla Japanのサイトからそのまま転記（抜粋）http://www.mozilla-japan.org/MPL/MPL-1.1J.html
+</note>
+      <tuv xml:lang="EN-US">
+        <seg>“The contents of this file are subject to the Mozilla Public License Version - 1.1 (the "License"); you may not use this file except in compliance with - the License.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135046Z" creationid="maabou" creationdate="20170503T134059Z">
+        <seg>「本ファイルの内容は Mozilla Public License Version 1.1 (「本ライセンス」) の適用を受けます。本ライセンスに従わない限り本ファイルを使用することはできません。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
