@@ -91,6 +91,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are Freeware and Shareware software considered FOSS?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140633Z" creationid="maabou" creationdate="20170503T140633Z">
+        <seg>フリーソフトウェアとシェアウェアはFOSSとみなされますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attribution notice &lt;t0/&gt;- a notice included in the product release that acknowledges the identity of the original authors of the FOSS included in the product.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T122739Z" creationid="maabou" creationdate="20170503T100551Z">
@@ -168,6 +176,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T041341Z" creationid="maabou" creationdate="20170502T041222Z">
         <seg>コピーレフト ライセンスは、ソースが使用できる状態にあることを義務づける場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyleft-style licenses often have source availability obligations, which require you to provide accompanying source code when you distribute a binary version of a program or library.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T142110Z" creationid="maabou" creationdate="20170503T142110Z">
+        <seg>コピーレフト スタイルのライセンスには多くの場合、ソース取得についての義務があり、プログラムやライブラリのバイナリ版を頒布する場合にソースコードを添付することを求めます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,6 +344,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples of copyleft-style licenses include GPL and LGPL.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T141927Z" creationid="maabou" creationdate="20170503T141927Z">
+        <seg>コピーレフト スタイルのライセンスにはGPL、LGPLといったものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of permissive FOSS licenses include MIT, BSD, and Apache.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T141315Z" creationid="maabou" creationdate="20170503T141315Z">
+        <seg>パーミッシブなFOSSライセンスの例としてはMIT、BSD、Apacheライセンスがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples of works of authorship include photographs, songs, and computer code.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T100049Z" creationid="maabou" creationdate="20170501T100049Z">
@@ -349,6 +381,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T013227Z" creationid="maabou" creationdate="20170502T013227Z">
         <seg>FOSS（フリー／オープンソース ソフトウェア）ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Notices may include information about the identity of the copyright holders and the license governing the software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T143109Z" creationid="maabou" creationdate="20170503T143109Z">
+        <seg>FOSSの告知／通知／表示（Notice）は、著作権保有者の証や、そのソフトウェアをコントロールするライセンスについての情報を含む場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Notices may provide notice about modifications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T143145Z" creationid="maabou" creationdate="20170503T143145Z">
+        <seg>FOSSの告知／通知／表示（Notice）が改版のついての告知を提供する場合もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -377,6 +425,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS licenses are Free and FOSS Software licenses generally make source code available under terms that allow for modification and redistribution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140924Z" creationid="maabou" creationdate="20170503T140919Z">
+        <seg>FOSSライセンスはフリー、FOSSソフトウェア ライセンスで、一般に改変と再頒布を許容する条件の下でソースコードを取得可能にするものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS licenses may also require the placement of notices in source code or documentation to give credit to the author (an attribution) or to make it clear the software includes modifications.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T093455Z" creationid="maabou" creationdate="20170503T091829Z">
@@ -389,6 +445,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014021Z" creationid="maabou" creationdate="20170502T013915Z">
         <seg>FOSSライセンスには、帰属の提供や著作権宣言文の維持もしくはソースコードが取得できる「書面による申し出（Written offer)」に係る条件を有する場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, an open source software can be dual-licensed under MIT and GPLv2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T142922Z" creationid="maabou" creationdate="20170503T142922Z">
+        <seg>例えば、あるオープンソース ソフトウェアはMITとGPLv2の2つのライセンスを付与することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For more on dual-licensing&lt;t0/&gt; as a business model: http://&lt;t1/&gt;oss-watch.ac.uk&lt;t2/&gt;/resources/duallicence2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T135935Z" creationid="maabou" creationdate="20170503T135935Z">
+        <seg>ビジネスモデルとしてのデュアル ライセンス&lt;t0/&gt;についての詳細はこちら： http://&lt;t1/&gt;oss-watch.ac.uk&lt;t2/&gt;/resources/duallicence2</seg>
       </tuv>
     </tu>
     <tu>
@@ -413,6 +485,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T044245Z" creationid="maabou" creationdate="20170503T044245Z">
         <seg>フリーウェアとシェアウェアは、FOSSではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware and Shareware are not FOSS.The reason is that even though freeware and shareware are available without cost, they don't allow the users to make modifications to the software.In fact,&lt;t0/&gt; &lt;t1/&gt;many of the freeware and shareware contain similar license restrictions common in proprietary software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T142630Z" creationid="maabou" creationdate="20170503T142630Z">
+        <seg>フリーウェアとシェアウェアはFOSSではありません。フリーウェアもシェアウェアもコストがかからずに取得可能ですが、使用者に対しソフトウェアの改変を許容していないことがこの理由です。実際には、&lt;t0/&gt; &lt;t1/&gt;多くのフリーウェアとソフトウェアがプロプライエタリソフトウェアに共通する類似のライセンス制約を含んでいます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -541,6 +621,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In that case, you are free to choose the license that suits your need.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T142953Z" creationid="maabou" creationdate="20170503T142953Z">
+        <seg>そのようなケースでは、使用者がニーズに合わせてライセンスを事由に選択できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the US public domain software can be included in&lt;t0/&gt; FOSS code, but it should be noted that not all legal jurisdictions recognize the existence or permit the release of authorship under public domain.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T062721Z" creationid="maabou" creationdate="20170503T062404Z">
@@ -621,6 +709,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>License reciprocity means that the derivative work of the copyrighted work must be made available under the same license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T141455Z" creationid="maabou" creationdate="20170503T141455Z">
+        <seg>ライセンスの互恵性は、著作権のある著作物の二次的著作物が同じライセンスの下で取得されなければならないことを意味しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Licenses</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002458Z" creationid="maabou" creationdate="20170428T002458Z">
@@ -695,6 +791,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Multi-license refers to the practice where software is made available under multiple licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T142749Z" creationid="maabou" creationdate="20170503T142749Z">
+        <seg>マルチライセンスはソフトウェアを複数のライセンスの下で使うことができる慣行のことを言います。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:「practice」は「慣行」とした。選択に当たり以下辞書サイトを参考にした。
 https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7.99.BE.E7.A7.91.E5.85.A8.E6.9B.B8.28.E3.83.8B.E3.83.83.E3.83.9D.E3.83.8B.E3.82.AB.29
 「日常用語では、広義に、慣習的な行動のすべてをいい、また狭義には、一定社会の人々に伝統的に守られている生活上の規則的な作業あるいは行事を意味する。」
@@ -705,6 +809,22 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T125424Z" creationid="maabou" creationdate="20170503T125424Z">
         <seg>マルチライセンスはソフトウェアを2つ以上の異なる条項や条件のセットの下で頒布する慣行をいいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name some copyleft-style licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140440Z" creationid="maabou" creationdate="20170503T140440Z">
+        <seg>コピーレフトの形態をとるライセンスの名称をいくつか挙げてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name some permissive FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140444Z" creationid="maabou" creationdate="20170503T140331Z">
+        <seg>パーミッシブなライセンスの名称をいくつか挙げてください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,6 +897,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T021342Z" creationid="maabou" creationdate="20170502T021342Z">
         <seg>その他の例：MITライセンス、Apache-2.0ライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other names being used include "hereditary", "copyleft", "share-alike", and pejoratively"viral."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T141857Z" creationid="maabou" creationdate="20170503T141857Z">
+        <seg>その他の言い方として、「遺伝的」、「コピーレフト」、「継承」そして非難的な意味で「ウィルス性」といったものがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,6 +1240,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The source code should be of the same version and content that corresponds to the binary version you distribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T142221Z" creationid="maabou" creationdate="20170503T142221Z">
+        <seg>ソースコードは同じ版数のものでなくてはならず、内容は頒布するバイナリ版に対応していなくてはいけません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここのtermはどう訳すか。条項とすべきか、用語とすべきか
 </note>
       <tuv lang="EN-US">
@@ -1407,10 +1543,26 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical obligations of a permissive FOSS license are that the copyright notice and warranty disclaimer are included with the software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T141040Z" creationid="maabou" creationdate="20170503T141040Z">
+        <seg>パーミッシブなライセンスの典型的な義務は、著作権表示と保証免責条項がソフトウェアに含まれることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Under disjunctive licensing you have a choice of licensing, i.e. GPL and a more permissive license option, you may choose which license&lt;t0/&gt; &lt;t1/&gt;you are going to distribute under depending on license&lt;t2/&gt; compatibility, &lt;t3/&gt;license requirements.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T132220Z" creationid="maabou" creationdate="20170503T132220Z">
         <seg>離接的なライセンスの下では、ライセンスを選択することができます。つまりGPLとよりパーミッシブなライセンスが選択肢にあった場合、どちらか&lt;t0/&gt; &lt;t1/&gt;をライセンスの&lt;t2/&gt; 両立性と &lt;t3/&gt;要求事項に依存してどちらのライセンスで頒布するか選択することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Very often, the license would expressly prohibits users from using the author's name without permission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T141214Z" creationid="maabou" creationdate="20170503T141214Z">
+        <seg>多くの場合、当該ライセンスでは許可なく著作者の名前を使用することを明確に禁止しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,10 +1575,34 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What are typical obligations of a permissive FOSS license?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140300Z" creationid="maabou" creationdate="20170503T140300Z">
+        <seg>パーミッシブなFOSSライセンスの典型的な義務としてどういったものがありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What copyright rights are most important for software?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T074813Z" creationid="maabou" creationdate="20170501T074029Z">
         <seg>ソフトウェアにとってもっとも重要なのはどのような著作権ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What does license reciprocity mean?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140356Z" creationid="maabou" creationdate="20170503T140356Z">
+        <seg>ライセンスの互恵性とはどういったことを意味していますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What information may you find in FOSS Notices, and how may the notices be used?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140745Z" creationid="maabou" creationdate="20170503T140745Z">
+        <seg>FOSSの告知／通知／表示（Notice）にはどういった情報がありますか？またそれらはどのように使われますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1439,10 +1615,34 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What is a FOSS license?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140218Z" creationid="maabou" creationdate="20170503T140218Z">
+        <seg>FOSSライセンスとはどういったものでしょうか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is a multi-license?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140645Z" creationid="maabou" creationdate="20170503T140645Z">
+        <seg>マルチライセンスとはどういったものでしょうか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is “Intellectual Property”?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T062732Z" creationid="maabou" creationdate="20170326T062732Z">
         <seg>"知的財産”とは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What needs to be distributed for code used under a copyleft license?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T140603Z" creationid="maabou" creationdate="20170503T140603Z">
+        <seg>コピーレフトライセンスの下で使用されるコードについては何が頒布される必要がありますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1492,8 +1692,8 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       <tuv lang="EN-US">
         <seg>“&lt;t0/&gt;dual&lt;t1/&gt;” = confusing term that may be used&lt;t2/&gt; for any of these situations, but usually refers to business model of OSS license or commercial license choice</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170503T135355Z" creationid="maabou" creationdate="20170503T135355Z">
-        <seg>“&lt;t0/&gt;デュアル&lt;t1/&gt;” = confusing term that may be used&lt;t2/&gt; for any of these situations, but usually refers to business model of OSS license or commercial license choice</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T135845Z" creationid="maabou" creationdate="20170503T135355Z">
+        <seg>「&lt;t0/&gt;デュアル（Dual）&lt;t1/&gt;」＝ここでかいた状況すべてで使われ売る、混乱を招く用語ですが&lt;t2/&gt; 、通常この用語はOSSライセンスもしくは商用ライセンスの選択に関するビジネスモデルについて言及しています。</seg>
       </tuv>
     </tu>
     <tu>
