@@ -24,6 +24,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;Example: &lt;t2/&gt;Copyright © A. Person (2016).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T094600Z" creationid="maabou" creationdate="20170503T094600Z">
+        <seg>&lt;t1/&gt;例： &lt;t2/&gt;Copyright © A. Person (2016).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A "license" is the way a copyright or patent holder gives permission or rights to someone else</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002641Z" creationid="maabou" creationdate="20170428T002641Z">
@@ -68,6 +76,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T012118Z" creationid="maabou" creationdate="20170502T011443Z">
         <seg>一つの例としてFFMpeg&lt;t0/&gt; &lt;t1/&gt;があります。これはビデオの符号化／復号化のためのコーデック機能を提供するフリー ソフトウェア プロジェクトですが、何らかのフォーマットを符号化／復号化をするには特許ライセンスが必要となるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Attribution notice &lt;t0/&gt;- a notice included in the product release that acknowledges the identity of the original authors of the FOSS included in the product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T122739Z" creationid="maabou" creationdate="20170503T100551Z">
+        <seg>帰属表示（Attribution notice） &lt;t0/&gt;－製品リリースに含まれる、原作者の証としてこれを知らせる表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -157,6 +173,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T224820Z" creationid="maabou" creationdate="20170326T224820Z">
         <seg>一般的に著作権は、書籍、動画、絵画、音楽、地図などの文芸作品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright notice &lt;t0/&gt;- an identifier placed on copies of the work to inform the world of copyright ownership.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T094552Z" creationid="maabou" creationdate="20170503T094552Z">
+        <seg>著作権表示（Copyright notice） &lt;t0/&gt;－その著作物の著作権保有者を社会に知らしめるべく、写し（copy）に掲載される識別子のこと</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +330,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T113151Z" creationid="maabou" creationdate="20170502T113151Z">
         <seg>FOSSの開発者たちはしばしば「&lt;t0/&gt;プロプライエタリ」を商用のFOSSでないライセンスを言い表す際に用いますが&lt;t1/&gt;、FOSSとプロプライエタリ、どちらのライセンスも知的財産に基づき、 その財産にライセンスを付与するものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licenses may also require the placement of notices in source code or documentation to give credit to the author (an attribution) or to make it clear the software includes modifications.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T093455Z" creationid="maabou" creationdate="20170503T091829Z">
+        <seg>また、FOSSライセンスは告知／通知／表示のソースコードや文書類における場所を要求する場合があります。これは著作者の功績を称えたり（帰属表示として）、そのソフトウェアが改変されたことを明確にさせたりするためです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -497,6 +529,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>License notice&lt;t0/&gt; - a notice that acknowledges the license terms and conditions of the FOSS included in the product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T095548Z" creationid="maabou" creationdate="20170503T095543Z">
+        <seg>ライセンス表示（License notice）&lt;t0/&gt; －その製品に含まれるFOSSのライセンス条項や条件を知らせる表示（notice)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Licenses</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002458Z" creationid="maabou" creationdate="20170428T002458Z">
@@ -528,6 +568,15 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:ここはSpecificationにおける工内さんの訳「改変告知」に統一させておきたい。</note>
+      <tuv lang="EN-US">
+        <seg>Modification notice &lt;t0/&gt;– a notice that you have made modifications to the source code of a file, such as adding your copyright notice to the top of the file.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T123241Z" creationid="maabou" creationdate="20170503T122858Z">
+        <seg>改変告知（Modification notice） &lt;t0/&gt;－ファイルのソースコードに対して改変を実施したという告知。たとえばファイルの上部に著作権表示を加える、など。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Most companies are very leery of Shareware, because Shareware vendors often approach companies for large license payments after the software has freely propagated within their organizations.</seg>
       </tuv>
@@ -550,6 +599,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T050226Z" creationid="maabou" creationdate="20170331T052600Z">
         <seg>注：何をもって「二次的著作物」、「頒布」とするかの解釈はFOSSコミュニティとFOSSの法的領域で考慮された内容に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T091945Z" creationid="maabou" creationdate="20170503T091037Z">
+        <seg>告知／通知／表示（Notice）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notices, such as text in comments in file headers, often provide authorship and licensing information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T092045Z" creationid="maabou" creationdate="20170503T091555Z">
+        <seg>告知／通知／表示（Notices）は、しばしば著作者やライセンスに関する情報を提供します。例えばファイルのヘッダーにあるコメント行の文字列などがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,6 +1077,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220210Z" creationid="maabou" creationdate="20170326T220011Z">
         <seg>本章ではFOSSコンプライアンスに最も関係する、著作権と特許権に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an important consideration when choosing code and choosing licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T090732Z" creationid="maabou" creationdate="20170503T090732Z">
+        <seg>コードやライセンスを選択する際にこれは重要な検討事項となります。</seg>
       </tuv>
     </tu>
     <tu>

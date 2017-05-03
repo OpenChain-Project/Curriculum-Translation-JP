@@ -159,3 +159,6 @@ enforceability	enforceability執行可能性、法的強制力、権利行使可
 warranty disclaimers	保証免責	保証免責そのものについては以下サイト参照。http://www.mkikuchi-law.com/article/14921731.html
 compatibility	両立性	MLの議論で「互換性」は使わないことになった。
 extend	（extend toで）～におよぶ
+placement	配置
+give credit to	～の功績を称える	以下のサイトなが参考になった。http://gujo.blog.fc2.com/blog-entry-3.html
+identifier	識別子	「識別子」（デジタル大辞泉から）：複数の対象から、ある特定の対象を一意的に区別するために用いられる名称、符号、文字列、数値。識別符号
