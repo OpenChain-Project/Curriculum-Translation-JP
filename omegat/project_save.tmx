@@ -317,6 +317,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware and Shareware are not FOSS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T044245Z" creationid="maabou" creationdate="20170503T044245Z">
+        <seg>フリーウェアとシェアウェアは、FOSSではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware or Shareware licensing should not be regarded as the same or compatible with FOSS licensing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T045235Z" creationid="maabou" creationdate="20170503T045235Z">
+        <seg>フリーウェアおよびシェアウェアにおけるライセンスはFOSSライセンスと同じもの、もしくは両立可能なものとみなすべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:limited/unlimited に「日数について」の制約の含意はない。</note>
       <tuv lang="EN-US">
         <seg>Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage)</seg>
@@ -436,6 +452,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061909Z" creationid="maabou" creationdate="20170428T061909Z">
         <seg>保証、免責、サポート、アップグレード、保守に関する契約事項も含まれる場合がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most companies are very leery of Shareware, because Shareware vendors often approach companies for large license payments after the software has freely propagated within their organizations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T043944Z" creationid="maabou" creationdate="20170503T043944Z">
+        <seg>大半の企業は、シェアウェアを非常に警戒します。そのソフトウェアが組織内で自由に広まってしまった後でそのシェアウェア ベンダーが大口ライセンスへの支払いを迫ることがしばしばあるためです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,6 +682,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes these are confused with FOSS but their requirements are&lt;t0/&gt; actually different.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T044653Z" creationid="maabou" creationdate="20170503T044653Z">
+        <seg>これらは時としてFOSSと混同されることがありますが、その要求事項は&lt;t0/&gt;実質的に異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T020143Z" creationid="maabou" creationdate="20170502T020143Z">
@@ -676,8 +708,8 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       <tuv lang="EN-US">
         <seg>The goal of shareware is to give potential buyers the opportunity to use the program and judge its usefulness before purchasing a license for the full version of the software</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170502T221525Z" creationid="maabou" creationdate="20170502T221525Z">
-        <seg>シェアウェアの目的は、購入見込みのある人がそのプログラムを使用し、ソフトウェアの完全版ライセンスの購入前にその有用性を評価する機会を提供することにあります。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T042256Z" creationid="maabou" creationdate="20170502T221525Z">
+        <seg>シェアウェアの目的は、将来の購買者がその有用性を評価できるよう、そのソフトウェアの完全版ライセンスを購入する前にプログラムを使用する機会を提供することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -763,6 +795,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170331T045141Z" creationid="maabou" creationdate="20170331T045024Z">
         <seg>二次的著作物という用語はその新しい著作物が著作権者の原作に基づいて表現できるように、原作に対し十分に独創的で創造的な作業が加えらた、原作に基づく新しい作品のことを言います。（なおこの用語は米国法令に基づいているのでご留意ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are other types of license used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T044400Z" creationid="maabou" creationdate="20170503T044400Z">
+        <seg>その他のタイプのライセンスも使われます。</seg>
       </tuv>
     </tu>
     <tu>

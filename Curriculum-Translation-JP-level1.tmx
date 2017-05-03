@@ -310,6 +310,47 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Freeware - software distributed under a proprietary license at no or very low cost</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T114413Z" creationid="maabou" creationdate="20170502T114413Z">
+        <seg>フリーウェア－プロプライエタリ ライセンスの下に、無料もしくは非常に低コストで頒布されるソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware and Shareware are not FOSS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T044245Z" creationid="maabou" creationdate="20170503T044245Z">
+        <seg>フリーウェアとシェアウェアは、FOSSではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware or Shareware licensing should not be regarded as the same or compatible with FOSS licensing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T045235Z" creationid="maabou" creationdate="20170503T045235Z">
+        <seg>フリーウェアおよびシェアウェアにおけるライセンスはFOSSライセンスと同じもの、もしくは両立可能なものとみなすべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:limited/unlimited に「日数について」の制約の含意はない。</note>
+      <tuv lang="EN-US">
+        <seg>Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T122459Z" creationid="maabou" creationdate="20170502T122459Z">
+        <seg>フリーウェアのソフトウェアは一般にすべての機能が使え（機能制約がない）、制限なく使える（使用日数における制約がない）ものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware software licenses usually impose restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T122911Z" creationid="maabou" creationdate="20170502T122911Z">
+        <seg>フリーウェアのソフトウェアは（個人使用、商業目的、学術目的など）使用タイプについての制約と同様に、通常そのソフトウェアのコピー、頒布、二次的著作物の作成についての制約を課します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Geographical scope</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T051153Z" creationid="maabou" creationdate="20170428T051153Z">
@@ -414,6 +455,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Most companies are very leery of Shareware, because Shareware vendors often approach companies for large license payments after the software has freely propagated within their organizations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T043944Z" creationid="maabou" creationdate="20170503T043944Z">
+        <seg>大半の企業は、シェアウェアを非常に警戒します。そのソフトウェアが組織内で自由に広まってしまった後でそのシェアウェア ベンダーが大口ライセンスへの支払いを迫ることがしばしばあるためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここはcreative workとなっているのはおそらく間違い。ただしいと思われるderivative work（二次的著作物）で訳す。</note>
       <tuv lang="EN-US">
         <seg>Most important copyright concepts for software are: right to reproduce, right to make creative works (or right to modify), and right to distribute.</seg>
@@ -436,6 +485,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014521Z" creationid="maabou" creationdate="20170502T014521Z">
         <seg>ライセンスで良く知られているものとしてFOSS Iイニシアチブ（OSI)が 、彼らのFOSS定義（OSD）に基づき承認したものが挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other Licensing Situations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T114126Z" creationid="maabou" creationdate="20170502T114126Z">
+        <seg>その他のライセンシングを取り巻く状況</seg>
       </tuv>
     </tu>
     <tu>
@@ -579,6 +636,15 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:functionalityは機能（それが持つ能力）、featureは機構（なんからの目的にあった特定の機能）。どちらも同じような意味だがニュアンスが違うもよう。</note>
+      <tuv lang="EN-US">
+        <seg>Shareware - proprietary software provided to users on a trial basis, for a limited time, free of charge and with limited functionalities or features</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T220958Z" creationid="maabou" creationdate="20170502T214918Z">
+        <seg>シェアウェア－無料で期間・機能限定した試用を基本として使用者に提供されるプロプライエタリのソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Software can be subject to a patent.</seg>
       </tuv>
@@ -616,6 +682,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes these are confused with FOSS but their requirements are actually different.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T044653Z" creationid="maabou" creationdate="20170503T044653Z">
+        <seg>これらは時としてFOSSと混同されることがありますが、その要求事項は実質的に異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T020143Z" creationid="maabou" creationdate="20170502T020143Z">
@@ -628,6 +702,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
         <seg>その作品の著作権保有者だけが、他の誰かが独立して創造したものではない、自らが創造した作品のコントロールができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The goal of shareware is to give potential buyers the opportunity to use the program and judge its usefulness before purchasing a license for the full version of the software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T042256Z" creationid="maabou" creationdate="20170502T221525Z">
+        <seg>シェアウェアの目的は、将来の購買者がその有用性を評価できるよう、そのソフトウェアの完全版ライセンスを購入する前にプログラムを使用する機会を提供することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +780,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The source code may or may not be available, and creation of derivative works is usually restricted</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170502T114630Z" creationid="maabou" creationdate="20170502T114630Z">
+        <seg>そのソースコードは取得できる場合もそうでない場合もあります。二次的創作物は一般的に制限されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここのtermはどう訳すか。条項とすべきか、用語とすべきか
 </note>
       <tuv lang="EN-US">
@@ -705,6 +795,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170331T045141Z" creationid="maabou" creationdate="20170331T045024Z">
         <seg>二次的著作物という用語はその新しい著作物が著作権者の原作に基づいて表現できるように、原作に対し十分に独創的で創造的な作業が加えらた、原作に基づく新しい作品のことを言います。（なおこの用語は米国法令に基づいているのでご留意ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are other types of license used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T044400Z" creationid="maabou" creationdate="20170503T044400Z">
+        <seg>その他のタイプのライセンスも使われます。</seg>
       </tuv>
     </tu>
     <tu>

@@ -153,3 +153,4 @@ include	含める、盛り込む、（以下も参照）	〔主語〕として�
 proprietary	プロプライエタリ	「所有権がある」といった意味があるが、一般的にそのまま使われている
 variation	変種、バリエーション
 lock	制限する、固定する	「制限する」意味はあまり一般的ではないようだが、oxford辞書[*]で以下の記述有。「Restrict access to the full functionality or data of (a computer, mobile phone, file, etc.)」[*]https://en.oxforddictionaries.com/definition/lock
+leery 	疑い深い、油断しない	「leery of ～」で～に不信感を抱く、～に用心している、警戒心を抱いている、～するのを嫌がる、～するのが怖い
