@@ -124,7 +124,7 @@ overview	概観、概説
 big picture	全体像
 literary	著述の、文学の、文芸の	文芸として広く捉える場合と、著述や文学として狭く捉える場合がありレベルに差がある
 entity	実体
-subject to	依存する、影響下・支配下にある
+subject to	依存する、影響下・支配下にある、～を必要とする、条件とする
 circle	サークル、団体、分野、領域
 method of operation	演算方法	特許などの用語の模様
 independent creation	独立創作	以下サイトを参照。www.itlaw.jp/USCCLII.pdf
@@ -146,11 +146,14 @@ lawyer	弁護士、法律家
 popular	良く知られている、人気の
 permissive	許容型の、自由放任の、	(alcから）》〔オープンソースなどのライセンスが〕一方的利用を許す、伝播性のない
 endorsement	宣伝、など	ソフトウェアの著作権の関連では宣伝と使用
-ｒeciprocity	互恵性
+reciprocity	互恵性
 hereditary	遺伝性、世襲制	伝播のニュアンスがありそうだが出てこない。伝播そのものはpropagateなどが使われる?
-
 include	含める、盛り込む、（以下も参照）	〔主語〕としては［には・の中には］～がある［挙げられる・含まれる・顔を連ねる］
 proprietary	プロプライエタリ	「所有権がある」といった意味があるが、一般的にそのまま使われている
 variation	変種、バリエーション
 lock	制限する、固定する	「制限する」意味はあまり一般的ではないようだが、oxford辞書[*]で以下の記述有。「Restrict access to the full functionality or data of (a computer, mobile phone, file, etc.)」[*]https://en.oxforddictionaries.com/definition/lock
 leery 	疑い深い、油断しない	「leery of ～」で～に不信感を抱く、～に用心している、警戒心を抱いている、～するのを嫌がる、～するのが怖い
+public domain	パブリックドメイン、公有（地）	「皆の(Public)」＋「領地(Domain)」
+documentation	資料、文書類、ドキュメンテーション	documentation=a set of documents (1)https://en.wikipedia.org/wiki/Documentation (2)https://www.englishforums.com/English/DocumentVsDocumentation/xghbl/post.htm
+enforceability	enforceability執行可能性、法的強制力、権利行使可能性
+warranty disclaimers	保証免責	保証免責そのものについては以下サイト参照。http://www.mkikuchi-law.com/article/14921731.html

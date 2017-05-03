@@ -56,6 +56,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A public domain declaration attempts to waive or eliminate any intellectual property rights that the developers may have in the software to make it clear that it can be used without restriction, but the enforceability of these declarations is subject to dispute within the FOSS community</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T060057Z" creationid="maabou" creationdate="20170503T054601Z">
+        <seg>パブリック ドメイン宣言とは、開発者がそのソフトウェアで保有できる、あらゆる知的財産権を放棄もしくは消滅させるための試みのことで、制約なくそのソフトウェアが使用できることを明示します。しかしこの宣言の執行可能性についてはFOSSコミュニティにおける議論が必要となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of this would be FFMpeg,&lt;t0/&gt; &lt;t1/&gt;which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T012118Z" creationid="maabou" creationdate="20170502T011443Z">
@@ -182,6 +190,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T201923Z" creationid="maabou" creationdate="20170322T201923Z">
         <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Developers may include a &lt;t0/&gt;public domain declaration&lt;t1/&gt; with their software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T052306Z" creationid="maabou" creationdate="20170503T052306Z">
+        <seg>開発者は自身のソフトウェアとともに&lt;t0/&gt;パブリック ドメイン宣言&lt;t1/&gt; を含めることができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -325,6 +341,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Freeware or Shareware licensing should not be regarded as the same or compatible with FOSS licensing.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T045235Z" creationid="maabou" creationdate="20170503T045235Z">
+        <seg>フリーウェアおよびシェアウェアにおけるライセンスはFOSSライセンスと同じもの、もしくは両立可能なものとみなすべきではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:limited/unlimited に「日数について」の制約の含意はない。</note>
       <tuv lang="EN-US">
         <seg>Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage)</seg>
@@ -351,6 +375,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Germany is one example.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T062429Z" creationid="maabou" creationdate="20170503T062429Z">
+        <seg>ドイツがその一例となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However,&lt;t0/&gt; &lt;t1/&gt;patent protects functionality, and not abstract ideas.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T100748Z" creationid="maabou" creationdate="20170501T100748Z">
@@ -372,6 +404,23 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T075208Z" creationid="maabou" creationdate="20170501T075143Z">
         <seg>単独で自分のソフトウェアを開発した場合、第三者からそのソフトウェアについて著作権ライセンスを必要となるということはありえますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここでの「rather than ～」は「～ではなく」というニュアンスのようだが、mayという蓋然性も考慮して、「～というよりむしろ」とした</note>
+      <tuv lang="EN-US">
+        <seg>In such cases, the software may be viewed as being under a license rather than being in the public domain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T061140Z" creationid="maabou" creationdate="20170503T060905Z">
+        <seg>そのような場合、そのソフトウェアはパブリック ドメインというよりはあるライセンスの下にあるとみなされる場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the US public domain software can be included in&lt;t0/&gt; FOSS code, but it should be noted that not all legal jurisdictions recognize the existence or permit the release of authorship under public domain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T062721Z" creationid="maabou" creationdate="20170503T062404Z">
+        <seg>米国ではパブリック ドメイン ソフトウェアに&lt;t0/&gt; FOSS のコードが含まれる可能性がありますが、全ての法域がその存在を認識したり、パブリック ドメインの下で原作者の公開を許容したりするわけではないことは留意しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +518,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T050226Z" creationid="maabou" creationdate="20170331T052600Z">
         <seg>注：何をもって「二次的著作物」、「頒布」とするかの解釈はFOSSコミュニティとFOSSの法的領域で考慮された内容に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Often the public domain declaration is accompanied by other terms, such as warranty disclaimers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T060554Z" creationid="maabou" creationdate="20170503T060554Z">
+        <seg>多くの場合、パブリック ドメイン宣言は保証免責条項など他の条項を伴います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -613,6 +670,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Public Domain</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T050247Z" creationid="maabou" creationdate="20170503T050247Z">
+        <seg>パブリック ドメイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Released under the &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; license.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
@@ -749,6 +814,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The public domain declaration is not the same as a FOSS license</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T054613Z" creationid="maabou" creationdate="20170503T054432Z">
+        <seg>このパブリック ドメイン宣言はFOSSライセンスと同じものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The right to &lt;t0/&gt;distribute</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170426T052654Z" creationid="maabou" creationdate="20170331T050425Z">
@@ -787,6 +860,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170331T045141Z" creationid="maabou" creationdate="20170331T045024Z">
         <seg>二次的著作物という用語はその新しい著作物が著作権者の原作に基づいて表現できるように、原作に対し十分に独創的で創造的な作業が加えらた、原作に基づく新しい作品のことを言います。（なおこの用語は米国法令に基づいているのでご留意ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The term public domain refers to intellectual property not protected by law and therefore usable by the public without requiring a license</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T051846Z" creationid="maabou" creationdate="20170503T051846Z">
+        <seg>パブリック ドメインという用語は法令で保護されない知的財産のことを言います。このため公衆は（パブリックドメインのものを）ライセンスを求めることなく使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -917,6 +998,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T113247Z" creationid="maabou" creationdate="20170502T113247Z">
         <seg>このスライドでは、プロプライエタリもしくはクローズド ソース ライセンスについて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains public domain, a type of release that means the work is released without any restrictions whatsoever by the authors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T062554Z" creationid="maabou" creationdate="20170503T061822Z">
+        <seg>このスライドではパブリックドメインについて説明しています。作品に対しそれが何であれいかなる制約もないことを意味する、公開タイプの一つといえます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1073,6 +1162,15 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T064541Z" creationid="maabou" creationdate="20170325T020454Z">
         <seg>このスライドを半日のトレーニングセッションとして提供することができます。各章を分け、個別のモジュールとして構成した形で提供することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:</note>
+      <tuv lang="EN-US">
+        <seg>g., "All of the code and documentation in this software has been dedicated to the public domain by the authors."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T054548Z" creationid="maabou" creationdate="20170503T054401Z">
+        <seg>例）「本ソフトウェアの全てのコードと文書類は著作者によりパブリックドメインにささげられました」</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
