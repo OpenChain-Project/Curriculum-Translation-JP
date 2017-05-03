@@ -124,7 +124,7 @@ overview	概観、概説
 big picture	全体像
 literary	著述の、文学の、文芸の	文芸として広く捉える場合と、著述や文学として狭く捉える場合がありレベルに差がある
 entity	実体
-subject to	依存する、影響下・支配下にある、～を必要とする、条件とする
+subject to	依存する、影響下・支配下にある、～を必要とする、条件とする、～しがちである
 circle	サークル、団体、分野、領域
 method of operation	演算方法	特許などの用語の模様
 independent creation	独立創作	以下サイトを参照。www.itlaw.jp/USCCLII.pdf
@@ -157,3 +157,5 @@ public domain	パブリックドメイン、公有（地）	「皆の(Public)」
 documentation	資料、文書類、ドキュメンテーション	documentation=a set of documents (1)https://en.wikipedia.org/wiki/Documentation (2)https://www.englishforums.com/English/DocumentVsDocumentation/xghbl/post.htm
 enforceability	enforceability執行可能性、法的強制力、権利行使可能性
 warranty disclaimers	保証免責	保証免責そのものについては以下サイト参照。http://www.mkikuchi-law.com/article/14921731.html
+compatibility	両立性	MLの議論で「互換性」は使わないことになった。
+extend	（extend toで）～におよぶ

@@ -390,6 +390,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If a second software module is combined with a GPLv2 licensed module that is not a derivative work of the GPLv2 licensed module, the second software module is not subject to GPLv2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T085702Z" creationid="maabou" creationdate="20170503T085702Z">
+        <seg>第二のソフトウェアモジュールをGPLv2でライセンスされたモジュールと組み合わせ、それがGPLv2でライセンスされたモジュールの二次的著作物でなければ、第二のソフトウェアモジュールはGPLv2の影響を受けません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If one license requires you to do something and another prohibits doing that, the licenses conflict and are not compatible if the combination of the two software modules trigger the obligations under a license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T064259Z" creationid="maabou" creationdate="20170503T064020Z">
+        <seg>一つのライセンスが何かすることを要求し、他方のライセンスがそうすることを禁じている場合、それらは矛盾します。 その二つのソフトウェアモジュールの組み合わせがライセンス下での義務を発生させる場合には、二つのライセンスは両立しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani: in questionは「問題の」という意味だが、「疑義の対象となる」といったニュアンスが適当。以下サイトに「被疑物件」という名称があったあｔめこれを採用した。http://www.teclawplo.com/column08-003-004.html</note>
       <tuv lang="EN-US">
         <seg>If you have independently developed your own software, then you may not need a copyright license if you can show the independent development and you had no access to the copyrighted work in question.</seg>
@@ -457,10 +473,26 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>License Compatibility</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T063402Z" creationid="maabou" creationdate="20170503T063402Z">
+        <seg>ライセンスの両立性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>License Reciprocity &amp; Copyleft Licenses</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T030032Z" creationid="maabou" creationdate="20170502T030032Z">
         <seg>ライセンスの互恵性とコピーレフトライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License compatibility is the process of ensuring that license terms do not conflict.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T063654Z" creationid="maabou" creationdate="20170503T063654Z">
+        <seg>ライセンス両立性は、ライセンス条項に矛盾がないことを確かなものにするプロセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +558,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T060554Z" creationid="maabou" creationdate="20170503T060554Z">
         <seg>多くの場合、パブリック ドメイン宣言は保証免責条項など他の条項を伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One example is that the GPLv2 extends its obligations to "derivative works."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T064610Z" creationid="maabou" creationdate="20170503T064610Z">
+        <seg>一つの例は、GPLv2の義務が「二次的著作物」におよぶ場合です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -728,6 +768,22 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Some FOSS licenses are compatible with each other.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T090505Z" creationid="maabou" creationdate="20170503T090505Z">
+        <seg>FOSSにはお互いに両立できるものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some are incompatible.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T090517Z" creationid="maabou" creationdate="20170503T090517Z">
+        <seg>両立ができないものもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani: 以下を参考。MPLのように商用ファイルが一つのファイルに含むことでその商用ファイルも再頒布対象になるようなケースがある。
 www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       <tuv lang="EN-US">
@@ -759,6 +815,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
         <seg>その作品の著作権保有者だけが、他の誰かが独立して創造したものではない、自らが創造した作品のコントロールができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The definition of "derivative work" is subject to different views in the FOSS community.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T090059Z" creationid="maabou" creationdate="20170503T090059Z">
+        <seg>「二次的著作物」の定義はFOSSコミュニティでもその見解がさまざまになりがちです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,6 +1015,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This is an important consideration when choosing code and choosing licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T090732Z" creationid="maabou" creationdate="20170503T090732Z">
+        <seg>コードやライセンスを選択する際にこれは重要な検討事項となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani: read onは特許用語として以下に記載されていたのでニュアンスを合わせた。http://www.teclawplo.com/column08-003-004.html　「「readable upon(on)～」とは、クレームの文言を被疑物件に読み取ることができるということ」</note>
       <tuv lang="EN-US">
         <seg>This is difficult if the copyrighted work is popular such that it'd be reasonable to assume that you had access. If your software reads on a patent, then you will need a patent license regardless of whether you've independently developed the software.</seg>
@@ -990,6 +1062,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
         <seg>このスライドでは、ソフトウェアに対する著作権法の最重要部分を明確にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains license compatibility, the way of understanding what licenses can be used together.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T090445Z" creationid="maabou" creationdate="20170503T090445Z">
+        <seg>このスライドではライセンスの両立性について説明しています。両立性は、どのライセンスが一緒に使用できるかを理解する上での考え方です。</seg>
       </tuv>
     </tu>
     <tu>
