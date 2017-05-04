@@ -692,6 +692,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fulfillment of license obligations when product ships</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T123349Z" creationid="maabou" creationdate="20170504T123349Z">
+        <seg>製品出荷時のライセンスの義務の履行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GPL-2.0 project also includes code under BSD-3-Clause</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T131058Z" creationid="maabou" creationdate="20170503T131022Z">
@@ -720,6 +728,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T100748Z" creationid="maabou" creationdate="20170501T100748Z">
         <seg>ただし、&lt;t0/&gt; &lt;t1/&gt;特許は機能を保護するもので、抽象的なアイデアは保護しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identification of the origin and license of FOSS software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T123137Z" creationid="maabou" creationdate="20170504T123137Z">
+        <seg>FOSSソフトウェアの起源とライセンスの確認</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,8 +800,8 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       <tuv lang="EN-US">
         <seg>Implementing Compliance Practices</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170504T121417Z" creationid="maabou" creationdate="20170504T121417Z">
-        <seg>コンプライアンス実務を実行する</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T122916Z" creationid="maabou" creationdate="20170504T121417Z">
+        <seg>コンプライアンス実務を実行に移す</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,6 +1192,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oversight for FOSS Compliance Program, creation of policy, and compliance decisions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T123800Z" creationid="maabou" creationdate="20170504T123800Z">
+        <seg>FOSSコンプライアンス プログラムに対する監督、ポリシーの策定およびコンプライスに関わる意思決定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Patent concepts in software</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170331T052636Z" creationid="maabou" creationdate="20170331T052636Z">
@@ -1216,6 +1240,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Performing FOSS review and identifying license obligations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T123249Z" creationid="maabou" creationdate="20170504T123249Z">
+        <seg>FOSSレビューの実施と、ライセンスの義務の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:「permissive」は「パーミッシブ」でもよさそうだが、理解を促進するためにも概念的に伝えたいところ。個人的には「自由放任的な」というニュアンスがしっくりくるが、意訳になってしまうので、原文に忠実に「許容型の」とした。</note>
       <tuv lang="EN-US">
         <seg>Permissive FOSS Licenses</seg>
@@ -1253,8 +1285,8 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       <tuv lang="EN-US">
         <seg>Prepare business processes and sufficient staff to handle:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170504T121641Z" creationid="maabou" creationdate="20170504T121641Z">
-        <seg>ビジネスプロセスと以下を実施できる十分な数のスタッフを準備する：</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T123104Z" creationid="maabou" creationdate="20170504T121641Z">
+        <seg>ビジネスプロセスおよび以下の対応をする十分な数のスタッフを準備する：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1813,8 +1845,8 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       <tuv lang="EN-US">
         <seg>This slide explains how FOSS compliance programs&lt;t0/&gt; work in “broad stokes” (a basic overview).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170504T122441Z" creationid="maabou" creationdate="20170504T122441Z">
-        <seg>このスライドでは、コンプライアンス プログラムがいかに機能するか&lt;t0/&gt;大まかに（基本的概要として）説明しています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T122511Z" creationid="maabou" creationdate="20170504T122441Z">
+        <seg>このスライドでは、コンプライアンス プログラムがいかに機能するかについて&lt;t0/&gt;大まかに（基本的概要として）説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1823,6 +1855,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T090445Z" creationid="maabou" creationdate="20170503T090445Z">
         <seg>このスライドではライセンスの両立性について説明しています。両立性は、どのライセンスが一緒に使用できるかを理解する上での考え方です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains more&lt;t0/&gt; about how FOSS compliance practices can work in an organization.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T124038Z" creationid="maabou" creationdate="20170504T124038Z">
+        <seg>このスライドでは&lt;t0/&gt; FOSSコンプライアンス実務が組織内でどう機能するかについてさらに説明しています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,6 +2008,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T063452Z" creationid="maabou" creationdate="20170325T064522Z">
         <seg>この&lt;t0/&gt; スライドは単体で3時間のトレーニングセッションを提供する場合や、"章ごと"に重点を置いたトレーニングで、各セッションが全体体系でどのような位置付けとなるかを説明する場合に対応します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tracking FOSS software within the development process</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T123201Z" creationid="maabou" creationdate="20170504T123201Z">
+        <seg>開発プロセスでのFOSSソフトウェアの追跡</seg>
       </tuv>
     </tu>
     <tu>
