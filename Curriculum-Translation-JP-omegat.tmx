@@ -96,6 +96,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A&lt;t0/&gt; FOSS compliance program provides various benefits such as an increased understanding of how FOSS impacts your organization, an increased understanding of the costs and risks associated with FOSS, better relations with the FOSS community and increased knowledge of available FOSS solutions.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T131651Z" creationid="maabou" creationdate="20170504T131651Z">
+        <seg>&lt;t0/&gt; FOSS コンプライアンスプログラムは、さまざまなメリットを提供します。たとえばFOSSが組織にどうインパクトを与えるかという点や、FOSSに関連づけられるコストやリスクについての理解の向上、またFOSSコミュニティとのよりよい関係、有効なFOSSソリューションについての知識の向上といった点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:MPL1.1を和訳したMizilla Japanのサイトの内容をベース作成http://www.mozilla-japan.org/MPL/MPL-1.1J.html
 </note>
       <tuv lang="EN-US">
@@ -163,6 +171,23 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:個人的にrobustは「丈夫な」がしっくりくるが、賛同は得られていないので「ロバストな」と置いておく</note>
+      <tuv lang="EN-US">
+        <seg>Benefits of a robust FOSS Compliance program include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T124811Z" creationid="maabou" creationdate="20170504T124811Z">
+        <seg>ロバストなFOSSコンプライアンス プログラムのメリットには以下が挙げられる：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Better relations with the FOSS community and FOSS organizations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T125032Z" creationid="maabou" creationdate="20170504T125032Z">
+        <seg>FOSSコミュニティやFOSS関連組織と関係を良くする</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Can software be subject to a patent?</seg>
       </tuv>
@@ -208,6 +233,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061943Z" creationid="maabou" creationdate="20170428T061943Z">
         <seg>理解度チェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance Benefits</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T124417Z" creationid="maabou" creationdate="20170504T124417Z">
+        <seg>コンプライアンスのメリット</seg>
       </tuv>
     </tu>
     <tu>
@@ -571,6 +604,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS compliance means following the licensing terms of FOSS&lt;t0/&gt; licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T130128Z" creationid="maabou" creationdate="20170504T130128Z">
+        <seg>FOSSコンプライアンスは、FOSSのライセンス&lt;t0/&gt; 条項に従うことを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS developers often use the term "&lt;t0/&gt;proprietary" to describe a commercial non-FOSS license &lt;t1/&gt;even though both FOSS and proprietary licenses are based on intellectual property and provide a license grant to that property</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T113151Z" creationid="maabou" creationdate="20170502T113151Z">
@@ -839,6 +880,30 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increased knowledge of available FOSS solutions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T125126Z" creationid="maabou" creationdate="20170504T125126Z">
+        <seg>有効なFOSSソリューションについての知識向上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increased understanding of the benefits of FOSS and how it impacts your organization</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T124901Z" creationid="maabou" creationdate="20170504T124901Z">
+        <seg>FOSSのメリットと組織へ与えるインパクトについての理解を高める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increased understanding of the costs and risks associated with using FOSS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T125005Z" creationid="maabou" creationdate="20170504T125005Z">
+        <seg>FOSSを使うことと関連付けられるコストとリスクについての理解を高める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction to FOSS Compliance</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T062648Z" creationid="maabou" creationdate="20170325T062648Z">
@@ -875,6 +940,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T025826Z" creationid="maabou" creationdate="20170504T025826Z">
         <seg>コンプライアンスがどのように機能するか基本原則から説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It involves understanding the licenses, having processes to support the license terms, and having processes to address any oversights or errors.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T130955Z" creationid="maabou" creationdate="20170504T130955Z">
+        <seg>これは、ライセンスについての理解、ライセンス条項を支えるプロセスの具備、見落としや誤りに対して取り組むプロセスの具備といったことを伴います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -963,6 +1036,15 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T212709Z" creationid="maabou" creationdate="20170326T075636Z">
         <seg>イノベーションを奨励するための限定された独占権</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:business practiceは単純にビジネス上の実務なので業務としてよいのでは？</note>
+      <tuv lang="EN-US">
+        <seg>List and describe important business practices of a FOSS Compliance Program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T125403Z" creationid="maabou" creationdate="20170504T125403Z">
+        <seg>FOSSコンプライアンスプログラムで重要な業務を挙げ、その内容を述べてください</seg>
       </tuv>
     </tu>
     <tu>
@@ -1688,6 +1770,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The two main goals of a FOSS compliance program are&lt;t0/&gt; &lt;t1/&gt;know your obligations&lt;t2/&gt; and to &lt;t3/&gt;satisfy your obligations&lt;t4/&gt;.&lt;t5/&gt;The important business practices of a FOSS compliance program include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T131326Z" creationid="maabou" creationdate="20170504T131326Z">
+        <seg>FOSSコンプライアンスプログラムの二つの主要なゴールとは&lt;t0/&gt; &lt;t1/&gt;自身の義務を知ること&lt;t2/&gt; と&lt;t3/&gt;義務を果たすこと&lt;t4/&gt;です。&lt;t5/&gt;FOSSコンプライアンス プログラムでの重要な業務としては以下が含まれます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are other types of license used.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T044400Z" creationid="maabou" creationdate="20170503T044400Z">
@@ -1838,6 +1928,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
         <seg>このスライドでは、ソフトウェアに対する著作権法の&lt;t0/&gt;最重要部分を明確にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide describes some of the benefits that compliance&lt;t0/&gt; brings to an organization beyond the fact of fulfilling the legal obligations of the license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T130033Z" creationid="maabou" creationdate="20170504T130010Z">
+        <seg>このスライドではコンプライアンス&lt;t0/&gt; がライセンスの法的義務の履行という事実ベースの域を越え、組織にもたらすメリットについて述べています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,6 +2133,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T124309Z" creationid="maabou" creationdate="20170504T124309Z">
+        <seg>トレーニング</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここでのtypeは「種別」とした。</note>
       <tuv lang="EN-US">
         <seg>Types of use allowed (distribution, derivative works / to make, have made, manufacture)</seg>
@@ -2085,6 +2191,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What are some benefits of a FOSS Compliance Program?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T125506Z" creationid="maabou" creationdate="20170504T125506Z">
+        <seg>FOSSプログラムのメリットとしてどんなものがありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are two main goals of a FOSS Compliance Program?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T125202Z" creationid="maabou" creationdate="20170504T125202Z">
+        <seg>FOSSコンプライアンス プログラムの二つの主要なゴールとはなんですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What are typical obligations of a permissive FOSS license?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T140300Z" creationid="maabou" creationdate="20170503T140300Z">
@@ -2097,6 +2219,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T074813Z" creationid="maabou" creationdate="20170501T074029Z">
         <seg>ソフトウェアにとってもっとも重要なのはどのような著作権ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What does FOSS compliance mean?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T125140Z" creationid="maabou" creationdate="20170504T125140Z">
+        <seg>FOSSコンプライアンスとは何を意味しますか？</seg>
       </tuv>
     </tu>
     <tu>
