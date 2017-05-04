@@ -147,6 +147,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T025129Z" creationid="maabou" creationdate="20170504T025129Z">
+        <seg>第3章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Your Understanding</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061943Z" creationid="maabou" creationdate="20170428T061943Z">
@@ -373,6 +381,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061608Z" creationid="maabou" creationdate="20170428T051143Z">
         <seg>独占的な期間、非独占的な期間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Compliance Goals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T025150Z" creationid="maabou" creationdate="20170504T025150Z">
+        <seg>FOSSコンプライアンスのゴール</seg>
       </tuv>
     </tu>
     <tu>
@@ -1099,6 +1115,14 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Some licenses require that FOSS Notices be retained or reproduced for attribution purposes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170503T143459Z" creationid="maabou" creationdate="20170503T143459Z">
+        <seg>FOSSの告知／通知／表示（Notice）を帰属表示の目的で、保持、再生成することを求めるライセンスもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani: 以下を参考。MPLのように商用ファイルが一つのファイルに含むことでその商用ファイルも再頒布対象になるようなケースがある。
 www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       <tuv lang="EN-US">
@@ -1343,6 +1367,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220210Z" creationid="maabou" creationdate="20170326T220011Z">
         <seg>本章ではFOSSコンプライアンスに最も関係する、著作権と特許権に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter&lt;t0/&gt; covers the big picture of FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T025528Z" creationid="maabou" creationdate="20170504T025336Z">
+        <seg>本章では&lt;t0/&gt; FOSSコンプライアンスについての全体増を取り扱います。</seg>
       </tuv>
     </tu>
     <tu>

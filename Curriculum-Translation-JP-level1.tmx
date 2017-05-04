@@ -147,6 +147,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T025129Z" creationid="maabou" creationdate="20170504T025129Z">
+        <seg>第3章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Your Understanding</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061943Z" creationid="maabou" creationdate="20170428T061943Z">
@@ -373,6 +381,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061608Z" creationid="maabou" creationdate="20170428T051143Z">
         <seg>独占的な期間、非独占的な期間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Compliance Goals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T025150Z" creationid="maabou" creationdate="20170504T025150Z">
+        <seg>FOSSコンプライアンスのゴール</seg>
       </tuv>
     </tu>
     <tu>
@@ -665,6 +681,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T021733Z" creationid="maabou" creationdate="20170502T021733Z">
         <seg>またここでは、いくつかのFOSSライセンスについてより多くを調べられるリソースについても説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It explains how compliance works from first principles.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T025826Z" creationid="maabou" creationdate="20170504T025826Z">
+        <seg>コンプライアンスがどのように機能するか基本原則から説明します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1351,6 +1375,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220210Z" creationid="maabou" creationdate="20170326T220011Z">
         <seg>本章ではFOSSコンプライアンスに最も関係する、著作権と特許権に焦点を当てます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This chapter covers the big picture of FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T025528Z" creationid="maabou" creationdate="20170504T025336Z">
+        <seg>本章では FOSSコンプライアンスについての全体増を取り扱います。</seg>
       </tuv>
     </tu>
     <tu>
