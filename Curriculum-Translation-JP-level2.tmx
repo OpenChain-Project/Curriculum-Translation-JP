@@ -24,6 +24,23 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg><ph x="0">&lt;t0/&gt;</ph>You should have a process for identifying, tracking and archiving a list of all FOSS components (and their respective identified licenses) from which your software is comprised.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T044043Z" creationid="maabou" creationdate="20170504T032045Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>自身のソフトウェアを構成することになる全てのFOSSコンポーネント（およびそれぞれで確認されたライセンス）を特定、追跡し、そのリストを書庫に保管するためのプロセスを持つ必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここで初めてコンプライアンス プログラムの意味での「program」が出てきて、ソフトウェアプログラムと混乱するので追記した。</note>
+      <tuv xml:lang="EN-US">
+        <seg><ph x="0">&lt;t0/&gt;</ph>Your program should identify and handle typical FOSS use cases that result from your organization’s business practices.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T045505Z" creationid="maabou" creationdate="20170504T044406Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>自組織でのコンプライアンス プログラムは、業務遂行上生じる代表的なFOSSユースケースを特定し、これに対応する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg><ph x="1">&lt;t1/&gt;</ph>Example: <ph x="2">&lt;t2/&gt;</ph>Copyright © A. Person (2016).</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T094600Z" creationid="maabou" creationdate="20170503T094600Z">
@@ -701,6 +718,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Know your obligations (detect and track use of FOSS).</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T045521Z" creationid="maabou" creationdate="20170504T031329Z">
+        <seg>自らの義務を知る（FOSSの使用を発見し追跡する）こと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>License Compatibility</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T063402Z" creationid="maabou" creationdate="20170503T063402Z">
@@ -1072,6 +1097,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Satisfy all the license obligations for the FOSS that is used.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T045514Z" creationid="maabou" creationdate="20170504T044336Z">
+        <seg>使用されるFOSSに対し全てのライセンスの義務を果たすこと。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:functionalityは機能（それが持つ能力）、featureは機構（なんからの目的にあった特定の機能）。どちらも同じような意味だがニュアンスが違うもよう。</note>
       <tuv xml:lang="EN-US">
         <seg>Shareware - proprietary software provided to users on a trial basis, for a limited time, free of charge and with limited functionalities or features</seg>
@@ -1181,6 +1214,15 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:ここの脚注をそのまま訳すと2つの「obligation」が同じように見え、混乱してしまうので、明確にわかるように追記した。</note>
+      <tuv xml:lang="EN-US">
+        <seg>The first is to know your obligations and have a process to support this knowledge.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T051237Z" creationid="maabou" creationdate="20170504T050155Z">
+        <seg>一つは、自身の義務（FOSSを発見し、追跡する）を知り、この知見を支えるプロセスをもつことです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="EN-US">
         <seg>The goal of shareware is to give potential buyers the opportunity to use the program and judge its usefulness before purchasing a license for the full version of the software</seg>
       </tuv>
@@ -1261,6 +1303,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170329T120907Z" creationid="maabou" creationdate="20170329T120907Z">
         <seg>"<ph x="0">&lt;t0/&gt;</ph>二次的著作物<ph x="1">&lt;t1/&gt;</ph>" を作る権利– 修正を加える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The second is to satisfy the obligations.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T050918Z" creationid="maabou" creationdate="20170504T050218Z">
+        <seg>もう一つは、ライセンスの義務を果たすことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1481,6 +1531,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T041931Z" creationid="maabou" creationdate="20170502T041931Z">
         <seg>このスライドでは、パーミッシ ブライセンスに付加的な要求事項をもつ、より複雑なタイプのFOSSライセンスとして互恵性と「コピーレフト」<ph x="0">&lt;t0/&gt;</ph> ついて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This slide explains that FOSS compliance<ph x="0">&lt;t0/&gt;</ph> is really a two-part goal.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T050846Z" creationid="maabou" creationdate="20170504T045617Z">
+        <seg>このスライドではFOSSコンプライアンスには<ph x="0">&lt;t0/&gt;</ph> 実際のところ目的が二つあることを説明しています。</seg>
       </tuv>
     </tu>
     <tu>
