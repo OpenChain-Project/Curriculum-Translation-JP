@@ -116,6 +116,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Applications downloaded to a user’s machine or mobile device</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T111404Z" creationid="maabou" creationdate="20170504T111246Z">
+        <seg>ユーザ機器やモバイルデバイスにダウンロードされるアプリケーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are Freeware and Shareware software considered FOSS?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T140633Z" creationid="maabou" creationdate="20170503T140633Z">
@@ -333,6 +341,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Dissemination of material to an outside entity</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T111145Z" creationid="maabou" creationdate="20170504T111145Z">
+        <seg>外部に対する資料の散布</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここでのentityをどう訳すか。おそらくは人から人だけなくコンピュータ間などのケースなども含めているニュアンスだとすると「実体」のままでよいようにも思う。</note>
       <tuv lang="EN-US">
         <seg>Distribution is generally viewed as the provision of a copy of a piece of software in binary or source code form to another entity (an individual or organization outside your company or organization)</seg>
@@ -467,6 +483,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS Compliance Triggers: Distribution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T110938Z" creationid="maabou" creationdate="20170504T110938Z">
+        <seg>FOSSのコンプライスが発動されるトリガー：頒布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS Conditions &amp; Restrictions</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T102300Z" creationid="maabou" creationdate="20170504T102300Z">
@@ -559,6 +583,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T135935Z" creationid="maabou" creationdate="20170503T135935Z">
         <seg>ビジネスモデルとしてのデュアル ライセンスについての詳細はこちら： http://oss-watch.ac.uk/resources/duallicence2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For some FOSS licenses, access via a computer network can be a “trigger event.” The trigger is"users interacting with it remotely through a computer network."</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T111923Z" creationid="maabou" creationdate="20170504T111557Z">
+        <seg>いくつかのFOSSライセンスについては、コンピュータ ネットワークを通じたアクセスが「トリガー イベント」となり得ます。そのトリガーとは「コンピュータ ネットワークを通じユーザがリモートでそれ（そのFOSS）と相互に作用すること」です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -771,6 +803,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T025826Z" creationid="maabou" creationdate="20170504T025826Z">
         <seg>コンプライアンスがどのように機能するか基本原則から説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>JavaScript, web client, or other code that is downloaded to the user’s machine</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T111426Z" creationid="maabou" creationdate="20170504T111320Z">
+        <seg>JavaScript、 Web クライアントもしくはその他ユーザ機器にダウンローされるコード</seg>
       </tuv>
     </tu>
     <tu>
@@ -1285,6 +1325,15 @@ semiconductor mask：半導体の転写する回路 パターンの原版であ�
       </tuv>
     </tu>
     <tu>
+      <note>tani:非常にわかりづらいが、おそらくネガティブな表現を回避しようとするとこういう感じになるのか、と。サーバ上でAGPLライセンスを改版したソフトウェアを走らせていて、リモートでユーザがアクセスしてくるときがトリガーポイントであり、コンプライアンス上の対応が必要となってくるということだが、要するに「リモートで誰かにそのソフトウェアをつかわせる場合にはソースコードを開示する対応が必要」ということ。</note>
+      <tuv lang="EN-US">
+        <seg>Some licenses define the trigger event to include permitting access to software running on a server (e.g., all versions of the Affero GPL if the software is modified)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T113657Z" creationid="maabou" creationdate="20170504T113657Z">
+        <seg>いくつかのライセンスがサーバ上で実行されているソフトウェアへのアクセスを可能にすることを含めたトリガー イベントを明示しています。（例：Affero GPLのすべての版のソフトウェアを改変した場合）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Some licenses require that FOSS Notices be retained or reproduced for attribution purposes.</seg>
       </tuv>
@@ -1708,6 +1757,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T223925Z" creationid="maabou" creationdate="20170326T223925Z">
         <seg>このスライドでは、ソフトウェアの著作権についての "全体像"を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains when FOSS obligations are “triggered.” FOSS licenses are copyright licenses and the basic compliance trigger is when you distribute code to another legal entity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T114013Z" creationid="maabou" creationdate="20170504T114013Z">
+        <seg>このスライドでは、いつFOSSライセンスの義務が「発動(trigger)される」のかについて説明しています。FOSSライセンスは著作権ライセンスであり、基本的なトリガーはコードを他の法人（legal entity）に 頒布するときです。</seg>
       </tuv>
     </tu>
     <tu>
