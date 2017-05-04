@@ -73,6 +73,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A developer may copy portions of a FOSS component into your software product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T221527Z" creationid="maabou" creationdate="20170504T221527Z">
+        <seg>開発者はFOSSコンポーネントの一部を自身のソフトウェア プロダクトにコピーすることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A developer may link or join a FOSS component with your software product.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T222458Z" creationid="maabou" creationdate="20170504T222353Z">
+        <seg>開発者はFOSSコンポーネントを自身のソフトウェアプロダクトとリンクもしくは接合する（join）ことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A patent license?</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170501T075154Z" creationid="maabou" creationdate="20170501T075154Z">
@@ -101,6 +117,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T131651Z" creationid="maabou" creationdate="20170504T131651Z">
         <seg><ph x="0">&lt;t0/&gt;</ph> FOSS コンプライアンスプログラムは、さまざまなメリットを提供します。たとえばFOSSが組織にどうインパクトを与えるかという点や、FOSSに関連づけられるコストやリスクについての理解の向上、またFOSSコミュニティとのよりよい関係、有効なFOSSソリューションについての知識の向上といった点があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Adapting</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T222031Z" creationid="maabou" creationdate="20170504T222031Z">
+        <seg>適応させる（Adapting）</seg>
       </tuv>
     </tu>
     <tu>
@@ -245,6 +269,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Combining</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T223653Z" creationid="maabou" creationdate="20170504T223653Z">
+        <seg>結合（Combining）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Common scenarios include:</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T215242Z" creationid="maabou" creationdate="20170504T215242Z">
@@ -347,6 +379,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170326T063401Z" creationid="maabou" creationdate="20170326T063401Z">
         <seg>著作権（コピーライト）：著作者の原作を保護する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Creating interdependency</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T224253Z" creationid="maabou" creationdate="20170504T224253Z">
+        <seg>相互依存性の創出（Creating interdependency）</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,6 +984,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Inserting</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T222046Z" creationid="maabou" creationdate="20170504T222046Z">
+        <seg>挿入する（Inserting）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Integrating</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T221600Z" creationid="maabou" creationdate="20170504T221600Z">
+        <seg>統合する（Integrating）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Introduction to FOSS Compliance</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170325T062648Z" creationid="maabou" creationdate="20170325T062648Z">
@@ -1117,6 +1173,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170428T061909Z" creationid="maabou" creationdate="20170428T061909Z">
         <seg>保証、免責、サポート、アップグレード、保守に関する契約事項も含まれる場合がある</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Merging</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T221630Z" creationid="maabou" creationdate="20170504T221630Z">
+        <seg>結合する（Merging）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1346,6 +1410,31 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Packaging</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T224053Z" creationid="maabou" creationdate="20170504T224053Z">
+        <seg>パッケージ化（Packaging）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:この「pairing」の実際のイメージがわかない。ペアリングとしてしまうとわからないと思うので。FOSSと自分のソフトウェアを対をなすようにくっつけるイメージだと思うので、生物学で使われる「対合」を採用した。</note>
+      <tuv xml:lang="EN-US">
+        <seg>Pairing</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T223645Z" creationid="maabou" creationdate="20170504T223645Z">
+        <seg>対合（Pairing）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Pasting</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T221712Z" creationid="maabou" creationdate="20170504T221712Z">
+        <seg>貼り付ける（Pasting）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Patent concepts in software</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170331T052636Z" creationid="maabou" creationdate="20170331T052636Z">
@@ -1526,6 +1615,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Relevant terms include:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T221554Z" creationid="maabou" creationdate="20170504T221554Z">
+        <seg>関連する用語として以下のものがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Remember, different licenses have different obligations.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T110619Z" creationid="maabou" creationdate="20170504T110619Z">
@@ -1664,6 +1761,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T090118Z" creationid="maabou" creationdate="20170504T090102Z">
         <seg>ソースコードの入手しやすさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Static/Dynamic Linking</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T223704Z" creationid="maabou" creationdate="20170504T222510Z">
+        <seg>静的／動的リンク（Static/Dynamic Linking）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2181,6 +2286,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This slides outlines what incorporation means when using<ph x="0">&lt;t0/&gt;</ph> FOSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T222252Z" creationid="maabou" creationdate="20170504T222143Z">
+        <seg>このスライドでは、FOSSを使う際にそれを取り込むということの意味について概要を述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This slides outlines what linking means when using<ph x="0">&lt;t0/&gt;</ph> FOSS.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T224327Z" creationid="maabou" creationdate="20170504T224327Z">
+        <seg>このスライドでは<ph x="0">&lt;t0/&gt;</ph> FOSS使う際にそれをリンクするということの意味にについて概要を述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:後半部分が何を意味しているかがいまいち読み取れず。ここで描かれている「ライセンス」の意味がUS法で意味するところと違っているということか？</note>
       <tuv xml:lang="EN-US">
         <seg>This<ph x="0">&lt;t0/&gt;</ph> slide explains what is a “license.” This is different to a contract under US law.</seg>
@@ -2260,6 +2381,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T132220Z" creationid="maabou" creationdate="20170503T132220Z">
         <seg>離接的なライセンスの下では、ライセンスを選択することができます。つまりGPLとよりパーミッシブなライセンスが選択肢にあった場合、どちらか<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>をライセンスの<ph x="2">&lt;t2/&gt;</ph> 両立性と <ph x="3">&lt;t3/&gt;</ph>要求事項に依存してどちらのライセンスで頒布するか選択することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Utilizing</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T224042Z" creationid="maabou" creationdate="20170504T224042Z">
+        <seg>活用（Utilizing）</seg>
       </tuv>
     </tu>
     <tu>
