@@ -227,6 +227,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contribute and participate in open communities</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T121202Z" creationid="maabou" creationdate="20170504T121202Z">
+        <seg>オープンなコミュニティに参加し、コントリビュートする</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:固い文面にするとわかりづらいので、わかり易く。</note>
       <tuv xml:lang="EN-US">
         <seg>Copyleft licenses may include source availability obligations</seg>
@@ -595,6 +603,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Facilitate effective usage of FOSS in commercial products</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T121053Z" creationid="maabou" creationdate="20170504T121053Z">
+        <seg>商用製品におけるFOSSの効果的使用を容易にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>For example, an open source software can be dual-licensed under MIT and GPLv2.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T142922Z" creationid="maabou" creationdate="20170503T142922Z">
@@ -765,6 +781,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Implementing Compliance Practices</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T121417Z" creationid="maabou" creationdate="20170504T121417Z">
+        <seg>コンプライアンス実務を実行する</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここでの「rather than ～」は「～ではなく」というニュアンスのようだが、mayという蓋然性も考慮して、「～というよりむしろ」とした</note>
       <tuv xml:lang="EN-US">
         <seg>In such cases, the software may be viewed as being under a license rather than being in the public domain</seg>
@@ -825,8 +849,8 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       <tuv xml:lang="EN-US">
         <seg>It explains a little bit about derivative works.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T115754Z" creationid="maabou" creationdate="20170504T115754Z">
-        <seg>また、二次的著作物についても若干説明しています。</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T120114Z" creationid="maabou" creationdate="20170504T115754Z">
+        <seg>また、二次的著作物についても若干触れています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,6 +1136,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Organizations that have been successful at FOSS compliance have created their own<ph x="0">&lt;t0/&gt;</ph> FOSS Compliance Programs<ph x="1">&lt;t1/&gt;</ph> (consisting of policies, processes, training and tools) to:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T120827Z" creationid="maabou" creationdate="20170504T120827Z">
+        <seg>FOSSコンプライアンスを成功させてきた組織は<ph x="1">&lt;t1/&gt;</ph> （ポリシー、プロセス、トレーニングやツールなどから成る）自身のFOSSコンプライアンス プログラムを作り上げています。それには以下のような意図があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Other Licensing Situations</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T114126Z" creationid="maabou" creationdate="20170502T114126Z">
@@ -1219,6 +1251,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Prepare business processes and sufficient staff to handle:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T121641Z" creationid="maabou" creationdate="20170504T121641Z">
+        <seg>ビジネスプロセスと以下を実施できる十分な数のスタッフを準備する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Proprietary License or Closed Source</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T095920Z" creationid="maabou" creationdate="20170502T095920Z">
@@ -1312,6 +1352,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T110619Z" creationid="maabou" creationdate="20170504T110619Z">
         <seg>ライセンスが違えばその義務も変わってくることを覚えておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Respect FOSS developer rights and comply with license obligations</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T121135Z" creationid="maabou" creationdate="20170504T121135Z">
+        <seg>FOSS開発者の権利を尊重し、ライセンス義務を果たす</seg>
       </tuv>
     </tu>
     <tu>
@@ -1758,6 +1806,15 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170428T002250Z" creationid="maabou" creationdate="20170331T052742Z">
         <seg>このスライドでは、ソフトウェアに対する著作権法の<ph x="0">&lt;t0/&gt;</ph>最重要部分を明確にしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:誤→broad stokes、正→broad strokes</note>
+      <tuv xml:lang="EN-US">
+        <seg>This slide explains how FOSS compliance programs<ph x="0">&lt;t0/&gt;</ph> work in “broad stokes” (a basic overview).</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T122511Z" creationid="maabou" creationdate="20170504T122441Z">
+        <seg>このスライドでは、コンプライアンス プログラムがいかに機能するかについて<ph x="0">&lt;t0/&gt;</ph>大まかに（基本的概要として）説明しています。</seg>
       </tuv>
     </tu>
     <tu>
