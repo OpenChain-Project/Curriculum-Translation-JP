@@ -286,6 +286,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the FOSS license used, you may need to comply with one or more of the following types of conditions and restrictions:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T102445Z" creationid="maabou" creationdate="20170504T102445Z">
+        <seg>使用するFOSSによっては以下の条件や制約のうち1つもしくはそれ以上に応じる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Depending on the license(s) involved, obligations could consist of:</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T084906Z" creationid="maabou" creationdate="20170504T084906Z">
@@ -331,6 +339,23 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170331T051732Z" creationid="maabou" creationdate="20170331T051732Z">
         <seg>配布とは、一般的に、ソフトウェア部品のコピーをバイナリもしくはソースコードの形態である実体（個人や外部の企業や組織）からある実体へ提供する行為とみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:「of right」=「by right」http://eow.alc.co.jp/search?q=of+right</note>
+      <tuv lang="EN-US">
+        <seg>Do not restrict others of the rights granted under the original license</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T105701Z" creationid="maabou" creationdate="20170504T105701Z">
+        <seg>原作のライセンスの下で供与された権利によって他者を制約すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not use the project or copyright holder name or trademark</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T103340Z" creationid="maabou" creationdate="20170504T103340Z">
+        <seg>プロジェクト名、著作権保有者名、商標を使用しないこと</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +463,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T025150Z" creationid="maabou" creationdate="20170504T025150Z">
         <seg>FOSSコンプライアンスのゴール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Conditions &amp; Restrictions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T102300Z" creationid="maabou" creationdate="20170504T102300Z">
+        <seg>FOSSにおける条件と制約</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +855,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Maintain modified versions (derivative works) under the same license</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T103135Z" creationid="maabou" creationdate="20170504T103135Z">
+        <seg>改変版（二次的著作物）を同じライセンス下に維持すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061909Z" creationid="maabou" creationdate="20170428T061909Z">
@@ -835,6 +876,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T123241Z" creationid="maabou" creationdate="20170503T122858Z">
         <seg>改変告知（Modification notice） －ファイルのソースコードに対して改変を実施したという告知。たとえばファイルの上部に著作権表示を加える、など。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modified versions must have a different name to avoid confusion</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T102852Z" creationid="maabou" creationdate="20170504T102852Z">
+        <seg>混乱を避けるために、改変版の名前が異なる名前でなければらないこと</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,6 +1155,38 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Provide a copy of the license</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T103409Z" creationid="maabou" creationdate="20170504T102700Z">
+        <seg>ライセンスの写しを提供すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide access to source code (whether you modified it or not)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T103056Z" creationid="maabou" creationdate="20170504T103056Z">
+        <seg>（改変の有無を問わず）ソースコードへのアクセス先を提供すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide attribution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T104028Z" creationid="maabou" creationdate="20170504T103146Z">
+        <seg>帰属表示を提供すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide notice of modifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T103932Z" creationid="maabou" creationdate="20170504T102705Z">
+        <seg>改変告知を提供すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Public Domain</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T050247Z" creationid="maabou" creationdate="20170503T050247Z">
@@ -1118,6 +1199,22 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
         <seg>本資料は Creative Commons CC0 1.0 Universal ライセンスの下でリリースされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember, different licenses have different obligations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T110619Z" creationid="maabou" creationdate="20170504T110619Z">
+        <seg>ライセンスが違えばその義務も変わってくることを覚えておいてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retain copyright (and other) notices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T102648Z" creationid="maabou" creationdate="20170504T102648Z">
+        <seg>著作権表示（およびその他の告知／通知／表示）を保持すること</seg>
       </tuv>
     </tu>
     <tu>
@@ -1227,6 +1324,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T090118Z" creationid="maabou" creationdate="20170504T090102Z">
         <seg>ソースコードの入手しやすさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Termination clauses (if you breach, you lose license)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T110243Z" creationid="maabou" creationdate="20170504T105850Z">
+        <seg>解除条項（違反すれば、ライセンスを失うこと） </seg>
       </tuv>
     </tu>
     <tu>
@@ -1583,6 +1688,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide explains some of the conditions or restrictions commonly encountered when using FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T110449Z" creationid="maabou" creationdate="20170504T110308Z">
+        <seg>このスライドではFOSSライセンスの使用する際に出くわす共通的な条件や制約のいくつかについて説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slide explains that FOSS compliance is really a two-part goal.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T050846Z" creationid="maabou" creationdate="20170504T045617Z">
@@ -1633,8 +1746,8 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       <tuv lang="EN-US">
         <seg>This slide expands on what compliance obligations must be satisfied in typical FOSS licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170504T091723Z" creationid="maabou" creationdate="20170504T091723Z">
-        <seg>このスライドは 代表的なFOSSライセンスにおいてどんなコンプライスの義務が果たされなければならないかという点に話を展開しています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T110408Z" creationid="maabou" creationdate="20170504T091723Z">
+        <seg>このスライドでは 代表的なFOSSライセンスにおいてコンプライス義務としてどういったことを果たされなければならないかについて話を広げています。</seg>
       </tuv>
     </tu>
     <tu>
