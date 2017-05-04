@@ -24,6 +24,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg><ph x="0">&lt;t0/&gt;</ph>Providing source code for original work, for combined work or modifications, as well as build scripts (scripts that control the build process)</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T091053Z" creationid="maabou" creationdate="20170504T090110Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>原作、組み合せたもしくは改変した著作物に対しビルド用のスクリプト（ビルドプロセスを制御するスクリプト）と同様にソースコードを提供すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg><ph x="0">&lt;t0/&gt;</ph>You should have a process for identifying, tracking and archiving a list of all FOSS components (and their respective identified licenses) from which your software is comprised.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T044043Z" creationid="maabou" creationdate="20170504T032045Z">
@@ -35,8 +43,8 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       <tuv xml:lang="EN-US">
         <seg><ph x="0">&lt;t0/&gt;</ph>Your program should identify and handle typical FOSS use cases that result from your organization’s business practices.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T045505Z" creationid="maabou" creationdate="20170504T044406Z">
-        <seg><ph x="0">&lt;t0/&gt;</ph>自組織でのコンプライアンス プログラムは、業務遂行上生じる代表的なFOSSユースケースを特定し、これに対応する必要があります。</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T082929Z" creationid="maabou" creationdate="20170504T044406Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>自組織でのコンプライアンス プログラムは、業務遂行上生じる代表的なFOSSユースケースを認識し、これに対応する必要があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,6 +120,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T140633Z" creationid="maabou" creationdate="20170503T140633Z">
         <seg>フリーソフトウェアとシェアウェアはFOSSとみなされますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Attribution and Notices.<ph x="0">&lt;t0/&gt;</ph> Inclusion of copyright and license text in the source code and/or product documentation or user interface, so that downstream users know the origin of the software and their rights under the licenses</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T085959Z" creationid="maabou" creationdate="20170504T085959Z">
+        <seg>帰属表示（Attribution and Notices）。<ph x="0">&lt;t0/&gt;</ph> 下流のユーザがソフトウェアの起源やライセンス下の権利を知ることができるよう、ソースコードもしくは製品の関連文書もしくはユーザ インターフェース内に著作権やライセンスに係る文字列を含めること。</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +286,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Depending on the license(s) involved, obligations could consist of:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T084906Z" creationid="maabou" creationdate="20170504T084906Z">
+        <seg>関与するライセンスにもよりますが、義務として以下のようなものがありえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Developers may include a <ph x="0">&lt;t0/&gt;</ph>public domain declaration<ph x="1">&lt;t1/&gt;</ph> with their software</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T052306Z" creationid="maabou" creationdate="20170503T052306Z">
@@ -398,6 +422,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170428T061608Z" creationid="maabou" creationdate="20170428T051143Z">
         <seg>独占的な期間、非独占的な期間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>External distribution</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T091438Z" creationid="maabou" creationdate="20170504T091438Z">
+        <seg>外部への頒布</seg>
       </tuv>
     </tu>
     <tu>
@@ -1191,6 +1223,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Source code availability.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T090118Z" creationid="maabou" creationdate="20170504T090102Z">
+        <seg>ソースコードの入手しやすさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T020143Z" creationid="maabou" creationdate="20170502T020143Z">
@@ -1369,6 +1409,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T113427Z" creationid="maabou" creationdate="20170502T113427Z">
         <seg>これらのライセンスをFOSSライセンスと比較すると多くの場合、要求事項、やールがとても違っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These obligations may trigger upon key events, such as:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T091434Z" creationid="maabou" creationdate="20170504T091434Z">
+        <seg>以下のような主要なイベントでこれらの義務が発動する場合があります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1583,6 +1631,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This slide<ph x="0">&lt;t0/&gt;</ph> expands on what compliance obligations must be satisfied in typical FOSS licenses.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T091723Z" creationid="maabou" creationdate="20170504T091723Z">
+        <seg>このスライドは<ph x="0">&lt;t0/&gt;</ph> 代表的なFOSSライセンスにおいてどんなコンプライスの義務が果たされなければならないかという点に話を展開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This slides explains the boundaries of what can be in a license.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170501T075820Z" creationid="maabou" creationdate="20170501T075820Z">
@@ -1673,6 +1729,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>What Compliance Obligations Must Be Satisfied?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T083125Z" creationid="maabou" creationdate="20170504T083125Z">
+        <seg>果たすべきコンプライアンスの義務にはどんなものがあるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>What are typical obligations of a permissive FOSS license?</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T140300Z" creationid="maabou" creationdate="20170503T140300Z">
@@ -1758,6 +1822,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170501T073740Z" creationid="maabou" creationdate="20170501T072350Z">
         <seg>著作権法はどのようなものを保護しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Whether you have made modifications</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170504T091505Z" creationid="maabou" creationdate="20170504T091505Z">
+        <seg>改変を加えたかどうか</seg>
       </tuv>
     </tu>
     <tu>
