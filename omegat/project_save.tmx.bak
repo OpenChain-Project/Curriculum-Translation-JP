@@ -172,6 +172,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes to the existing program (e.g., additions, deletions of code in a file, combining components together)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T114424Z" creationid="maabou" creationdate="20170504T114424Z">
+        <seg>今あるプログラムに対する変更（例：ファイル中にあるコードの追加、削除やコンポーネントの組み合わせ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Chapter 1</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T222016Z" creationid="maabou" creationdate="20170326T222016Z">
@@ -483,10 +491,26 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS Compliance Program</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T115437Z" creationid="maabou" creationdate="20170504T115437Z">
+        <seg>FOSSコンプライアンス プログラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS Compliance Triggers: Distribution</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T110938Z" creationid="maabou" creationdate="20170504T110938Z">
         <seg>FOSSのコンプライスが発動されるトリガー：頒布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Compliance Triggers: Modification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T114231Z" creationid="maabou" creationdate="20170504T114231Z">
+        <seg>FOSSのコンプライスが発動されるトリガー：改変</seg>
       </tuv>
     </tu>
     <tu>
@@ -919,6 +943,23 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani: constituteは以下サイトをで「to create」の意味があるとのこと。http://www.dictionary.com/browse/constitute</note>
+      <tuv lang="EN-US">
+        <seg>Modifications may constitute a derivative work, and FOSS &lt;t0/&gt;authors may limit or place obligations on modifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T115104Z" creationid="maabou" creationdate="20170504T114659Z">
+        <seg>改変が二次的著作物を生み出す場合があります。そしてFOSS &lt;t0/&gt;の著作者は改変において義務を課したり制限したりすることもあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modifications may trigger FOSS obligations, such as:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T115308Z" creationid="maabou" creationdate="20170504T115308Z">
+        <seg>改変でFOSSの義務が発動されるトリガー：</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Modified versions must have a different name to avoid confusion</seg>
       </tuv>
@@ -1011,6 +1052,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T130222Z" creationid="maabou" creationdate="20170503T130136Z">
         <seg>注：ライセンサ（ライセンス供与者）が一つ以上のライセンスを課すといったことや、全てのライセンスを満たさなければならないといった状況ではないので、混同しないようにしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notice of modification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T115329Z" creationid="maabou" creationdate="20170504T115329Z">
+        <seg>改変の告知</seg>
       </tuv>
     </tu>
     <tu>
@@ -1223,6 +1272,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T103932Z" creationid="maabou" creationdate="20170504T102705Z">
         <seg>改変告知を提供すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Providing accompanying source code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T115359Z" creationid="maabou" creationdate="20170504T115359Z">
+        <seg>ソースコードの添付による提供</seg>
       </tuv>
     </tu>
     <tu>
@@ -1761,6 +1818,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide explains when FOSS obligations are “triggered.” FOSS licenses are copyright licenses and the basic compliance trigger is when you distribute code to&lt;t0/&gt; another legal entity.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T114013Z" creationid="maabou" creationdate="20170504T114013Z">
+        <seg>このスライドでは、いつFOSSライセンスの義務が「発動(trigger)される」のかについて説明しています。FOSSライセンスは著作権ライセンスであり、基本的なトリガーはコードを&lt;t0/&gt;他の法人（legal entity）に 頒布するときです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slide explains ”permissive” FOSS licenses, the most basic type of FOSS license, which usually have minimal requirements.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T022153Z" creationid="maabou" creationdate="20170502T022153Z">
@@ -1773,6 +1838,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T002424Z" creationid="maabou" creationdate="20170428T002244Z">
         <seg>このスライドでは、ソフトウェアに関連する&lt;t0/&gt; 特許の概念を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide explains&lt;t0/&gt; that modifying code can impose obligations under FOSS licenses.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T115638Z" creationid="maabou" creationdate="20170504T115638Z">
+        <seg>このスライドでは、&lt;t0/&gt; コードの改変がFOSSライセンス下の義務を課すものとなりうることを説明しています。</seg>
       </tuv>
     </tu>
     <tu>
