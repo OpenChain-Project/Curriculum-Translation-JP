@@ -169,3 +169,14 @@ typical	典型的な、代表的な	Specでは代表的としている。
 retain	～を持ち続ける、～を保っている
 product	製品	サービスも含むとされる。https://ja.wikipedia.org/wiki/%E8%A3%BD%E5%93%81
 broad strokes	大まかに	以下サイトから引用「if you describe a situation with broad strokes, you describe it in a very general way without giving any details」http://idioms.thefreedictionary.com/broad+strokes
+analyze	分析する、解析する	「解析」→　物事を細かく解き開き、理論に基づいて研究すること。「分析」→ある物事を分解して、それを成立させている成分・要素・側面を明らかにすること。
+in light of	～の観点では、～の視点で見ると
+guidance	指導すること、助言、アドバイス
+objective	目的、目標、方針
+implement	実装する、実行に移す
+accessible	利用できる、入手可能な、入手しやすい、わかり易い
+identity	身元、それが何であるか
+release	リリース、公開、発売	リリースとは、作品、製品、サービスなどを公開あるいは発売するといった意味で用いられる語
+release	引き渡し	（ＩＳＯ用語）その作業(仕事）をするために必要な能力(知識･経験･資格等）次の工程（段階）へ進めること、又は次の工程(段階へ）へ引き渡すこと。 
+it should be noted that～	注目すべきは～ということ
+as needed 	必要に応じ
