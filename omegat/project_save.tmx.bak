@@ -89,6 +89,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A developer may make changes to a FOSS component, including:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T225724Z" creationid="maabou" creationdate="20170504T225717Z">
+        <seg>開発者はFOSSコンポーネントに対して変更を加えることができます。次のようなものがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A developer may transform the code from one state to another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T234011Z" creationid="maabou" creationdate="20170504T234011Z">
+        <seg>開発者は、コードをある状態から異なる状態に変換することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A patent license?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T075154Z" creationid="maabou" creationdate="20170501T075154Z">
@@ -125,6 +141,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T222031Z" creationid="maabou" creationdate="20170504T222031Z">
         <seg>適応させる（Adapting）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T230535Z" creationid="maabou" creationdate="20170504T230535Z">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adding/injecting new code into the FOSS component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T225821Z" creationid="maabou" creationdate="20170504T225821Z">
+        <seg>FOSSコンポーネントへの新たなコードの追加／注入（Adding/injecting）</seg>
       </tuv>
     </tu>
     <tu>
@@ -195,6 +227,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Because FOSS licenses usually apply during distribution, this is a key point to consider in a compliance program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T002008Z" creationid="maabou" creationdate="20170505T001741Z">
+        <seg>これはFOSSライセンスは通常、頒布の期間中に適用されるものであるためです。この点はコンプライアンスプログラムで考慮すべき重要なポイントです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:個人的にrobustは「丈夫な」がしっくりくるが、賛同は得られていないので「ロバストな」と置いておく</note>
       <tuv lang="EN-US">
         <seg>Benefits of a robust FOSS Compliance program include:</seg>
@@ -213,6 +253,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Binary delivery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000751Z" creationid="maabou" creationdate="20170505T000751Z">
+        <seg>バイナリでのデリバリ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can software be subject to a patent?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T074754Z" creationid="maabou" creationdate="20170501T074730Z">
@@ -225,6 +273,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T114424Z" creationid="maabou" creationdate="20170504T114424Z">
         <seg>今あるプログラムに対する変更（例：ファイル中にあるコードの追加、削除やコンポーネントの組み合わせ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T230532Z" creationid="maabou" creationdate="20170504T230532Z">
+        <seg>変更</seg>
       </tuv>
     </tu>
     <tu>
@@ -285,6 +341,31 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Community project</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000650Z" creationid="maabou" creationdate="20170505T000650Z">
+        <seg>コミュニティ プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:原文では「マスクにコンパイルする」とあるが、コンパイル後の出力はマスクパターンという認識なので意訳した。ネットリストとは、 電子回路における端子間の接続情報のデータのことである</note>
+      <tuv lang="EN-US">
+        <seg>Compiling VHDL in a mask or net list</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T235808Z" creationid="maabou" creationdate="20170504T235808Z">
+        <seg>VHDLのマスクパターンもしくはネットリストへのコンパイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compiling into binary</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T235859Z" creationid="maabou" creationdate="20170504T235859Z">
+        <seg>バイナリへのコンパイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance Benefits</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T124417Z" creationid="maabou" creationdate="20170504T124417Z">
@@ -313,6 +394,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T121202Z" creationid="maabou" creationdate="20170504T121202Z">
         <seg>オープンなコミュニティに参加し、コントリビュートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Converting C++ to Java</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T234138Z" creationid="maabou" creationdate="20170504T234138Z">
+        <seg>C++ からJavaへの変換</seg>
       </tuv>
     </tu>
     <tu>
@@ -383,10 +472,43 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating interdependency</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T224253Z" creationid="maabou" creationdate="20170504T224253Z">
+        <seg>相互依存性の創出（Creating interdependency）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Curriculum</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T201923Z" creationid="maabou" creationdate="20170322T201923Z">
         <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Customer/Partner</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000640Z" creationid="maabou" creationdate="20170505T000640Z">
+        <seg>顧客／パートナー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deleting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T230545Z" creationid="maabou" creationdate="20170504T230545Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:deleteは消し去ること（存在自体がなくなる）、removeは取り除くこと（存在自体は維持される）</note>
+      <tuv lang="EN-US">
+        <seg>Deleting or removing code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T230432Z" creationid="maabou" creationdate="20170504T230432Z">
+        <seg>コードの削除（Deleting）もしくは除去（Removing）</seg>
       </tuv>
     </tu>
     <tu>
@@ -411,6 +533,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T052306Z" creationid="maabou" creationdate="20170503T052306Z">
         <seg>開発者は自身のソフトウェアとともに&lt;t0/&gt;パブリック ドメイン宣言&lt;t1/&gt; を含めることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development Tools</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000006Z" creationid="maabou" creationdate="20170505T000006Z">
+        <seg>開発ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development tools may perform some of these operations behind the scenes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000311Z" creationid="maabou" creationdate="20170505T000232Z">
+        <seg>これらの操作のいくつかを裏方として開発ツールが実行してくれる場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -535,6 +673,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T020152Z" creationid="maabou" creationdate="20170502T015636Z">
         <seg>例：三条項BSDライセンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T234026Z" creationid="maabou" creationdate="20170504T234026Z">
+        <seg>例として以下のようなものがあります：</seg>
       </tuv>
     </tu>
     <tu>
@@ -708,6 +854,30 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fixing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T230525Z" creationid="maabou" creationdate="20170504T230525Z">
+        <seg>修正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixing, optimizing or making changes to the FOSS component</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T225928Z" creationid="maabou" creationdate="20170504T225928Z">
+        <seg>FOSSコンポーネントへの修正（Fixing）, 最適化（optimizing）もしくは変更（making change）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, a tool may inject portions of its own code into output of the tool.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000530Z" creationid="maabou" creationdate="20170505T000530Z">
+        <seg>たとえば、あるツールでは自身のコードを出力ファイルに注入してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, an open source software can be dual-licensed under MIT and GPLv2.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T142922Z" creationid="maabou" creationdate="20170503T142922Z">
@@ -825,6 +995,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T215043Z" creationid="maabou" creationdate="20170504T215043Z">
         <seg>そのコンポーネントをどのように使いたいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How is the FOSS component distributed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000621Z" creationid="maabou" creationdate="20170505T000621Z">
+        <seg>FOSSコンポーネントをどのように頒布するか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,6 +1129,15 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:when節だと文章として説明になっていないのでthat節のように訳した。</note>
+      <tuv lang="EN-US">
+        <seg>Incorporation is when you copy portions of a FOSS component into your software product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T002117Z" creationid="maabou" creationdate="20170505T002117Z">
+        <seg>取り込み（Incorporation） FOSSコンポーネントの一部を自身のソフトウェアプロダクトにコピーすることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Increased knowledge of available FOSS solutions</seg>
       </tuv>
@@ -972,6 +1159,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T125005Z" creationid="maabou" creationdate="20170504T125005Z">
         <seg>FOSSを使うことと関連付けられるコストとリスクについての理解を高める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inject material</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000542Z" creationid="maabou" creationdate="20170505T000542Z">
+        <seg>素材を注入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Injecting</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T230538Z" creationid="maabou" creationdate="20170504T230538Z">
+        <seg>注入</seg>
       </tuv>
     </tu>
     <tu>
@@ -1143,6 +1346,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Linking is when you link or join a FOSS component with your software product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T002431Z" creationid="maabou" creationdate="20170505T002120Z">
+        <seg>リンクとは自身のソフトウェアプロダクトとFOSSコンポーネントをリンク（link）もしくは接合（join）することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:business practiceは単純にビジネス上の実務なので業務としてよいのでは？</note>
       <tuv lang="EN-US">
         <seg>List and describe important business practices of a FOSS Compliance Program.</seg>
@@ -1184,6 +1395,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Modification is when you make changes to a FOSS component.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T002448Z" creationid="maabou" creationdate="20170505T002448Z">
+        <seg>改変とはFOSSコンポーネントに変更を加えることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここはSpecificationにおける工内さんの訳「改変告知」に統一させておきたい。</note>
       <tuv lang="EN-US">
         <seg>Modification notice &lt;t0/&gt;– a notice that you have made modifications to the source code of a file, such as adding your copyright notice to the top of the file.</seg>
@@ -1215,6 +1434,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T102852Z" creationid="maabou" creationdate="20170504T102852Z">
         <seg>混乱を避けるために、改変版の名前が異なる名前でなければらないこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify the material</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000546Z" creationid="maabou" creationdate="20170505T000546Z">
+        <seg>素材を改変</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,6 +1577,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014521Z" creationid="maabou" creationdate="20170502T014521Z">
         <seg>ライセンスで良く知られているものとして&lt;t0/&gt;FOSS&lt;t1/&gt; Iイニシアチブ（OSI)が 、彼らの&lt;t2/&gt;FOSS&lt;t3/&gt;定義（OSD）に基づき承認したものが挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Optimizing</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T230528Z" creationid="maabou" creationdate="20170504T230528Z">
+        <seg>最適化</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1741,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T023100Z" creationid="maabou" creationdate="20170325T022748Z">
         <seg>各章には質問形式の「理解度チェック」のスライドを設けていますのでご留意ください。回答はスライドのノート欄に記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pre-loaded onto hardware</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000827Z" creationid="maabou" creationdate="20170505T000827Z">
+        <seg>最初からハードウェアに組み込む</seg>
       </tuv>
     </tu>
     <tu>
@@ -1753,6 +1996,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T090118Z" creationid="maabou" creationdate="20170504T090102Z">
         <seg>ソースコードの入手しやすさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source code delivery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000743Z" creationid="maabou" creationdate="20170505T000743Z">
+        <seg>ソースコードでのデリバリ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2473,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slide explains&lt;t0/&gt; some of the concepts behind distribution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T001736Z" creationid="maabou" creationdate="20170505T001736Z">
+        <seg>このスライドでは&lt;t0/&gt;頒布することのお背景にあるいくつかの考え方を説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slide explains&lt;t0/&gt; that modifying code can impose obligations under FOSS licenses.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T115638Z" creationid="maabou" creationdate="20170504T115638Z">
@@ -2279,10 +2538,42 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This slides explains&lt;t0/&gt; that development tools may do some of these actions “behind the scene”, and this is an area that companies should be aware of.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T001654Z" creationid="maabou" creationdate="20170505T001654Z">
+        <seg>このスライドでは&lt;t0/&gt;開発ツールが「裏方となって」これらのアクションを実施する場合があることを説明しています。この内容は企業によく知っておいていただきたいところです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This slides outlines what incorporation means when using&lt;t0/&gt; FOSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170504T222252Z" creationid="maabou" creationdate="20170504T222143Z">
-        <seg>このスライドでは、FOSSを使う際にそれを取り込むということの意味について概要を述べています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T233904Z" creationid="maabou" creationdate="20170504T222143Z">
+        <seg>このスライドでは、&lt;t0/&gt; FOSSを使う際にそれを取り込むということの意味についての概要を述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides outlines what linking means when using&lt;t0/&gt; FOSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T233902Z" creationid="maabou" creationdate="20170504T224327Z">
+        <seg>このスライドでは&lt;t0/&gt; FOSS使う際にそれをリンクするということの意味にについての概要を述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides outlines what modification means when using&lt;t0/&gt; FOSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T233857Z" creationid="maabou" creationdate="20170504T233809Z">
+        <seg>このスライドでは&lt;t0/&gt;FOSSを使う際にそれを改変するということの意味についての概要を述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slides outlines what translation means when using&lt;t0/&gt; FOSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T235952Z" creationid="maabou" creationdate="20170504T235952Z">
+        <seg>このスライドでは&lt;t0/&gt; FOSSを使う際にそれを翻訳するということの意味についての概要を述べています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,10 +2627,34 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Translate the material</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000600Z" creationid="maabou" creationdate="20170505T000600Z">
+        <seg>素材を翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translating Chinese to English</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170504T234040Z" creationid="maabou" creationdate="20170504T234040Z">
+        <seg>中国語から英語への翻訳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translation</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T215535Z" creationid="maabou" creationdate="20170504T215535Z">
         <seg>翻訳する（Translation）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation is when you transform the code from one state to another.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T002513Z" creationid="maabou" creationdate="20170505T002513Z">
+        <seg>翻訳とはコードをある状態から別の状態に変換することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2449,6 +2764,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What factors are important in assessing a distribution?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T001348Z" creationid="maabou" creationdate="20170505T001348Z">
+        <seg>頒布を査定する上で重要な要素としてどんなものがありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What format for delivery?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000734Z" creationid="maabou" creationdate="20170505T000734Z">
+        <seg>デリバリ用のフォーマットは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What information may you find in FOSS Notices, and how may the notices be used?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T140745Z" creationid="maabou" creationdate="20170503T140745Z">
@@ -2477,6 +2808,38 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T140645Z" creationid="maabou" creationdate="20170503T140645Z">
         <seg>マルチライセンスとはどういったものでしょうか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is incorporation?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000910Z" creationid="maabou" creationdate="20170505T000910Z">
+        <seg>取り込むというのはどんなことですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is linking?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000917Z" creationid="maabou" creationdate="20170505T000917Z">
+        <seg>リンクするとはどういうことですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is modification?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000922Z" creationid="maabou" creationdate="20170505T000922Z">
+        <seg>改変するとはどういうことですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is translation?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000929Z" creationid="maabou" creationdate="20170505T000929Z">
+        <seg>翻訳するとはどういうことですか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2881,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T091505Z" creationid="maabou" creationdate="20170504T091505Z">
         <seg>改変を加えたかどうか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who receives the software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T000631Z" creationid="maabou" creationdate="20170505T000631Z">
+        <seg>そのソフトウェアを受け取るのはだれか？</seg>
       </tuv>
     </tu>
     <tu>
