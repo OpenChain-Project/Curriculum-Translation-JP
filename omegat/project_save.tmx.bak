@@ -16,6 +16,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>3&lt;t0/&gt;rd&lt;t1/&gt; Party Software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032136Z" creationid="maabou" creationdate="20170506T032136Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt; サード パーティ ソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;&lt;placeholder slide to identify where the FOSS policy can be found (OpenChain Specification 1.0, section 1.1.1)&gt;&gt;</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T222009Z" creationid="maabou" creationdate="20170326T222009Z">
@@ -229,6 +237,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approvals</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032006Z" creationid="maabou" creationdate="20170506T031851Z">
+        <seg>承認（Approval）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are Freeware and Shareware software considered FOSS?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T140633Z" creationid="maabou" creationdate="20170503T140633Z">
@@ -249,6 +265,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T122739Z" creationid="maabou" creationdate="20170503T100551Z">
         <seg>帰属表示（Attribution notice） &lt;t0/&gt;－製品リリースに含まれる、原作者の証としてこれを知らせる表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audit</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T031834Z" creationid="maabou" creationdate="20170506T031827Z">
+        <seg>監査（Audit）</seg>
       </tuv>
     </tu>
     <tu>
@@ -429,6 +453,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Compile notices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040635Z" creationid="maabou" creationdate="20170506T040635Z">
+        <seg>公開に向けて</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:原文では「マスクにコンパイルする」とあるが、コンパイル後の出力はマスクパターンという認識なので意訳した。ネットリストとは、 電子回路における端子間の接続情報のデータのこと。
 </note>
       <tuv lang="EN-US">
@@ -476,6 +508,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T024010Z" creationid="maabou" creationdate="20170506T023957Z">
         <seg>コンプライアンス マネジメントは、製品の中で使われるFOSS（もしくは&lt;t0/&gt;OpenChain&lt;t1/&gt; 仕様書の中の「供給ソフトウェア」）の取込みと頒布をコントロールする、一通りのアクションで構成されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm origin and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032747Z" creationid="maabou" creationdate="20170506T032657Z">
+        <seg>ソースコードの起源および</seg>
       </tuv>
     </tu>
     <tu>
@@ -735,6 +775,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T111145Z" creationid="maabou" creationdate="20170504T111145Z">
         <seg>外部に対する資料の散布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distribution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032055Z" creationid="maabou" creationdate="20170506T032055Z">
+        <seg>頒布（Distribution）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1313,10 +1361,26 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T031826Z" creationid="maabou" creationdate="20170506T031826Z">
+        <seg>確認（Identification）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identification of the origin and license of FOSS software</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T123137Z" creationid="maabou" creationdate="20170504T123137Z">
         <seg>FOSSソフトウェアの起源とライセンスの確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify FOSS components for review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T033052Z" creationid="maabou" creationdate="20170506T033047Z">
+        <seg>レビュー対象のFOSSコンポ―ネントを特定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -1443,12 +1507,20 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
-      <note>tani:「incoming」は一旦「受け入れ」とした。</note>
+      <note>tani:「incoming」は一旦「入力」とした。</note>
       <tuv lang="EN-US">
         <seg>Incoming</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170506T030505Z" creationid="maabou" creationdate="20170506T030505Z">
-        <seg>受け入れ</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032354Z" creationid="maabou" creationdate="20170506T030505Z">
+        <seg>入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Incoming Software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032410Z" creationid="maabou" creationdate="20170506T031804Z">
+        <seg>入力ソフトウェア</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,6 +2096,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Notices &amp; Attributions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032522Z" creationid="maabou" creationdate="20170506T032424Z">
+        <seg>各種告知／通知／表示（Notices）および帰属（Attributions）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Notices, such as text in comments in file headers, often provide authorship and licensing information.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T092045Z" creationid="maabou" creationdate="20170503T091555Z">
@@ -2125,6 +2205,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T003541Z" creationid="maabou" creationdate="20170506T003541Z">
         <seg>その他に、商用ライセンスやコンプライアンスおよびビジネス企画チームなどFOSSに関連する論点で影響を受けうる専門家、代表者も想定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outgoing Software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032416Z" creationid="maabou" creationdate="20170506T032416Z">
+        <seg>出力ソフトウェア</seg>
       </tuv>
     </tu>
     <tu>
@@ -2252,6 +2340,15 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
     </tu>
     <tu>
+      <note>tani:ここの訳がしづらい。「Post」が投稿・掲載するといった意味もありそうだが、～後のという意味でも読み取れる。他が動詞表記なので、動詞かと思うが、意味的には後者の方がしっくりくる。</note>
+      <tuv lang="EN-US">
+        <seg>Post publication</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T041623Z" creationid="maabou" creationdate="20170506T041007Z">
+        <seg>公開後の</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Pre-loaded onto hardware</seg>
       </tuv>
@@ -2289,6 +2386,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T095920Z" creationid="maabou" creationdate="20170502T095920Z">
         <seg>プロプライエタリ ライセンスもしくはクローズド ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proprietary Software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032118Z" creationid="maabou" creationdate="20170506T032118Z">
+        <seg>プロプライエタリ ソフトウェア</seg>
       </tuv>
     </tu>
     <tu>
@@ -2374,6 +2479,30 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Publish source code,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040259Z" creationid="maabou" creationdate="20170506T040259Z">
+        <seg>ソースコード、告知／通知／表示（notice）、書面による申し出（written offer）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Record approved</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040124Z" creationid="maabou" creationdate="20170506T040124Z">
+        <seg>承認された</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Registration</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T031859Z" creationid="maabou" creationdate="20170506T031859Z">
+        <seg>登録（Registration）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Released under the &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; license.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
@@ -2398,6 +2527,22 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resolve Issues</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032001Z" creationid="maabou" creationdate="20170506T031842Z">
+        <seg>問題の解決（Resolve Issue）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resolve any</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032959Z" creationid="maabou" creationdate="20170506T032959Z">
+        <seg>企業のFOSSポリシーに添って</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Respect FOSS developer rights and comply with license obligations</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T121135Z" creationid="maabou" creationdate="20170504T121135Z">
@@ -2414,6 +2559,22 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review and approve</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040450Z" creationid="maabou" creationdate="20170506T040450Z">
+        <seg>FOSS ソフトウェア コンポーネントの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032004Z" creationid="maabou" creationdate="20170506T031846Z">
+        <seg>レビュー（Review）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Running a FOSS Review</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T063330Z" creationid="maabou" creationdate="20170325T063330Z">
@@ -2426,6 +2587,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T045514Z" creationid="maabou" creationdate="20170504T044336Z">
         <seg>使用されるFOSSに対し全てのライセンスの義務を果たすこと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scan or audit source code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032553Z" creationid="maabou" creationdate="20170506T032553Z">
+        <seg>ソースコードのスキャン、監査</seg>
       </tuv>
     </tu>
     <tu>
@@ -2467,6 +2636,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T030103Z" creationid="maabou" creationdate="20170506T030103Z">
         <seg>大企業が詳細なプロセスを保有する一方で小規模の企業ではチェックリストを使うだけの場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smaller companies may wish to approach the process in a more streamlined way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T031446Z" creationid="maabou" creationdate="20170506T031446Z">
+        <seg>小規模な企業では、より簡素化したプロセスで取組むことが望まれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3537,6 +3714,30 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032021Z" creationid="maabou" creationdate="20170506T031953Z">
+        <seg>検証（Verification）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify appropriate notices are provided</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T035836Z" creationid="maabou" creationdate="20170506T033251Z">
+        <seg>適切な告知／通知／表示（notice）が提供されていることを検証する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify source code packages for distribution</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T033226Z" creationid="maabou" creationdate="20170506T033226Z">
+        <seg>頒布用のソースコード パッケージを検証する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T220508Z" creationid="maabou" creationdate="20170505T220508Z">
@@ -3881,6 +4082,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Written Offer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032529Z" creationid="maabou" creationdate="20170506T032529Z">
+        <seg>書面による申し出（Written Offer）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここのdeliverは難しい。文脈的には、「そのままトレーニングのパッケージとして使える」というニュアンスだと捉えた。単純に「資料として配付する」というニュアンスだと弱い印象があった。後半部分は、「まとめて一日半のトレーニング」でなくても「章ごとに分けたトレーニング構成でもよい」、という意味でとらえている。</note>
       <tuv lang="EN-US">
         <seg>You can deliver these slides as one half-day training session or you&lt;t0/&gt; can deliver each chapter as a separate module.</seg>
@@ -3898,12 +4107,116 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>audit issues in line with</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T033009Z" creationid="maabou" creationdate="20170506T033009Z">
+        <seg>監査での全問題</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032755Z" creationid="maabou" creationdate="20170506T032723Z">
+        <seg>確認 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>company FOSS policies</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T033012Z" creationid="maabou" creationdate="20170506T033012Z">
+        <seg>を解決する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>compliance record of FOSS software components</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040455Z" creationid="maabou" creationdate="20170506T040455Z">
+        <seg>コンプライアンス記録をレビューし、承認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for publication</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040637Z" creationid="maabou" creationdate="20170506T040637Z">
+        <seg>告知／通知／表示（notice）をまとめる</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:</note>
       <tuv lang="EN-US">
         <seg>g., "All of the code and documentation in this software has been dedicated to the public domain by the authors."</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T054548Z" creationid="maabou" creationdate="20170503T054401Z">
         <seg>例）「本ソフトウェアの全てのコードと文書類は著作者によりパブリックドメインにささげられました」</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>in inventory per</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040142Z" creationid="maabou" creationdate="20170506T040142Z">
+        <seg>製品ごと、リリースごとに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>license of source</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032757Z" creationid="maabou" creationdate="20170506T032701Z">
+        <seg>ライセンスの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>notices and provide written offer</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040301Z" creationid="maabou" creationdate="20170506T040301Z">
+        <seg>を公開する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>product and per</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040148Z" creationid="maabou" creationdate="20170506T040148Z">
+        <seg>一覧表（inventory）に</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>release</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040152Z" creationid="maabou" creationdate="20170506T040152Z">
+        <seg>記録する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>software/version</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T040135Z" creationid="maabou" creationdate="20170506T040135Z">
+        <seg>ソフトウェア／版数（バージョン）を</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>verifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T041625Z" creationid="maabou" creationdate="20170506T041115Z">
+        <seg>検証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>– and –</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T032610Z" creationid="maabou" creationdate="20170506T032610Z">
+        <seg>－ および －</seg>
       </tuv>
     </tu>
     <tu>
