@@ -64,6 +64,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A FOSS Review alerts and engages the various support groups that work together to support, guide, coordinate and review the use of FOSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T234330Z" creationid="maabou" creationdate="20170505T234330Z">
+        <seg>FOSS レビューには、FOSSの使用を支援し、助言し、とりまとめやレビューを協力して行う各種支援グループがいます。こういったグループへ注意喚起しながら参加してもらいます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:誤記だろうか。直訳がいまいちしっくりこない。文脈をくみ取ると、「エンジニアリング、ビジネス、法務チーム以外にも企画部門を呼ぶこともできる」というニュアンスのように感じる。</note>
       <tuv lang="EN-US">
         <seg>A FOSS Review can be the meeting point for engineering, business and legal teams, and can require planning and organization to successfully conduct on a large scale.</seg>
@@ -912,6 +920,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS Review Team</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T223742Z" creationid="maabou" creationdate="20170505T223742Z">
+        <seg>FOSS レビューチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFTDesigned for the OpenChain Specification 1.0</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
@@ -1501,6 +1517,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal team to identify and evaluate license obligations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T234649Z" creationid="maabou" creationdate="20170505T234649Z">
+        <seg>ライセンスの義務を特定し、評価する法務（リーガル）チーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Legal teams analyze and determine license obligations and provide guidance</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T213356Z" creationid="maabou" creationdate="20170505T213356Z">
@@ -1895,6 +1919,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other specialists or representatives that may be impacted by FOSS-related issues, such as commercial licensing, compliance or business planning teams.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T003541Z" creationid="maabou" creationdate="20170506T003541Z">
+        <seg>その他に、商用ライセンスやコンプライアンスおよびビジネス企画チームなどFOSSに関連する論点で影響を受けうる専門家、代表者も想定されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Oversight for FOSS Compliance Program, creation of policy, and compliance decisions</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T123800Z" creationid="maabou" creationdate="20170504T123800Z">
@@ -2195,6 +2227,22 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning and tooling support team to help identify and track FOSS usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T234756Z" creationid="maabou" creationdate="20170505T234756Z">
+        <seg>FOSSの使用を確認し、追跡することを支援するスキャン＆ツールチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scanning and tooling teams that identify and track FOSS usage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T002505Z" creationid="maabou" creationdate="20170506T002505Z">
+        <seg>FOSSの使用を特定し、追跡するスキャン＆ツールチーム</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:functionalityは機能（それが持つ能力）、featureは機構（なんからの目的にあった特定の機能）。どちらも同じような意味だがニュアンスが違うもよう。</note>
       <tuv lang="EN-US">
         <seg>Shareware - proprietary software provided to users on a trial basis, for a limited time, free of charge and with limited functionalities or features</seg>
@@ -2306,6 +2354,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specialists working with business interests, commercial licensing, export compliance, etc., who may be impacted by FOSS usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T000400Z" creationid="maabou" creationdate="20170506T000248Z">
+        <seg>FOSSの使用によって影響を受ける可能性のある、事業収益、商用ライセンス、輸出コンプライアンスなどを取り扱う専門家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Static/Dynamic Linking</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T223704Z" creationid="maabou" creationdate="20170504T222510Z">
@@ -2354,6 +2410,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The FOSS Review team may consist of an interdisciplinary team</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T001010Z" creationid="maabou" creationdate="20170506T001010Z">
+        <seg>FOSS レビューチームは異なった分野にまたがって構成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The copyright owner only has control over the work that he or she created, not someone else’s independent creation</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T231550Z" creationid="maabou" creationdate="20170326T231457Z">
@@ -2391,6 +2455,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T042256Z" creationid="maabou" creationdate="20170502T221525Z">
         <seg>シェアウェアの目的は、将来の購買者がその有用性を評価できるよう、そのソフトウェアの完全版ライセンスを購入する前にプログラムを使用する機会を提供することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The legal team may be supported by others, including:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T002437Z" creationid="maabou" creationdate="20170506T002437Z">
+        <seg>リーガルチームは他の人たちからサポートされる場合もあります。次のような人たちがいます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The legal team, which may include in-house or outside attorneys, reviews and evaluates the FOSS usage for license obligations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T001920Z" creationid="maabou" creationdate="20170506T001920Z">
+        <seg>リーガルチームは、社内もしくは外部の弁護士を含めることができ、ライセンスの義務に応じたFOSS使用をレビューし評価します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2501,6 +2581,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The teams may also organize and track information gathered regarding FOSS usage to assist with later compliance processes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T003238Z" creationid="maabou" creationdate="20170506T003238Z">
+        <seg>また本チームは、後続するコンプライアンスプロセスを支援するべく、FOSSの使用について収集した情報を整理し、追跡することも実施します。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここのtermはどう訳すか。条項とすべきか、用語とすべきか
 </note>
       <tuv lang="EN-US">
@@ -2580,6 +2668,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170325T001219Z" creationid="maabou" creationdate="20170325T000739Z">
         <seg>本スライドは米国法令に準じています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These teams may provide support using code scanning or forensics tools to identify FOSS components in a codebase.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T003038Z" creationid="maabou" creationdate="20170506T003038Z">
+        <seg>このチームはコードベース（ソースコードの集積場所）にあるFOSSコンポーネントを特定するためのコードスキャンツールやフォレンジクス（法的確証収集）ツールを使った支援などを行います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2928,6 +3024,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T235952Z" creationid="maabou" creationdate="20170504T235952Z">
         <seg>このスライドでは FOSSを使う際にそれを翻訳するということの意味についての概要を述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This team may include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170505T234610Z" creationid="maabou" creationdate="20170505T234610Z">
+        <seg>チームとしては以下のようなものがあります：</seg>
       </tuv>
     </tu>
     <tu>

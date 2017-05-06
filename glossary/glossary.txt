@@ -180,3 +180,7 @@ release	リリース、公開、発売	リリースとは、作品、製品、�
 release	引き渡し	（ＩＳＯ用語）その作業(仕事）をするために必要な能力(知識･経験･資格等）次の工程（段階）へ進めること、又は次の工程(段階へ）へ引き渡すこと。 
 it should be noted that～	注目すべきは～ということ
 as needed 	必要に応じ
+business interest	事業利益、ビジネス界
+attorney	代理人弁護士	（以下サイトより抜粋）http://nylawyer.exblog.jp/4251001/　ロイヤーは法律家であり別に弁護士に限られない。法学の専門教育を受け法的素養のある人はロイヤーと呼ばれる。他方、アトニーは代理人弁護士であり、ロイヤーよりも狭い概念である。
+review	見直す、再調査する、再検討する、再考察する
+codebase	ソースコードの集積場所	https://en.wikipedia.org/wiki/Codebase
