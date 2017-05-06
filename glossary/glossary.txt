@@ -118,7 +118,7 @@ material	素材、資料、特定の目的で書かれた情報・アイデア
 non-obvious	非自明性,進歩性	その分野の人なら容易に思いつくようなものではないことをいう。たとえば左ハンドルの車を見て右ハンドルの車を考案しても発明にはならない。米国で発明について特許を受けるための要件の一つで日本では「進歩性」がこれに相当するとある。https://ja.wikipedia.org/wiki/%E9%80%B2%E6%AD%A9%E6%80%A7
 incentivize	やる気を起こさせる、奨励する
 limited monopoly	限定された独占権	「限定」は、期間など
-mark	標識、記号、目印
+mark	標識、記号、目印、示す、知らせる
 placeholder	仮置き、後になって実際の文字や数字などが表れる場所を示すもの
 overview	概観、概説
 big picture	全体像
@@ -200,3 +200,8 @@ repository	保管場所
 recognize 	～を識別する、～を認識する、～を認証する
 usage	使い方、使用方法
 check into	チェックインする（ソフトウェア開発のバージョン管理）	"To commit (check in, ci or, more rarely, install, submit or record) is to write or merge the changes made in the working copy back to the repository" https://en.wikipedia.org/wiki/Version_control
+flag	マークをつける。	"to mark (a page in a book, file card, etc.) for attention, as by attaching protruding tabs. " http://www.dictionary.com/browse/flag?s=t
+authority	権限、職権、権力者、支配者、〔行政権がある〕官庁、機関、局、院
+function call	関数呼び出し、ファンクションコール	システムコールとの違いは以下サイトを参照 http://www.differencebetween.com/difference-between-system-call-and-vs-function-call/
+system call	システムコール	関数呼び出し（Function call）との違いは以下サイトを参照 http://www.differencebetween.com/difference-between-system-call-and-vs-function-call/
+shared header	共通ヘッダ	多い。C/C++系のプログラム言語で、Common headerという表現の方が多く使われる。
