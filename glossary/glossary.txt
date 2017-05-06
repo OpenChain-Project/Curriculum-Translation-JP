@@ -192,3 +192,11 @@ due diligence	適正な注意、適正評価	（Wikipediaから）デューデ�
 incoming	受け入れ、入力、流入、到着、次期
 compile	集める、まとめる、コンパイルする、機械語に翻訳する
 post	掲載する、投稿する、～後の
+pre-requisite	必要［必須・前提］条件、要件	prerequisite
+authorization	権限を与えること、権限付与、権威付け
+authorization	許可、承認、承諾、免許
+mod	改変	modificationの略と思われる。"an act or instance of modifying; modification." http://www.dictionary.com/browse/mod?s=t
+repository	保管場所
+recognize 	～を識別する、～を認識する、～を認証する
+usage	使い方、使用方法
+check into	チェックインする（ソフトウェア開発のバージョン管理）	"To commit (check in, ci or, more rarely, install, submit or record) is to write or merge the changes made in the working copy back to the repository" https://en.wikipedia.org/wiki/Version_control
