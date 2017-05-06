@@ -184,3 +184,7 @@ business interest	事業利益、ビジネス界
 attorney	代理人弁護士	（以下サイトより抜粋）http://nylawyer.exblog.jp/4251001/　ロイヤーは法律家であり別に弁護士に限られない。法学の専門教育を受け法的素養のある人はロイヤーと呼ばれる。他方、アトニーは代理人弁護士であり、ロイヤーよりも狭い概念である。
 review	見直す、再調査する、再検討する、再考察する
 codebase	ソースコードの集積場所	https://en.wikipedia.org/wiki/Codebase
+working through　～	～に取り組む、対処する
+underlying	根本的な、潜在的な
+follow-up	後に続くこと［付いていくこと］、再度行うこと、〔問題解決のための〕追求、探求、
+further	より深く、一層の、更なる	further

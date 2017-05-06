@@ -213,6 +213,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Analyzing Proposed FOSS Usage</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T004112Z" creationid="maabou" creationdate="20170506T004112Z">
+        <seg>提案されたFOSSの使用を分析する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Applications downloaded to a user’s machine or mobile device</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T111404Z" creationid="maabou" creationdate="20170504T111246Z">
@@ -420,6 +428,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T235859Z" creationid="maabou" creationdate="20170504T235859Z">
         <seg>バイナリへのコンパイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Completeness, consistency, accuracy (code <ph x="0">&lt;t0/&gt;</ph>scanning tools may be used to scan for undisclosed FOSS usage)</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T004720Z" creationid="maabou" creationdate="20170506T004720Z">
+        <seg>完全性、一貫性、正確性（公表されていないFOSSの使用についてはコード <ph x="0">&lt;t0/&gt;</ph>スキャンツールが使われることがあります）</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,6 +729,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170426T061011Z" creationid="maabou" creationdate="20170426T061011Z">
         <seg>抽象的なアイデアや自然法則は保護しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Does the declared license match what is in the code files?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T004801Z" creationid="maabou" creationdate="20170506T004801Z">
+        <seg>宣言されたライセンスがコードファイルにある内容と合っていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Does the license truly permit the proposed use of the software?</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T005032Z" creationid="maabou" creationdate="20170506T005032Z">
+        <seg>そのライセンスが提案されているソフトウェアの使用を本当に許容していますか？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,6 +1064,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>For example, code scanning may be used to locate undisclosed FOSS usage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T005520Z" creationid="maabou" creationdate="20170506T005520Z">
+        <seg>例えば、公開されていないFOSSの利用を見つけるためにコードスキャンツールが使われることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>For more on dual-licensing<ph x="0">&lt;t0/&gt;</ph> as a business model: http://<ph x="1">&lt;t1/&gt;</ph>oss-watch.ac.uk<ph x="2">&lt;t2/&gt;</ph>/resources/duallicence2</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T135935Z" creationid="maabou" creationdate="20170503T135935Z">
@@ -1141,6 +1181,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T062728Z" creationid="maabou" creationdate="20170503T062429Z">
         <seg>ドイツがその一例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Guidance</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T011134Z" creationid="maabou" creationdate="20170506T011134Z">
+        <seg>助言</seg>
       </tuv>
     </tu>
     <tu>
@@ -1517,6 +1565,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Legal</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T003819Z" creationid="maabou" creationdate="20170506T003819Z">
+        <seg>リーガル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Legal team to identify and evaluate license obligations</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170505T234649Z" creationid="maabou" creationdate="20170505T234649Z">
@@ -1593,6 +1649,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170502T041226Z" creationid="maabou" creationdate="20170502T041109Z">
         <seg>互恵性やコピーレフトの条項を組み入れたライセンスとしてGPL, LGPL, AGPL, MPLおよび CDDLの全てのバージョンが挙げられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Likewise, the engineering team may need assistance in implementing guidance from the FOSS review team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T012645Z" creationid="maabou" creationdate="20170506T012645Z">
+        <seg>同じくエンジニアリングチームは、FOSSレビューチームからの助言を実行に移す際に支援を必要とするかもしれません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1843,6 +1907,15 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T060554Z" creationid="maabou" creationdate="20170503T060554Z">
         <seg>多くの場合、パブリック ドメイン宣言は保証免責条項など他の条項を伴います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:意味がいまいち伝わらない。ノウハウがたまるということを言いたい？</note>
+      <tuv xml:lang="EN-US">
+        <seg>Once the proposed FOSS usage has been fully assessed, the legal team will then have the necessary information on which to make its judgments.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T010002Z" creationid="maabou" creationdate="20170506T010002Z">
+        <seg>一度提案されたFOSSの使用が十分査定されれば、リーガルチームは判断を下す際に必要な情報を保有するようになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2228,6 +2301,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Scanning</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T003822Z" creationid="maabou" creationdate="20170506T003822Z">
+        <seg>スキャン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Scanning and tooling support team to help identify and track FOSS usage</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170505T234756Z" creationid="maabou" creationdate="20170505T234756Z">
@@ -2354,6 +2435,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Specialists</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T003830Z" creationid="maabou" creationdate="20170506T003830Z">
+        <seg>専門家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Specialists working with business interests, commercial licensing, export compliance, etc., who may be impacted by FOSS usage</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170506T000400Z" creationid="maabou" creationdate="20170506T000248Z">
@@ -2410,10 +2499,34 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The FOSS Review process should be flexible enough to allow the interested parties to collaborate.  Sometimes a FOSS usage scenario may not be clear to the FOSS review team.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T011423Z" creationid="maabou" creationdate="20170506T011423Z">
+        <seg>FOSSレビューのプロセスは利害関係のある参加者が協力できるよう、柔軟なものになる必要があります。時としてFOSSの利用シナリオがFOSSレビューチームにとって明確でないこともあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The FOSS Review team may consist of an interdisciplinary team</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170506T001010Z" creationid="maabou" creationdate="20170506T001010Z">
         <seg>FOSS レビューチームは異なった分野にまたがって構成することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The FOSS Review team should assess the information it has gathered before providing guidance, including for issues such as:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T004507Z" creationid="maabou" creationdate="20170506T004507Z">
+        <seg>FOSSレビューチームは助言を提供する前に、例えば以下のような論点に対し、収集した情報を査定する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The FOSS Review team should have the expertise to properly assess the FOSS usage. This may require support from engineering teams to educate legal and business teams about the proposed FOSS usage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T005432Z" creationid="maabou" creationdate="20170506T005432Z">
+        <seg>FOSSレビューチームは、FOSSの使用を適切に評価するための専門知識を有する必要があります。提案されたFOSSの使用についてリーガルやビジネスチームを教育するためにエンジニアリングチームから支援を求めることもできます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,6 +2543,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T090059Z" creationid="maabou" creationdate="20170503T090059Z">
         <seg>「二次的著作物」の定義はFOSSコミュニティでもその見解がさまざまになりがちです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The engineering team will need the ability to provide further input.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T012248Z" creationid="maabou" creationdate="20170506T012248Z">
+        <seg>エンジニアリングチームはより深くインプットを提供するための技量が必要となるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2612,6 +2733,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170504T131326Z" creationid="maabou" creationdate="20170504T131326Z">
         <seg>FOSSコンプライアンスプログラムの二つの主要なゴールとは<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>自身の義務を知ること<ph x="2">&lt;t2/&gt;</ph> と<ph x="3">&lt;t3/&gt;</ph>義務を果たすこと<ph x="4">&lt;t4/&gt;</ph>です。<ph x="5">&lt;t5/&gt;</ph>FOSSコンプライアンス プログラムでの重要な業務としては以下が含まれます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The work crosses disciplines, including engineering, business and legal teams, and may require in follow-up discussion so that all parties understand the underlying issues.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T010944Z" creationid="maabou" creationdate="20170506T010944Z">
+        <seg>この作業はエンジニアリング、ビジネス、リーガルチームなど分野をまたいだものとなります。また全ての参加者が潜在的な問題を理解できるようにフォローアップの議論が必要となる場合もあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3134,6 +3263,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Ultimately, the process should result in clear guidance on FOSS usage.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T011118Z" creationid="maabou" creationdate="20170506T011118Z">
+        <seg>このプロセスは最終的にFOSS使用に関する明確な助言となる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Under disjunctive licensing you have a choice of licensing, i.e. GPL and a more permissive license option, you may choose which license<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>you are going to distribute under depending on license<ph x="2">&lt;t2/&gt;</ph> compatibility, <ph x="3">&lt;t3/&gt;</ph>license requirements.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170503T132220Z" creationid="maabou" creationdate="20170503T132220Z">
@@ -3411,6 +3548,30 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170505T000631Z" creationid="maabou" creationdate="20170505T000631Z">
         <seg>そのソフトウェアを受け取るのはだれか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Work</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T011129Z" creationid="maabou" creationdate="20170506T011129Z">
+        <seg>取り組む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Working through the FOSS Review</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T010209Z" creationid="maabou" creationdate="20170506T010209Z">
+        <seg>FOSSレビューに取り組む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Working through the FOSS Review process is interactive.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170506T010301Z" creationid="maabou" creationdate="20170506T010301Z">
+        <seg>FOSSレビュープロセスは、インタラクティブな取組みです。</seg>
       </tuv>
     </tu>
     <tu>
