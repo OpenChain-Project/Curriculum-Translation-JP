@@ -205,3 +205,4 @@ authority	権限、職権、権力者、支配者、〔行政権がある〕官�
 function call	関数呼び出し、ファンクションコール	システムコールとの違いは以下サイトを参照 http://www.differencebetween.com/difference-between-system-call-and-vs-function-call/
 system call	システムコール	関数呼び出し（Function call）との違いは以下サイトを参照 http://www.differencebetween.com/difference-between-system-call-and-vs-function-call/
 shared header	共通ヘッダ	多い。C/C++系のプログラム言語で、Common headerという表現の方が多く使われる。
+if any	少しでもあるなら、もしあれば、いくらかでもあれば
