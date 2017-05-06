@@ -221,6 +221,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An audit report identifying the origins and licenses of the source code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T094915Z" creationid="maabou" creationdate="20170506T094915Z">
+        <seg>ソースコードの起源とライセンスの確認をした監査レポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of this would be FFMpeg,&lt;t0/&gt; &lt;t1/&gt;which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T012118Z" creationid="maabou" creationdate="20170502T011443Z">
@@ -289,6 +297,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T031834Z" creationid="maabou" creationdate="20170506T031827Z">
         <seg>監査（Audit）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auditing Source Code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T095926Z" creationid="maabou" creationdate="20170506T095926Z">
+        <seg>ソースコードを監査する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audits or scans are performed iteratively based on the software development and release lifecycles</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T095845Z" creationid="maabou" creationdate="20170506T095845Z">
+        <seg>ソフトウェア開発やリリース ライフサイクルをベースに監査もしくはスキャンが繰り返し実施される</seg>
       </tuv>
     </tu>
     <tu>
@@ -727,6 +751,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T000006Z" creationid="maabou" creationdate="20170505T000006Z">
         <seg>開発ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Development team provides a compliance record with information about the FOSS usage</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T094732Z" creationid="maabou" creationdate="20170506T094732Z">
+        <seg>開発チームがFOSSの使用についての情報のあるコンプライアンスの記録を提供する</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,6 +1465,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Identify FOSS components and their origin and licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T095919Z" creationid="maabou" creationdate="20170506T095919Z">
+        <seg>FOSSコンポーネント、その起源とライセンスが確認される</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identify FOSS components for review</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T033052Z" creationid="maabou" creationdate="20170506T033047Z">
@@ -1535,6 +1575,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T214830Z" creationid="maabou" creationdate="20170505T214823Z">
         <seg>以下のような問いが重要です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In cases where no record is provided by the development team, a record can be created when the FOSS component is discovered</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T094819Z" creationid="maabou" creationdate="20170506T094819Z">
+        <seg>開発チームから提供される記録がない場合、FOSSコンポーネントが発見されたときに記録が生成される</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In our example, the company may conduct research into the identified FOSS component (e.g., review declared licenses, research origins of the FOSS component).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T100303Z" creationid="maabou" creationdate="20170506T100303Z">
+        <seg>ここでの例では、企業は確認されたFOSSコンポーネントについて調査を実施しています。（例えば、宣言されたライセンスのレビューや、FOSSコンポーネントの起源の調査など）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2893,6 +2949,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source code for the audit is identified</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T094945Z" creationid="maabou" creationdate="20170506T094934Z">
+        <seg>監査のためのソースコードが特定される</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source may be scanned by a software tool</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T095003Z" creationid="maabou" creationdate="20170506T095003Z">
+        <seg>ソフトウェアツールによってソースがスキャンされる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Specialists</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T003830Z" creationid="maabou" creationdate="20170506T003830Z">
@@ -3010,6 +3082,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T005432Z" creationid="maabou" creationdate="20170506T005432Z">
         <seg>FOSSレビューチームは、FOSSの使用を適切に評価するための専門知識を有する必要があります。提案されたFOSSの使用についてリーガルやビジネスチームを教育するためにエンジニアリングチームから支援を求めることもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The company may also scan the source code to verify the origin and composition of the code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T100457Z" creationid="maabou" creationdate="20170506T100436Z">
+        <seg>また企業はソースコードの起源や構成を検証するためにスキャンも実施します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3154,6 +3234,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next step is auditing source code identified in the previous step.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T100013Z" creationid="maabou" creationdate="20170506T100013Z">
+        <seg>次のステップは前のステップで確認されたソースコードの監査です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The oversight committee may make important policy decisions or resolve disagreements between parties in the review process.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T014332Z" creationid="maabou" creationdate="20170506T014214Z">
@@ -3214,6 +3302,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T025611Z" creationid="maabou" creationdate="20170506T024230Z">
         <seg>コンプライアンスの適正努力の結果、供給ソフトウェアで使用されている全てのFOSSを特定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The review team may then produce an audit report with its conclusions regarding the origin and licensing of the source code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T100600Z" creationid="maabou" creationdate="20170506T100450Z">
+        <seg>レビューチームはこのときソースコードの起源とライセンスに関して結論づけた監査レポートを生成します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4449,6 +4545,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T135845Z" creationid="maabou" creationdate="20170503T135355Z">
         <seg>「&lt;t0/&gt;デュアル（Dual）&lt;t1/&gt;」＝ここでかいた状況すべてで使われ売る、混乱を招く用語ですが&lt;t2/&gt; 、通常この用語はOSSライセンスもしくは商用ライセンスの選択に関するビジネスモデルについて言及しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Hits” from the audit or scan are reviewed and verified as to the proper origin of the code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T095125Z" creationid="maabou" creationdate="20170506T095125Z">
+        <seg>監査やスキャンによって「ヒット」したものがレビューされ、コードの起源が適正かどうかが検証される</seg>
       </tuv>
     </tu>
     <tu>
