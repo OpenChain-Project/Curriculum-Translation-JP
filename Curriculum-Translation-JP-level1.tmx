@@ -464,6 +464,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compliance Process</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T030702Z" creationid="maabou" creationdate="20170506T030702Z">
+        <seg>コンプライアンス プロセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance management consists of a set of actions that controls the intake and distribution of FOSS used in products (or "Supplied Software" in the OpenChain specification)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T024010Z" creationid="maabou" creationdate="20170506T023957Z">
+        <seg>コンプライアンス マネジメントは、製品の中で使われるFOSS（もしくはOpenChain 仕様書の中の「供給ソフトウェア」）の取込みと頒布をコントロールする、一通りのアクションで構成されます。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consumer and brand protection; avoid consumer confusion and brand dilution</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T215943Z" creationid="maabou" creationdate="20170326T215943Z">
@@ -1032,6 +1048,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS identified;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T030538Z" creationid="maabou" creationdate="20170506T030538Z">
+        <seg>確認されたFOSS；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS licenses are Free and FOSS Software licenses generally make source code available under terms that allow for modification and redistribution.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T140924Z" creationid="maabou" creationdate="20170503T140919Z">
@@ -1052,6 +1076,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T014021Z" creationid="maabou" creationdate="20170502T013915Z">
         <seg>FOSSライセンスには、帰属の提供や著作権宣言文の維持もしくはソースコードが取得できる「書面による申し出（Written offer)」に係る条件を有する場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS obligations met</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T030641Z" creationid="maabou" creationdate="20170506T030641Z">
+        <seg>履行されるFOSSの義務</seg>
       </tuv>
     </tu>
     <tu>
@@ -1411,6 +1443,15 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:「incoming」は一旦「受け入れ」とした。</note>
+      <tuv lang="EN-US">
+        <seg>Incoming</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T030505Z" creationid="maabou" creationdate="20170506T030505Z">
+        <seg>受け入れ</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Incorporation</seg>
       </tuv>
@@ -1561,6 +1602,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T021733Z" creationid="maabou" creationdate="20170502T021733Z">
         <seg>またここでは、いくつかのFOSSライセンスについてより多くを調べられるリソースについても説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It confirms that all FOSS license obligations have been or will be met</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T025724Z" creationid="maabou" creationdate="20170506T025724Z">
+        <seg>すべてのFOSSライセンスの義務を履行された、もしくは履行されることをを確認します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1923,6 +1972,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T140444Z" creationid="maabou" creationdate="20170503T140331Z">
         <seg>パーミッシブなライセンスの名称をいくつか挙げてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that this section provides a detailed example of what may take place in a large enterprise.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T031105Z" creationid="maabou" creationdate="20170506T031105Z">
+        <seg>このセクションは大規模なエンタープライズで生じうる、詳細な例を提供します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2406,6 +2463,22 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Small companies may just use a checklist while larger enterprises will have a detailed process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T030103Z" creationid="maabou" creationdate="20170506T030103Z">
+        <seg>大企業が詳細なプロセスを保有する一方で小規模の企業ではチェックリストを使うだけの場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smaller companies may wish to approach the process in a more streamlined way.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T031446Z" creationid="maabou" creationdate="20170506T031446Z">
+        <seg>小規模な企業では、より簡素化したプロセスで取組むことが望まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Software can be subject to a patent.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170501T100557Z" creationid="maabou" creationdate="20170501T100557Z">
@@ -2792,6 +2865,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of compliance due diligence is an identification of all FOSS used in the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T025611Z" creationid="maabou" creationdate="20170506T024230Z">
+        <seg>コンプライアンスの適正努力の結果、供給ソフトウェアで使用されている全てのFOSSを特定します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The right to distribute</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170426T052654Z" creationid="maabou" creationdate="20170331T050425Z">
@@ -3002,6 +3083,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter provides an example of an enterprise process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T030211Z" creationid="maabou" creationdate="20170506T030211Z">
+        <seg>本章では大規模企業（エンタープライズ）のプロセス例を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter will focus on copyright and patents, the areas most relevant to FOSS compliance</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220210Z" creationid="maabou" creationdate="20170326T220011Z">
@@ -3096,6 +3185,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T130033Z" creationid="maabou" creationdate="20170504T130010Z">
         <seg>このスライドではコンプライアンス がライセンスの法的義務の履行という事実ベースの域を越え、組織にもたらすメリットについて述べています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This slide describes the definition of compliance management and its end goals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T030948Z" creationid="maabou" creationdate="20170506T030948Z">
+        <seg>このスライドは、コンプライアンスマネジメントと最終目標について述べています。</seg>
       </tuv>
     </tu>
     <tu>
