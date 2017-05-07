@@ -485,10 +485,26 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automated source code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T002051Z" creationid="maabou" creationdate="20170507T002051Z">
+        <seg>ソースコードの</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Availability of source code</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T221403Z" creationid="maabou" creationdate="20170505T221403Z">
         <seg>ソースコードの入手しやすさ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoidance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T233332Z" creationid="maabou" creationdate="20170506T233332Z">
+        <seg>回避策</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +646,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chapter 7</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T151200Z" creationid="maabou" creationdate="20170506T151200Z">
+        <seg>第7章</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Your Understanding</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170428T061943Z" creationid="maabou" creationdate="20170428T061943Z">
@@ -712,10 +736,26 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compliance Pitfalls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T232401Z" creationid="maabou" creationdate="20170506T232401Z">
+        <seg>コンプライアンスの落とし穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Compliance Process</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T030702Z" creationid="maabou" creationdate="20170506T030702Z">
         <seg>コンプライアンス プロセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance Process &lt;t0/&gt;pitfalls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T232638Z" creationid="maabou" creationdate="20170506T232638Z">
+        <seg>コンプライアンスのプロセスの &lt;t0/&gt;落とし穴</seg>
       </tuv>
     </tu>
     <tu>
@@ -732,6 +772,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T120533Z" creationid="maabou" creationdate="20170506T120525Z">
         <seg>監査されたソースコード、ソフトウェアアーキテクチャ、およびFOSSの利用方法（次頁テンプレート参照）についてFOSSレビューを実施する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conducting regular source code scans or audits for all the source code in the build environment (proprietary, 3&lt;t0/&gt;rd&lt;t1/&gt; party and FOSS)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T003714Z" creationid="maabou" creationdate="20170507T003714Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt; ビルド環境におけるすべてのソースコード（プロプライエタリ、サード パーティ、FOSS）に対し定期的にソースコードスキャンや監査を実施する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -813,6 +861,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T094552Z" creationid="maabou" creationdate="20170503T094552Z">
         <seg>著作権表示（Copyright notice） &lt;t0/&gt;－その著作物の著作権保有者を社会に知らしめるべく、写し（copy）に掲載される識別子のこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright notices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T001723Z" creationid="maabou" creationdate="20170507T001723Z">
+        <seg>著作権表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -983,6 +1039,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T220914Z" creationid="maabou" creationdate="20170504T220914Z">
         <seg>ユースケースが異なれば法的効果も違ってきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discovery</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T233228Z" creationid="maabou" creationdate="20170506T233228Z">
+        <seg>発見のされ方</seg>
       </tuv>
     </tu>
     <tu>
@@ -1436,6 +1500,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T030641Z" creationid="maabou" creationdate="20170506T030641Z">
         <seg>履行されるFOSSの義務</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS source code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T001716Z" creationid="maabou" creationdate="20170507T001716Z">
+        <seg>FOSSソースコード</seg>
       </tuv>
     </tu>
     <tu>
@@ -1964,6 +2036,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this chapter, we will describe some common pitfalls to avoid in the FOSS compliance process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T232725Z" creationid="maabou" creationdate="20170506T232725Z">
+        <seg>本章ではFOSSコンプライアンスプロセスで避けるべき、共通的な落とし穴について説明していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this example, the FOSS review team may identify FOSS usage through review requests from engineers, from performing scans of internally-developed and third-party software, or reviewing code checked into development branches.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T093506Z" creationid="maabou" creationdate="20170506T093506Z">
@@ -2174,6 +2254,22 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intellectual Property (IP) pitfalls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T232544Z" creationid="maabou" creationdate="20170506T232544Z">
+        <seg>知的財産（IP）に関する落とし穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intellectual Property Pitfalls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T232750Z" creationid="maabou" creationdate="20170506T232750Z">
+        <seg>知的財産に関する落とし穴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intended use in your product</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T220816Z" creationid="maabou" creationdate="20170505T220816Z">
@@ -2346,6 +2442,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T063402Z" creationid="maabou" creationdate="20170503T063402Z">
         <seg>ライセンスの両立性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>License Compliance pitfalls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T232608Z" creationid="maabou" creationdate="20170506T232608Z">
+        <seg>ライセンスコンプライアンスに関する落とし穴</seg>
       </tuv>
     </tu>
     <tu>
@@ -2692,6 +2796,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T142025Z" creationid="maabou" creationdate="20170506T142025Z">
         <seg>添付ソースコードの提供義務が履行される</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offering training to engineering staff to bring awareness to compliance issues and to the different types and categories of FOSS licenses and the implications of including FOSS source code in proprietary source code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T003436Z" creationid="maabou" creationdate="20170507T003436Z">
+        <seg>エンジニアリングスタッフが、コンプライアンスの論点、各種FOSSライセンス、プロプライエタリ ソースコードに対するFOSSソースコードを内包した形での実装などを意識できるよう、トレーニングを提供する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3662,6 +3774,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;first &lt;t1/&gt;pitfall described in this slide arises where copyleft-style licensed FOSS is inadvertently mixed with proprietary code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T004037Z" creationid="maabou" creationdate="20170507T004037Z">
+        <seg> &lt;t0/&gt;&lt;t1/&gt;このスライドで挙げている最初の落とし穴として、コピーレフト型のライセンスのFOSSが気づかれずプロプライエタリのコードと混在してしまうことを説明しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose as long as its copyright notices and the license's disclaimers of warranty are maintained</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T020143Z" creationid="maabou" creationdate="20170502T020143Z">
@@ -4261,6 +4381,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This chapter will describe some potential pitfalls to avoid in the compliance process:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T232523Z" creationid="maabou" creationdate="20170506T232523Z">
+        <seg>本章は、コンプライアンス プロセスで回避したい、潜在的な落とし穴について説明していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This chapter will focus on copyright and patents, the areas most relevant to FOSS compliance</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170326T220210Z" creationid="maabou" creationdate="20170326T220011Z">
@@ -4307,6 +4435,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T131255Z" creationid="maabou" creationdate="20170503T130929Z">
         <seg>これは、1セットより多くのライセンス条項がソフトウェアに適用される状況です。&lt;t1/&gt;結合的（Conjunctive）&lt;t2/&gt; ＝ 複数のライセンスを適用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may be discovered through auditing source code for license notices or using code scanning tools.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T004226Z" creationid="maabou" creationdate="20170507T004222Z">
+        <seg>この状況はソースコードのライセンスの告知／通知／表示（notice）に対し監査や、コードスキャンツールの使用を通じて発見されることがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4632,6 +4768,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>This type of failure can be</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T002626Z" creationid="maabou" creationdate="20170506T235857Z">
+        <seg>この種の失敗は、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This type of failure occurs during the development process when engineers add (or cut and paste) FOSS code into source code that is proprietary (to you to you or to a third party) in conflict with your FOSS policies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T234902Z" creationid="maabou" creationdate="20170506T233707Z">
+        <seg>この種の失敗は開発プロセス中、エンジニアが（自社にとって、もしくはサード パーティにとって）プロプラエタリソースのコードにFOSSポリシーに合致しないFOSSコードを追加（もしくカット＆ペースト）するときに起こります。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:後半部分が何を意味しているかがいまいち読み取れず。ここで描かれている「ライセンス」の意味がUS法で意味するところと違っているということか？</note>
       <tuv lang="EN-US">
         <seg>This&lt;t0/&gt; slide explains what is a “license.” This is different to a contract under US law.</seg>
@@ -4721,6 +4873,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Type &amp; Description</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T233715Z" creationid="maabou" creationdate="20170506T233220Z">
+        <seg>種類と説明</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここでのtypeは「種別」とした。</note>
       <tuv lang="EN-US">
         <seg>Types of use allowed (distribution, derivative works / to make, have made, manufacture)</seg>
@@ -4751,6 +4911,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170503T132220Z" creationid="maabou" creationdate="20170503T132220Z">
         <seg>離接的なライセンスの下では、ライセンスを選択することができます。つまりGPLとよりパーミッシブなライセンスが選択肢にあった場合、どちらか&lt;t0/&gt; &lt;t1/&gt;をライセンスの&lt;t2/&gt; 両立性と &lt;t3/&gt;要求事項に依存してどちらのライセンスで頒布するか選択することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unplanned inclusion of copyleft FOSS into proprietary or 3rd party code:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170506T233642Z" creationid="maabou" creationdate="20170506T233642Z">
+        <seg>プロプライエタリ、もしくはサード パーティのコードへの意図していなかったコピーレフトOSSの内包</seg>
       </tuv>
     </tu>
     <tu>
@@ -5310,6 +5478,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>avoided by:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T002629Z" creationid="maabou" creationdate="20170507T002629Z">
+        <seg>以下の対策によって回避されることがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>code</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T032755Z" creationid="maabou" creationdate="20170506T032723Z">
@@ -5330,6 +5506,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T040455Z" creationid="maabou" creationdate="20170506T040455Z">
         <seg>コンプライアンス記録をレビューし、承認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>discovered by scanning or auditing the &lt;t0/&gt;source code for possible</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T001706Z" creationid="maabou" creationdate="20170507T001706Z">
+        <seg> &lt;t0/&gt;ソースコードをスキャンもしくは監査実施の結果、</seg>
       </tuv>
     </tu>
     <tu>
@@ -5375,6 +5559,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>matches with:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T001710Z" creationid="maabou" creationdate="20170507T001710Z">
+        <seg>以下と合致可能性があるものとして発見されることがあります：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>notices and provide written offer</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T040301Z" creationid="maabou" creationdate="20170506T040301Z">
@@ -5399,10 +5591,26 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>scanning tools may be used for</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T002108Z" creationid="maabou" creationdate="20170507T002059Z">
+        <seg>自動スキャンツールを</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>software/version</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T040135Z" creationid="maabou" creationdate="20170506T040135Z">
         <seg>ソフトウェア／版数（バージョン）を</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>this purpose</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T002110Z" creationid="maabou" creationdate="20170507T002110Z">
+        <seg>この目的で使用することができます。</seg>
       </tuv>
     </tu>
     <tu>
