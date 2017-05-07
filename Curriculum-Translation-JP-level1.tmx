@@ -365,6 +365,30 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example of IP failure would be commingling of proprietary code and open source code, which may result in making proprietary software available to general public despite company's preference.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T040309Z" creationid="maabou" creationdate="20170507T040232Z">
+        <seg>IPでの失敗についての例は、プロプライエタリコードとオープンソース コードの混合です。これは企業が望まない形でプロプライエタリ ソフトウェアを一般公開させる結果になりかねません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example of compliance process failure would be a failure in the process related to audit, review, or approving the open source software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T040735Z" creationid="maabou" creationdate="20170507T040735Z">
+        <seg>コンプライアンス プロセスでの失敗についての例として、オープンソース ソフトウェアの監査、レビュー、承認に関わるプロセスにおける失敗があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An example of license compliance failure would be a failure to mark an open source software after modification or to properly list the open source software components in the software or to make the complete and corresponding source code available.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T040632Z" creationid="maabou" creationdate="20170507T040302Z">
+        <seg>ライセンス コンプライアンスでの失敗についての例としては、オープンソース ソフトウェアの改変後にマークしていない、そのソフトウェアに含まれるオープンソース ソフトウェア コンポーネントを適切に記載していない、もしくはそのソフトウェアに対応する全てのソースコードを入手可能にしていない、といったものがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of this would be FFMpeg, which is a free software project that provides the codecs for encoding and decoding videos. However, you would still need a patent license to encode and decode a certain format.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170502T012118Z" creationid="maabou" creationdate="20170502T011443Z">
@@ -461,6 +485,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a company that uses FOSS in commercial product, it is best to create and maintain a good relationship with the FOSS community, in particular, the specific communities related to the FOSS projects you use and deploy in your commercial product.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T034229Z" creationid="maabou" creationdate="20170507T034229Z">
+        <seg>FOSSを商用製品に使用する企業として、FOSSコミュニティと良好な関係を創出し、維持することは非常によいことです。自身が使用し、商用製品にデプロイしているFOSSプロジェクトに関連する特定のコミュニティについては特にそうでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attribution and Notices. Inclusion of copyright and license text in the source code and/or product documentation or user interface, so that downstream users know the origin of the software and their rights under the licenses</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T085959Z" creationid="maabou" creationdate="20170504T085959Z">
@@ -505,6 +537,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T150251Z" creationid="maabou" creationdate="20170506T150156Z">
         <seg>ソースコードの監査－確認されたFOSSコンポーネントをライセンスと起源についてレビューします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Auditors "waived" all the red-flagged items in a report, or that the review and approval process takes too long.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T041301Z" creationid="maabou" creationdate="20170507T041100Z">
+        <seg>監査人はレポート中の全警告アイテムを「放棄した（Waived）」とか、レビューや承認プロセスに時間がかかりすぎたといったことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +762,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T000650Z" creationid="maabou" creationdate="20170505T000650Z">
         <seg>コミュニティ プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Companies must make compliance a priority before any product (in whatever form) ships</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T033459Z" creationid="maabou" creationdate="20170507T033459Z">
+        <seg>企業は（どのような形態であれ）製品が出荷される前にコンプライアンスを優先しなければなりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,6 +1343,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure Compliance Prior to Product Shipment</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T033217Z" creationid="maabou" creationdate="20170507T033217Z">
+        <seg>製品の出荷に先立ち、コンプライアンスを確かにする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ensure the software in the audit report conforms with FOSS policies</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T115216Z" creationid="maabou" creationdate="20170506T115018Z">
@@ -1315,6 +1371,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170507T025850Z" creationid="maabou" creationdate="20170507T025850Z">
         <seg>監査を反復開発プロセス（Iterative Development Process）でのマイルストーンと位置付ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Establishing Community Relationships</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T034015Z" creationid="maabou" creationdate="20170507T034015Z">
+        <seg>コミュニティとの関係を確立する</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,6 +2017,38 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Give an example of a license compliance failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035326Z" creationid="maabou" creationdate="20170507T035315Z">
+        <seg>ライセンス コンプライアンスでの失敗として例を一つ挙げてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give an example of an compliance process failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035357Z" creationid="maabou" creationdate="20170507T035357Z">
+        <seg>コンプライアンス プロセスでの失敗として例を一つ挙げてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give an example of an intellectual property failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035323Z" creationid="maabou" creationdate="20170507T035259Z">
+        <seg>知的財産での失敗として例を一つ挙げてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Good relationships with the software communities may also be helpful for two-way communication: upstreaming improvements and getting support from the software developers.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035209Z" creationid="maabou" creationdate="20170507T035209Z">
+        <seg>ソフトウェア コミュニティとのよい関係は双方向のコミュニケーションの意味で助け合いとなることもあります：（自分から）改良を提供することや、（コミュニティの）ソフトウェア開発者からのサポートを得ることもあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Guidance</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T011134Z" creationid="maabou" creationdate="20170506T011134Z">
@@ -2159,6 +2255,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T214830Z" creationid="maabou" creationdate="20170505T214823Z">
         <seg>以下のような問いが重要です：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, good relationships with FOSS organizations can be very helpful in advising on best way to be compliant and also help out if you experience a compliance issue.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T034829Z" creationid="maabou" creationdate="20170507T034829Z">
+        <seg>加えて、FOSS関連団体との良好な関係は適応するよい方法についての助言を得られる点などで、非常に助けになることがあります。また、コンプライアンス上の問題についても助けてくれるでしょう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,6 +2678,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can help you more effectively use FOSS in your development process, and also help maintain good working relationships within the FOSS community.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T033932Z" creationid="maabou" creationdate="20170507T033932Z">
+        <seg>そうすることで、開発プロセスにおけるFOSSの使用を効果的なものにすることを促進します。またFOSSコミュニティとの間でよい協働関係を維持することも促してくれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It confirms that all FOSS license obligations have been or will be met</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T025724Z" creationid="maabou" creationdate="20170506T025724Z">
@@ -2909,6 +3021,14 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T000546Z" creationid="maabou" creationdate="20170505T000546Z">
         <seg>素材を改変</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More effective use of FOSS within your organization</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T033604Z" creationid="maabou" creationdate="20170507T033539Z">
+        <seg>組織内でのFOSSの使用をより効果的にする</seg>
       </tuv>
     </tu>
     <tu>
@@ -3387,6 +3507,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>Pitfalls can occur under the following categories: IP failure, license compliance failure, and compliance process failure.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035934Z" creationid="maabou" creationdate="20170507T035929Z">
+        <seg>落とし穴は、次に大別されます： 知的財産（IP）における失敗 、ライセンスコンプライアンスでの失敗、コンプライアンス プロセスでの失敗</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>question</note>
       <tuv lang="EN-US">
         <seg>Please note that each chapter has “Check Your Understanding” slides with questions and answers in the slide notes.</seg>
@@ -3507,6 +3635,14 @@ https://kotobank.jp/word/%E6%85%A3%E8%A1%8C-469725#E6.97.A5.E6.9C.AC.E5.A4.A7.E7
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170507T022825Z" creationid="maabou" creationdate="20170507T022825Z">
         <seg>予防策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prioritizing compliance promotes:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T033520Z" creationid="maabou" creationdate="20170507T033520Z">
+        <seg>コンプライアンスを優先することは以下を促進します：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4259,6 +4395,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T132216Z" creationid="maabou" creationdate="20170506T132216Z">
         <seg>この承認では、承認対象のFOSSコンポーネントのバージョン、使用モデル、およびその他FOSSライセンス下での適切な義務などを明確にする必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The benefits of maintaining a good community relationship are that you can better assess how you can comply with the FOSS license requirements, and you have a better two-way communication with regard to contribution and use of the FOSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T042028Z" creationid="maabou" creationdate="20170507T041623Z">
+        <seg>コミュニティとの良好な関係を維持するメリットには、FOSSライセンスでの要求への対応方法をよりうまく評価できるようになること、FOSSの使用とコントリビューションについてよりよい双方向のコミュニケーションがもてること、といったことがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The benefits of prioritizing compliance are that you become more efficient in your use of FOSS, and that you build a better relationship with the open source community.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T041625Z" creationid="maabou" creationdate="20170507T041431Z">
+        <seg>コンプライアンスを優先させるメリットには、FOSSの使用をより効果的なものにできることや、 オープンソース コミュニティとより関係を構築できるといったことがあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5822,22 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What are the benefits of maintaining a good community relationship?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035453Z" creationid="maabou" creationdate="20170507T035453Z">
+        <seg>コミュニティとの良好な関係を維持するメリットにはどういったものがありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are the benefits of prioritizing compliance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035421Z" creationid="maabou" creationdate="20170507T035421Z">
+        <seg>コンプライアンスを優先することのメリットにはどういったものがありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What are two main goals of a FOSS Compliance Program?</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T125202Z" creationid="maabou" creationdate="20170504T125202Z">
@@ -5903,6 +6071,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>What types of pitfalls can occur in FOSS compliance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035235Z" creationid="maabou" creationdate="20170507T035235Z">
+        <seg>FOSSコンプライアンスではどのような種類の落とし穴がありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When analyzing FOSS usage, collect information about the identity of the FOSS component, its origin, and how the FOSS component will be used.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170505T220445Z" creationid="maabou" creationdate="20170505T220445Z">
@@ -5939,6 +6115,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170504T091505Z" creationid="maabou" creationdate="20170504T091505Z">
         <seg>改変を加えたかどうか</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While avoiding the pitfalls described in this chapter may take resources and effort, prioritizing the FOSS compliance process is important.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T033752Z" creationid="maabou" creationdate="20170507T033752Z">
+        <seg>本章で述べた落とし穴を避けることは、リソースと努力が必要になりますが、FOSSコンプライアンスプロセスを優先することは重要なことです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6004,6 +6188,14 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170506T021547Z" creationid="maabou" creationdate="20170506T021547Z">
         <seg>第三者がコントロールするFOSSライセンスの義務を履行するために合、著作権表示、帰属表示およびベンダーの改変に対応するソースコードを入手する必要があるかもしれません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your FOSS compliance process is a building block to establishing good working relationships within the FOSS community.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T035658Z" creationid="maabou" creationdate="20170507T035658Z">
+        <seg>FOSSコンプライアンスプロセスは、FOSSコミュニティとの協働関係を確立するための構成要素の一つと言えます。</seg>
       </tuv>
     </tu>
     <tu>

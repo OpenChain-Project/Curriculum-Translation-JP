@@ -212,3 +212,6 @@ take a position on	～に対する見解を示す
 build ～ into	～を…に組み込む、～を…にする
 consequences of	～がもたらす結果
 consequence	重要性、結果
+make ～　a priority	～を優先する
+building block	構成要素、基礎的要素
+commingling	混合、混入
