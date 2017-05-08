@@ -1,5 +1,6 @@
 # Curriculum-Translation-JP
 OpenChain Curriculum Japanese Translation using OmegaT
+
 本プロジェクトでは、The Linux Foundation(LF)が主催するオープンソース コンプライアンス推進プロジェクトOpenChainの主要英文資料を、日本で活動するLF参加企業の貢献者が日本語訳を作成します。翻訳資料を提供することで、日本のあらゆる企業・組織におけるオープンソース コンプライアンスの浸透と普及を目指しています。
 1.	プロジェクトへの参加
 ・　The Linux Foundation Japanに参加を申請、メーリングリストlfj-trans@lists.linuxfoundation.orgに登録してもらう。
