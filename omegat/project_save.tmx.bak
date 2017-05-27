@@ -4401,8 +4401,8 @@ www.pli.edu/emktg/toolbox/comm_opensrc3.doc </note>
       <tuv lang="EN-US">
         <seg>The benefits of maintaining a good community relationship are that you can better assess how you can comply with the FOSS license requirements, and you have a better two-way communication with regard to contribution and use of the FOSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170507T041623Z" creationid="maabou" creationdate="20170507T041623Z">
-        <seg>コミュニティとの良好な関係を維持するメリットは、どのようにFOSSライセンスでの要求を満足できるかをよりよく評価できること</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170507T042028Z" creationid="maabou" creationdate="20170507T041623Z">
+        <seg>コミュニティとの良好な関係を維持するメリットには、FOSSライセンスでの要求への対応方法をよりうまく評価できるようになること、FOSSの使用とコントリビューションについてよりよい双方向のコミュニケーションがもてること、といったことがあります。</seg>
       </tuv>
     </tu>
     <tu>

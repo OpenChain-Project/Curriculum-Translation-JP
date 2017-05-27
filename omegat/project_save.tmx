@@ -1506,8 +1506,9 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       <tuv lang="EN-US">
         <seg>FOSS Compliance Triggers: Modification</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170504T114231Z" creationid="maabou" creationdate="20170504T114231Z">
-        <seg>FOSSのコンプライスが発動されるトリガー：改変</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170515T234536Z" creationid="maabou" creationdate="20170504T114231Z">
+        <seg>
+FOSSのコンプライスが発動されるトリガー：改変</seg>
       </tuv>
     </tu>
     <tu>
@@ -2573,6 +2574,11 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       </tuv>
     </tu>
     <tu>
+      <note>
+
+
+
+</note>
       <tuv lang="EN-US">
         <seg>Initiating a FOSS Review</seg>
       </tuv>
