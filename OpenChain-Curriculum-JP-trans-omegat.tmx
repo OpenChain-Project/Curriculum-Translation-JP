@@ -300,8 +300,8 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       <tuv lang="EN-US">
         <seg>Adding source code modification marking as a verification step before releasing the source code</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170507T021801Z" creationid="maabou" creationdate="20170507T021729Z">
-        <seg>ソースコードリリース前の検証（Verification）ステップでソースコード改変のマークを付記する</seg>
+      <tuv lang="JA" changeid="0000011038279" changedate="20170510T031546Z" creationid="maabou" creationdate="20170507T021729Z">
+        <seg>ソースコードリリース前の検証（Verification）ステップでソースコード改変のマークを付記します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,8 +1353,8 @@ http://www.opensource.jp/gpl/gpl.ja.html</note>
       <tuv lang="EN-US">
         <seg>Ensure Compliance Prior to Product Shipment</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170507T033217Z" creationid="maabou" creationdate="20170507T033217Z">
-        <seg>製品の出荷に先立ち、コンプライアンスを確かにする</seg>
+      <tuv lang="JA" changeid="0000011038279" changedate="20170510T031556Z" creationid="maabou" creationdate="20170507T033217Z">
+        <seg>製品出荷に先立ち、コンプライアンスを確かにする</seg>
       </tuv>
     </tu>
     <tu>
