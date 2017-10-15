@@ -42,7 +42,7 @@ Wordファイル（.docxフォーマット）もしくはPDFファイルを格�
 in which there are MS Powerpoint file(.pptx) and PDF file. The version in file
 name corresponds to original documents on the official OpenChain site.
 
-###3.2.ファイル構成（Files）
+### 3.2.ファイル構成（Files）
 
 
 ・「**RELEASE**」フォルダ：前述のとおりです。翻訳版はこちらから入手ください。
