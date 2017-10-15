@@ -71,7 +71,7 @@ translation memory tool called “OmegaT”.These folders and files are
 relevant to this tool. Basically you don’t need to care about these , it
 may be useful for you to know following　(1)-(3).
 
-・(1)「**glossary**」：用語集です。同じくOmega-Tでの翻訳作業において使用した用語が登録されています。基本的にOmega-Tで用いますが、通常のテキストエディタなどでも閲覧できます。以下のように用語が登録されています
+- (1)「**glossary**」：用語集です。同じくOmega-Tでの翻訳作業において使用した用語が登録されています。基本的にOmega-Tで用いますが、通常のテキストエディタなどでも閲覧できます。以下のように用語が登録されています
 
 > *用語1 (tab) 意味1 (tab) コメント1*
 >
