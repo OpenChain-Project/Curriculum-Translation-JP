@@ -110,6 +110,6 @@ depends on OmegaT’s functionality)
  翻訳作業はThe Linux Foundation JapanのLF-J Transチームで実施しています。he Linux Foundationで公開される各種オープンソース、オープンコラボレーションに関する文献の翻訳作業に取り組むことと併せ、日本発の「Collaborative Translation」をめざし、その実現のための各種プロセスについても議論しています。
 
  こういった活動へ関心があり、参加を希望される場合は以下メーリングアドレスまでご連絡ください。
- LF-J Translation ML「[*lfj-trans@lists.linuxfoundation.org*](mailto:lfj-trans@lists.linuxfoundation.org)」
+ LF-J Translation ML「lfj-trans At lists.linuxfoundation.org」
 
 
