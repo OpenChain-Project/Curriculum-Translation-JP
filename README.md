@@ -36,7 +36,7 @@ text shall take precedence.
 
 
 ・日本語翻訳版の取得・閲覧は「**RELEASE**」フォルダからお願いします。本フォルダにはMS
-Wordファイル（.docxフォーマット）もしくはPDFファイルを格納してあります。版数は公式サイトの版数と対応します。
+Powerpintファイル（.pptxフォーマット）もしくはPDFファイルを格納してあります。版数は公式サイトの版数と対応します。
 
 ・You can get/see Japanese Translation version from “**RELEASE”** Folder
 in which there are MS Powerpoint file(.pptx) and PDF file. The version in file
@@ -96,9 +96,9 @@ glossary file is as follows;
 This is basically OpenChain Specification original document published on
 official site.
 
-- 「(3)**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
+- (3)「**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
 
-- ”(3)**target**” folder: Translated document of “source” file is stored.
+- (3)”**target**” folder: Translated document of “source” file is stored.
 Please note that the file name is all the same as “source” file. ( This
 depends on OmegaT’s functionality)
 
