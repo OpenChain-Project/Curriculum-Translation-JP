@@ -3,7 +3,7 @@ OpenChain Curriculum 日本語翻訳版
 OpenChain Japanese Translation
 
 本レポジトリは、The Linux Foundation
-のコラボレーティブプロジェクトである、OpenChainプロジェクト（http://openchain-project.org）の公式文書の一つである、「OpenChain
+のコラボレーティブプロジェクトである、OpenChainプロジェクト（[*http://openchain-project.org*]http://openchain-project.org）の公式文書の一つである、「OpenChain
 Curriculum」の公式日本語翻訳のためのサイトです。翻訳版取得・閲覧については、
 
 ライセンスおよび著作権(License and Copyright)
@@ -14,7 +14,7 @@ Curriculum」の公式日本語翻訳のためのサイトです。翻訳版取�
 1.0」の下でライセンスされます。CC0-universal 1.0;
 [*http://creativecommons.org/publicdomain/zero/1.0/legalcode*](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
-・Copyright c 2016 The Linux Foundation. The specification is licensed
+・Copyright © 2016 The Linux Foundation. The specification is licensed
 under the Creative Commons CC0-universal 1.0 (CC-BY-4.0). A copy of the
 license can be obtained here: CC-BY-4.0;
 [*http://creativecommons.org/publicdomain/zero/1.0/legalcode*](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
