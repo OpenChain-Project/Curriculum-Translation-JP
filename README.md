@@ -71,34 +71,34 @@ translation memory tool called “OmegaT”.These folders and files are
 relevant to this tool. Basically you don’t need to care about these , it
 may be useful for you to know following　(1)-(3).
 
-・「(1)**glossary**」：用語集です。同じくOmega-Tでの翻訳作業において使用した用語が登録されています。基本的にOmega-Tで用いますが、通常のテキストエディタなどでも閲覧できます。以下のように用語が登録されています
+・(1)「**glossary**」：用語集です。同じくOmega-Tでの翻訳作業において使用した用語が登録されています。基本的にOmega-Tで用いますが、通常のテキストエディタなどでも閲覧できます。以下のように用語が登録されています
 
-> *用語1 &lt;tab&gt; 意味1 &lt;tab&gt; コメント1*
+> *用語1 (tab) 意味1 (tab) コメント1*
 >
-> *用語2 &lt;tab&gt; 意味2 &lt;tab&gt; コメント2*
+> *用語2 (tab) 意味2 (tab)コメント2*
 >
 > *：*
 
-・”(1)**glossary**” folder: Glossary file used in OmegaT is stored.
+- (1)”**glossary**” folder: Glossary file used in OmegaT is stored.
 Translators refer/register terms through their translation. This is a
 text file so that you can see by text editor and so on. Content of the
 glossary file is as follows;
 
-> *Term 1 &lt;tab&gt; Meaning1 &lt;tab&gt; Comment1*
+> *Term 1  (tab) Meaning1 (tab) Comment1*
 >
-> *Term2 &lt;tab&gt; Meaning2 &lt;tab&gt; Comment2*
+> *Term2  (tab)  Meaning2  (tab) Comment2*
 >
 > *:*
 
-・「(2)**source**」フォルダ：翻訳対象となる原文が格納されています。つまり公式サイトで公開されているファイルなどであり、ここにあるファイルがOmegaT上の翻訳対象となります。
+- (2)「**source**」フォルダ：翻訳対象となる原文が格納されています。つまり公式サイトで公開されているファイルなどであり、ここにあるファイルがOmegaT上の翻訳対象となります。
 
-・”(2)**source**” folder: Original document to be translated is stored.
+- (2)”**source**” folder: Original document to be translated is stored.
 This is basically OpenChain Specification original document published on
 official site.
 
-・「(3)**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
+- 「(3)**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
 
-・”(3)**target**” folder: Translated document of “source” file is stored.
+- ”(3)**target**” folder: Translated document of “source” file is stored.
 Please note that the file name is all the same as “source” file. ( This
 depends on OmegaT’s functionality)
 
