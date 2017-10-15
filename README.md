@@ -39,8 +39,8 @@ text shall take precedence.
 Wordファイル（.docxフォーマット）もしくはPDFファイルを格納してあります。版数は公式サイトの版数と対応します。
 
 ・You can get/see Japanese Translation version from “**RELEASE”** Folder
-in which there are MS word file(.docx) and PDF file. The version in file
-name corresponds to original document on OpenChain official site.
+in which there are MS Powerpoint file(.pptx) and PDF file. The version in file
+name corresponds to original documents on the official OpenChain site.
 
 ###3.2.ファイル構成（Files）
 
