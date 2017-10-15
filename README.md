@@ -1,5 +1,5 @@
 OpenChain Curriculum 日本語翻訳版
-
+=================================
 OpenChain Japanese Translation
 
 本レポジトリは、The Linux Foundation
@@ -7,7 +7,7 @@ OpenChain Japanese Translation
 Curriculum」の公式日本語翻訳のためのサイトです。翻訳版取得・閲覧については、
 
 ライセンスおよび著作権(License and Copyright)
-=============================================
+---------------------------------------------
 
 ・OpenChain Curriculumは著作権者The Linux Foundationよりクリエイティブ
 コモンズ ライセンス「Creative Commons CC0-universal
