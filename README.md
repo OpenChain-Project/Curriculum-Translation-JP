@@ -20,7 +20,7 @@ under the [Creative Commons CC0-universal 1.0 (CC0-1.0)](http://creativecommons.
 
 
 ・本文書は、The Linux Foundation におけるOpenChain
-プロジェクトの英文ドキュメント「 OpenChain Curriculum Release 2
+プロジェクトの英文ドキュメント「 OpenChain Curriculum
 」の公式翻訳版となります。ただし、翻訳版と英語版との間で何らかの意味の違いがある場合には、英語版が優先されます。また、OpenChain
 は世界のメンバー企業が参加しているプロジェクトですが、資料の細部について必ずしも各国の法令に対応していない可能性があります。本翻訳版を日本で活用する際には、各企業の法務部門を加えた検討が不可欠です。
 
