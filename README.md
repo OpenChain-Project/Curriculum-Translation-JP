@@ -15,7 +15,7 @@ This repository is a work place to translate[OpenChain Curriculum](https://www.o
 
 
 ・Copyright c 2016 The Linux Foundation. The specification is licensed
-under the [Creative Commons CC0-universal 1.0 (CC-BY-4.0)](http://creativecommons.org/publicdomain/zero/1.0/legalcode). 
+under the [Creative Commons CC0-universal 1.0 (CC0-1.0)](http://creativecommons.org/publicdomain/zero/1.0/legalcode). 
 ## 2.免責事項（Disclaimer）
 
 
