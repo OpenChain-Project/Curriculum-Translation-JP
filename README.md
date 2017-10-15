@@ -108,14 +108,10 @@ depends on OmegaT’s functionality)
 ## 4.  翻訳参加希望者、翻訳担当者へ(For Translators/Applicants:Japanese only)
 
 
-## 5.  翻訳プロジェクトへ参加を希望される方へ
+### 4.1.  翻訳プロジェクトへ参加を希望される方へ
 
-> 翻訳作業はThe Linux Foundation JapanのLF-J
-> Transチームで実施しています。日本発の「Collaborative
-> Translation」をめざし各種ツールを駆使し翻訳プロセスを議論しながらオープンソース関連の翻訳作業に取り組んでいます。
->
-> 随時翻訳プロジェクト参加者を募集しておりますので、参加希望の方は以下メーリングアドレスまでご連絡ください。
->
-> LF-J Translation
-> ML「[*lfj-trans@lists.linuxfoundation.org*](mailto:lfj-trans@lists.linuxfoundation.org)」
+ 翻訳作業はThe Linux Foundation JapanのLF-J Transチームで実施しています。日本発の「Collaborative Translation」をめざし各種ツールを駆使し翻訳プロセスを議論しながらオープンソース関連の翻訳作業に取り組んでいます。
+
+ 随時翻訳プロジェクト参加者を募集しておりますので、参加希望の方は以下メーリングアドレスまでご連絡ください。
+ LF-J Translation ML「[*lfj-trans@lists.linuxfoundation.org*](mailto:lfj-trans@lists.linuxfoundation.org)」
 
