@@ -3,22 +3,19 @@
 
 
 本レポジトリは、The Linux Foundation
-本レポジトリは、The Linux Foundation のコラボレーティブプロジェクトである、[OpenChainプロジェクト](http://openchain-project.org)の公式文書の一つである、「OpenChain Curriculum」の公式日本語翻訳活動のためのサイトです。翻訳版取得・閲覧およびThe Linux Foundationを主としたオープンソース関連の翻訳については、以下をご確認ください。
+本レポジトリは、The Linux Foundation のコラボレーティブプロジェクトである、[OpenChainプロジェクト](http://openchainproject.org)の公式文書の一つである、「OpenChain Curriculum」の公式日本語翻訳活動のためのサイトです。翻訳版取得・閲覧およびThe Linux Foundationを主としたオープンソース関連の翻訳については、以下をご確認ください。
 
-This repository is a work place to translate [Open Chain Project](http://openchain-project.org)'s official documents into Japanese. OpenChain is a project hosted as The Linux Foundation’s collaborative project. Please see below about details.
+This repository is a work place to translate [Open Chain Project](http://openchainproject.org)'s official documents into Japanese. OpenChain is a project hosted as The Linux Foundation’s collaborative project. Please see below about details.
 
 ## 1.ライセンスおよび著作権(License and Copyright)
 
 
-・OpenChain Curriculumは著作権者The Linux Foundationよりクリエイティブコモンズ ライセンス「Creative Commons CC0-universal
-1.0」の下でライセンスされます。CC0-universal 1.0;
-[*http://creativecommons.org/publicdomain/zero/1.0/legalcode*](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
+・OpenChain Curriculumは著作権者The Linux Foundationよりクリエイティブコモンズ ライセンス「[Creative Commons CC0-universal
+1.0(CC0-universal 1.0)](http://creativecommons.org/publicdomain/zero/1.0/legalcode)」の下でライセンスされます。
+
 
 ・Copyright c 2016 The Linux Foundation. The specification is licensed
-under the Creative Commons CC0-universal 1.0 (CC-BY-4.0). A copy of the
-license can be obtained here: CC-BY-4.0;
-[*http://creativecommons.org/publicdomain/zero/1.0/legalcode*](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
-
+under the [Creative Commons CC0-universal 1.0 (CC-BY-4.0)](http://creativecommons.org/publicdomain/zero/1.0/legalcode). 
 ## 2.免責事項（Disclaimer）
 
 
