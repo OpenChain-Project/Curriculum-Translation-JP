@@ -34,9 +34,9 @@ confusion between a translation and the English version, The English
 text shall take precedence.
 
 3.  翻訳版取得・閲覧の方へ（For Readers: Japanese and English）
----------------------
+--------------------------------------------------------------
 
-3.1.  翻訳版入手先（How To Get Translation Version）
+###3.1.  翻訳版入手先（How To Get Translation Version）
 
 
 ・日本語翻訳版の取得・閲覧は「**RELEASE**」フォルダからお願いします。本フォルダにはMS
@@ -46,7 +46,7 @@ Wordファイル（.docxフォーマット）もしくはPDFファイルを格�
 in which there are MS word file(.docx) and PDF file. The version in file
 name corresponds to original document on OpenChain official site.
 
-3.2.ファイル構成（Files）
+###3.2.ファイル構成（Files）
 
 
 ・「**RELEASE**」フォルダ：前述のとおりです。翻訳版はこちらから入手ください。
@@ -107,10 +107,10 @@ Please note that the file name is all the same as “source” file. ( This
 depends on OmegaT’s functionality)
 
 4.  翻訳参加希望者、翻訳担当者へ(For Translators/Applicants:Japanese only)
---------------------------------------
+-------------------------------------------------------------------------
 
 5.  翻訳プロジェクトへ参加を希望される方へ
- --------------------------------------
+ -----------------------------------------
 
 > 翻訳作業はThe Linux Foundation JapanのLF-J
 > Transチームで実施しています。日本発の「Collaborative
