@@ -64,14 +64,14 @@ review. So you don’t need to care.
 ・”**git**” files: These files are relevant to Github use for
 translators. You don’t need to care.
 
-・「**omegat**」と記載のある各種フォルダ・ファイル：本翻訳版作成にあたっては、オープンソースのOmegaTという翻訳メモリツールを用いています。翻訳プロセスの価値これらのファイルが出力する「omegat」という名称のつくファイルやフォルダが多くあります。多くのファイルは閲覧する意義はありませんが、以下の2つ
+・「**omegat**」と記載のある各種フォルダ・ファイル：本翻訳版作成にあたっては、オープンソースのOmegaTという翻訳メモリツールを用いています。翻訳プロセスの価値これらのファイルが出力する「omegat」という名称のつくファイルやフォルダが多くあります。多くのファイルは閲覧する意義はありませんが、以下(1)～(3)については有益かもしれません。
 
 ・”**omegat**” folders or files: Our translation team use open source
 translation memory tool called “OmegaT”.These folders and files are
 relevant to this tool. Basically you don’t need to care about these , it
-may be useful for you to know followings.
+may be useful for you to know following　(1)-(3).
 
-・「**glossary**」：用語集です。同じくOmega-Tでの翻訳作業において使用した用語が登録されています。基本的にOmega-Tで用いますが、通常のテキストエディタなどでも閲覧できます。以下のように用語が登録されています
+・「(1)**glossary**」：用語集です。同じくOmega-Tでの翻訳作業において使用した用語が登録されています。基本的にOmega-Tで用いますが、通常のテキストエディタなどでも閲覧できます。以下のように用語が登録されています
 
 > *用語1 &lt;tab&gt; 意味1 &lt;tab&gt; コメント1*
 >
@@ -79,7 +79,7 @@ may be useful for you to know followings.
 >
 > *：*
 
-・”**glossary**” folder: Glossary file used in OmegaT is stored.
+・”(1)**glossary**” folder: Glossary file used in OmegaT is stored.
 Translators refer/register terms through their translation. This is a
 text file so that you can see by text editor and so on. Content of the
 glossary file is as follows;
@@ -90,15 +90,15 @@ glossary file is as follows;
 >
 > *:*
 
-・「**source**」フォルダ：翻訳対象となる原文が格納されています。つまり公式サイトで公開されているファイルなどであり、ここにあるファイルがOmegaT上の翻訳対象となります。
+・「(2)**source**」フォルダ：翻訳対象となる原文が格納されています。つまり公式サイトで公開されているファイルなどであり、ここにあるファイルがOmegaT上の翻訳対象となります。
 
-・”**source**” folder: Original document to be translated is stored.
+・”(2)**source**” folder: Original document to be translated is stored.
 This is basically OpenChain Specification original document published on
 official site.
 
-・「**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
+・「(3)**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
 
-・”**target**” folder: Translated document of “source” file is stored.
+・”(3)**target**” folder: Translated document of “source” file is stored.
 Please note that the file name is all the same as “source” file. ( This
 depends on OmegaT’s functionality)
 
