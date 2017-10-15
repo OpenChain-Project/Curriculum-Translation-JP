@@ -1,10 +1,11 @@
-OpenChain Curriculum 日本語翻訳版
+ Curriculum 日本語翻訳版(OpenChain Curriculum Japanese Translation)
 =================================
-OpenChain Japanese Translation
+
 
 本レポジトリは、The Linux Foundation
 のコラボレーティブプロジェクトである、OpenChainプロジェクト[*http://openchain-project.org*](http://openchain-project.org）の公式文書の一つである、「OpenChain
-Curriculum」の公式日本語翻訳のためのサイトです。翻訳版取得・閲覧については、
+
+This repository is a work place to translate Open Chain Project(http://openchain-project.org)’s official documents into Japanese. OpenChain is a project hosted as The Linux Foundation’s collaborative projects. Please see below about details.
 
 ライセンスおよび著作権(License and Copyright)
 ---------------------------------------------
