@@ -1,11 +1,11 @@
-# Curriculum 日本語翻訳版(OpenChain Curriculum Japanese Translation)
+# OpenChain Curriculum 日本語翻訳版 ( OpenChain Curriculum Japanese Translation )
 
 
 
 本レポジトリは、The Linux Foundation
-本レポジトリは、The Linux Foundation のコラボレーティブプロジェクトである、OpenChainプロジェクト（http://openchain-project.org）の公式文書の一つである、「OpenChain Curriculum」の公式日本語翻訳活動のためのサイトです。翻訳版取得・閲覧およびThe Linux Foundationを主としたオープンソース関連の翻訳については、以下をご確認ください。
+本レポジトリは、The Linux Foundation のコラボレーティブプロジェクトである、[OpenChainプロジェクト](http://openchain-project.org)の公式文書の一つである、「OpenChain Curriculum」の公式日本語翻訳活動のためのサイトです。翻訳版取得・閲覧およびThe Linux Foundationを主としたオープンソース関連の翻訳については、以下をご確認ください。
 
-This repository is a work place to translate Open Chain Project's (http://openchain-project.org )official documents into Japanese. OpenChain is a project hosted as The Linux Foundation’s collaborative project. Please see below about details.
+This repository is a work place to translate [Open Chain Project](http://openchain-project.org)'s official documents into Japanese. OpenChain is a project hosted as The Linux Foundation’s collaborative project. Please see below about details.
 
 ## 1.ライセンスおよび著作権(License and Copyright)
 
@@ -14,7 +14,7 @@ This repository is a work place to translate Open Chain Project's (http://opench
 1.0」の下でライセンスされます。CC0-universal 1.0;
 [*http://creativecommons.org/publicdomain/zero/1.0/legalcode*](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
-・Copyright © 2016 The Linux Foundation. The specification is licensed
+・Copyright c 2016 The Linux Foundation. The specification is licensed
 under the Creative Commons CC0-universal 1.0 (CC-BY-4.0). A copy of the
 license can be obtained here: CC-BY-4.0;
 [*http://creativecommons.org/publicdomain/zero/1.0/legalcode*](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
@@ -114,4 +114,5 @@ depends on OmegaT’s functionality)
 
  随時翻訳プロジェクト参加者を募集しておりますので、参加希望の方は以下メーリングアドレスまでご連絡ください。
  LF-J Translation ML「[*lfj-trans@lists.linuxfoundation.org*](mailto:lfj-trans@lists.linuxfoundation.org)」
+
 
