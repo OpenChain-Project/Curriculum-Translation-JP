@@ -1,4 +1,4 @@
-# Curriculum 日本語翻訳版(OpenChain Curriculum Japanese Translation)h
+# Curriculum 日本語翻訳版(OpenChain Curriculum Japanese Translation)
 
 
 
@@ -7,7 +7,7 @@
 
 This repository is a work place to translate Open Chain Project's (http://openchain-project.org )official documents into Japanese. OpenChain is a project hosted as The Linux Foundation’s collaborative project. Please see below about details.
 
-##1.ライセンスおよび著作権(License and Copyright)
+## 1.ライセンスおよび著作権(License and Copyright)
 
 
 ・OpenChain Curriculumは著作権者The Linux Foundationよりクリエイティブコモンズ ライセンス「Creative Commons CC0-universal
@@ -19,7 +19,7 @@ under the Creative Commons CC0-universal 1.0 (CC-BY-4.0). A copy of the
 license can be obtained here: CC-BY-4.0;
 [*http://creativecommons.org/publicdomain/zero/1.0/legalcode*](http://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
-##2.免責事項（Disclaimer）
+## 2.免責事項（Disclaimer）
 
 
 ・本文書は、The Linux Foundation におけるOpenChain
@@ -32,10 +32,10 @@ been translated from the original English text. In the event there is
 confusion between a translation and the English version, The English
 text shall take precedence.
 
-##3.  翻訳版取得・閲覧の方へ（For Readers: Japanese and English）
+## 3.  翻訳版取得・閲覧の方へ（For Readers: Japanese and English）
 
 
-###3.1.  翻訳版入手先（How To Get Translation Version）
+### 3.1.  翻訳版入手先（How To Get Translation Version）
 
 
 ・日本語翻訳版の取得・閲覧は「**RELEASE**」フォルダからお願いします。本フォルダにはMS
@@ -105,10 +105,10 @@ official site.
 Please note that the file name is all the same as “source” file. ( This
 depends on OmegaT’s functionality)
 
-##4.  翻訳参加希望者、翻訳担当者へ(For Translators/Applicants:Japanese only)
+## 4.  翻訳参加希望者、翻訳担当者へ(For Translators/Applicants:Japanese only)
 
 
-##5.  翻訳プロジェクトへ参加を希望される方へ
+## 5.  翻訳プロジェクトへ参加を希望される方へ
 
 > 翻訳作業はThe Linux Foundation JapanのLF-J
 > Transチームで実施しています。日本発の「Collaborative
