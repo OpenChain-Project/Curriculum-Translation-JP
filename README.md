@@ -2,7 +2,6 @@
 
 
 
-本レポジトリは、The Linux Foundation
 本レポジトリは、The Linux Foundation のコラボレーティブプロジェクトである、[OpenChainプロジェクト](http://openchainproject.org)の公式文書の一つである、「[OpenChain Curriculum](https://www.openchainproject.org/curriculum)」の公式日本語翻訳活動のためのサイトです。翻訳版取得・閲覧およびThe Linux Foundationを主としたオープンソース関連の翻訳については、以下をご確認ください。
 
 This repository is a work place to translate [OpenChain Curriculum](https://www.openchainproject.org/curriculum) which is one of [Open Chain Project](http://openchainproject.org)'s official documents into Japanese. OpenChain is a project hosted as The Linux Foundation’s collaborative project. Please see below about details.
